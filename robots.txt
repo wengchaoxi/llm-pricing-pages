@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /en/
+Allow: /zh/
+Allow: /es/
+Allow: /fr/
+Allow: /de/
+Allow: /ja/
+Allow: /ru/
+Allow: /ko/
+Disallow: 
+
+Sitemap: http://localhost:3000/sitemap_index.xml
