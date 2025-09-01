@@ -10,4 +10,4 @@ Allow: /ru/
 Allow: /ko/
 Disallow: 
 
-Sitemap: http://localhost:3000/sitemap_index.xml
+Sitemap: https://llmpricing.dev/sitemap_index.xml
