@@ -1,0 +1,139 @@
+# LLM Pricing Comparison
+
+> A regularly updated comparison of pricing, context length, and capabilities for 91+ large language model APIs from OpenAI, Anthropic, Google, DeepSeek, xAI, Alibaba. All prices are in USD per 1 million tokens.
+
+Source: https://llmpricing.dev
+Last updated: 2026-07-19
+
+## OpenAI
+
+Pricing source: https://platform.openai.com/docs/pricing
+
+| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
+| --- | --- | --- | --- | --- |
+| text-embedding-3-small | $0.02 | - | 8K | text, embedding |
+| text-embedding-3-large | $0.13 | - | 8K | text, embedding |
+| text-embedding-ada-002 | $0.1 | - | 8K | text, embedding |
+| gpt-5.6-sol | $5 | $30 | 400K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| gpt-5.6-terra | $2.5 | $15 | 400K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| gpt-5.6-luna | $1 | $6 | 400K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| gpt-5.5 | $5 | $30 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5.5-pro | $30 | $180 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5.4 | $2.5 | $15 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5.4-pro | $30 | $180 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5.4-mini | $0.75 | $4.5 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5.4-nano | $0.2 | $1.25 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5-pro | $15 | $120 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5 | $1.25 | $10 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5-mini | $0.25 | $2 | 200K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5-nano | $0.05 | $0.4 | 128K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5-chat-latest | $1.25 | $10 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5-codex | $1.25 | $10 | 400K | coder, json-output, function-calling |
+| gpt-5.1 | $1.25 | $10 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5.1-codex | $1.25 | $10 | 400K | coder, json-output, function-calling, image-input, multimodal |
+| gpt-5.1-codex-max | $1.25 | $10 | 400K | coder, json-output, function-calling, image-input, multimodal |
+| gpt-5.2 | $1.75 | $14 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5.2-codex | $1.75 | $14 | 400K | coder, text, json-output, function-calling, image-input, multimodal |
+| gpt-5.3-codex | $1.75 | $14 | 400K | coder, text, json-output, function-calling, image-input, multimodal |
+| gpt-5.2-pro | $21 | $168 | 400K | text, json-output, function-calling, image-input, multimodal |
+| gpt-5.1-codex-mini | $0.25 | $2 | 400K | coder, json-output, function-calling, image-input, multimodal |
+| gpt-4.1 | $2 | $8 | 1.0M | text, json-output, function-calling, image-input, multimodal |
+| gpt-4.1-mini | $0.4 | $1.6 | 1.0M | text, json-output, function-calling, image-input, multimodal |
+| gpt-4.1-nano | $0.1 | $0.4 | 1.0M | text, json-output, function-calling, image-input, multimodal |
+| gpt-4o | $2.5 | $10 | 128K | text, json-output, function-calling, image-input, multimodal |
+| gpt-4o-mini | $0.15 | $0.6 | 128K | text, json-output, function-calling, image-input, multimodal |
+| o1-mini | $1.1 | $4.4 | 128K | text, reasoning, image-input, multimodal |
+| o1 | $15 | $60 | 128K | text, reasoning, image-input, multimodal |
+| o1-pro | $150 | $600 | 128K | text, reasoning, image-input, multimodal |
+| o3-mini | $1.1 | $4.4 | 200K | text, reasoning, image-input, multimodal |
+| o3 | $2 | $8 | 200K | text, reasoning, image-input, multimodal |
+| o3-pro | $20 | $80 | 200K | text, reasoning, image-input |
+| o3-deep-research | $10 | $40 | 200K | text, reasoning, research, image-input, multimodal |
+| o4-mini | $1.1 | $4.4 | 256K | text, reasoning, image-input, multimodal |
+| o4-mini-deep-research | $2 | $8 | 256K | text, reasoning, research, image-input, multimodal |
+
+## Anthropic
+
+Pricing source: https://www.anthropic.com/pricing#api
+
+| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
+| --- | --- | --- | --- | --- |
+| claude-opus-4-8 | $5 | $25 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| claude-sonnet-5 | $2.5 | $12.5 | 1.0M | text, json-output, function-calling, reasoning, image-input, multimodal |
+| claude-opus-4-7 | $5 | $25 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| claude-opus-4-6 | $5 | $25 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| claude-opus-4-5-20251101 | $5 | $25 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| claude-sonnet-4-6 | $3 | $15 | 1.0M | text, json-output, function-calling, image-input, multimodal |
+| claude-sonnet-4-5-20250929 | $3 | $15 | 1.0M | text, json-output, function-calling, image-input, multimodal |
+| claude-haiku-4-5-20251001 | $1 | $5 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| claude-opus-4-1-20250805 | $15 | $75 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
+| claude-sonnet-4-20250514 | $3 | $15 | 1.0M | text, json-output, function-calling, image-input, multimodal |
+| claude-opus-4-20250514 | $15 | $75 | 1.0M | text, json-output, function-calling, image-input, multimodal |
+| claude-sonnet-3.7-20241022 | $3 | $15 | 200K | text, json-output, function-calling, image-input, multimodal |
+| claude-opus-3-20240229 | $15 | $75 | 200K | text, json-output, function-calling, image-input, multimodal |
+| claude-haiku-3-20240307 | $0.25 | $1.25 | 200K | text, json-output, function-calling |
+
+## Google
+
+Pricing source: https://ai.google.dev/gemini-api/docs/pricing
+
+| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
+| --- | --- | --- | --- | --- |
+| gemini-embedding-001 | $0 | - | 2K | text, embedding |
+| gemini-3.5-flash | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
+| gemini-3.1-flash-lite | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
+| gemini-3.1-pro-preview | $2 | $12 | 1.0M | text, json-output, function-calling, pdf-input, image-input, audio-input, video-input, multimodal |
+| gemini-3-pro-preview | $2 | $12 | 1.0M | text, json-output, function-calling, pdf-input, image-input, audio-input, video-input, multimodal |
+| gemini-3-flash-preview | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
+| gemini-2.5-pro | $0 | $0 | 1.0M | text, json-output, function-calling, pdf-input, image-input, audio-input, video-input, multimodal |
+| gemini-2.5-flash | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
+| gemini-2.5-flash-lite | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
+
+## DeepSeek
+
+Pricing source: https://api-docs.deepseek.com/quick_start/pricing/
+
+| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
+| --- | --- | --- | --- | --- |
+| deepseek-v4-flash | $0.14 | $0.28 | 1.0M | text, json-output, function-calling, reasoning |
+| deepseek-v4-pro | $0.435 | $0.87 | 1.0M | text, json-output, function-calling, reasoning |
+| deepseek-chat | $0.28 | $0.42 | 128K | text, json-output, function-calling |
+| deepseek-reasoner | $0.28 | $0.42 | 128K | text, json-output, reasoning |
+
+## xAI
+
+Pricing source: https://docs.x.ai/docs/models
+
+| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
+| --- | --- | --- | --- | --- |
+| grok-4.5 | $2 | $6 | 500K | text, json-output, reasoning, function-calling, image-input |
+| grok-3 | $3 | $15 | 131K | text, json-output, function-calling |
+| grok-3-mini | $0.3 | $0.5 | 131K | text, json-output, function-calling |
+| grok-4-0709 | $3 | $15 | 256K | text, json-output, reasoning, function-calling, image-input |
+| grok-4-fast-reasoning | $0.2 | $0.05 | 2.0M | text, json-output, reasoning, function-calling, image-input |
+| grok-4-fast-non-reasoning | $0.2 | $0.05 | 2.0M | text, json-output, function-calling, image-input |
+| grok-4-1-fast-reasoning | $0.2 | $0.05 | 2.0M | text, json-output, reasoning, function-calling, image-input |
+| grok-4-1-fast-non-reasoning | $0.2 | $0.05 | 2.0M | text, json-output, function-calling, image-input |
+| grok-code-fast-1 | $0.2 | $0.02 | 256K | coder, json-output, reasoning, function-calling |
+
+## Alibaba
+
+Pricing source: https://help.aliyun.com/model-studio/models
+
+| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
+| --- | --- | --- | --- | --- |
+| qwen3-coder-flash | $0.14285714285714285 | $0.5714285714285714 | 1.0M | coder |
+| qwen3-coder-plus | $0.5714285714285714 | $2.2857142857142856 | 1.0M | coder |
+| qwen-max | $0.34285714285714286 | $1.3714285714285714 | 33K | text, json-output, function-calling |
+| qwen-max-latest | $0.34285714285714286 | $1.3714285714285714 | 131K | text, json-output, function-calling |
+| qwen-long | $0.07142857142857142 | $0.2857142857142857 | 10.0M | text, json-output, function-calling |
+| qwen-long-latest | $0.07142857142857142 | $0.2857142857142857 | 10.0M | text, json-output, function-calling |
+| qwen-omni-turbo | $0.05714285714285715 | $0.2285714285714286 | 33K | text, json-output, function-calling, image-input, image-output, audio-input, audio-output, video-input, video-output, multimodal |
+| qwen-turbo | $0.04285714285714286 | $0.42857142857142855 | 131K | text, json-output, function-calling, reasoning |
+| qwen-turbo-latest | $0.04285714285714286 | $0.08571428571428572 | 1.0M | text, json-output, function-calling |
+| qwen-flash | $0.02142857142857143 | $0.21428571428571427 | 1.0M | text, json-output, function-calling |
+| qwen-flash (reasoning) | $0.02142857142857143 | $0.21428571428571427 | 1.0M | text, json-output, function-calling, reasoning |
+| qwen-plus | $0.1142857142857143 | $0.2857142857142857 | 131K | text, json-output, function-calling |
+| qwen-plus (reasoning) | $0.1142857142857143 | $1.1428571428571428 | 131K | text, json-output, function-calling, reasoning |
+| qwen-plus-latest | $0.1142857142857143 | $0.2857142857142857 | 1.0M | text, json-output, function-calling |
+| qwen-plus-latest (reasoning) | $0.1142857142857143 | $1.1428571428571428 | 1.0M | text, json-output, function-calling, reasoning |
