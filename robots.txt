@@ -1,13 +1,59 @@
-User-agent: *
+User-Agent: *
 Allow: /
-Allow: /en/
-Allow: /zh/
-Allow: /es/
-Allow: /fr/
-Allow: /de/
-Allow: /ja/
-Allow: /ru/
-Allow: /ko/
-Disallow: 
 
-Sitemap: https://llmpricing.dev/sitemap_index.xml
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: Claude-Web
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+User-Agent: Claude-User
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Perplexity-User
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: Applebot-Extended
+Allow: /
+
+User-Agent: Amazonbot
+Allow: /
+
+User-Agent: Bytespider
+Allow: /
+
+User-Agent: Meta-ExternalAgent
+Allow: /
+
+User-Agent: cohere-ai
+Allow: /
+
+User-Agent: DuckAssistBot
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+User-Agent: Bingbot
+Allow: /
+
+Host: https://llmpricing.dev
+Sitemap: https://llmpricing.dev/sitemap.xml

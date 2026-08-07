@@ -1,139 +1,78 @@
-# LLM Pricing Comparison
+# LLM Pricing
 
-> A regularly updated comparison of pricing, context length, and capabilities for 91+ large language model APIs from OpenAI, Anthropic, Google, DeepSeek, xAI, Alibaba. All prices are in USD per 1 million tokens.
+> Pricing, quality leaderboards and selection tools for 2124+ LLM/chat models across 180 providers. Data from models.dev and Artificial Analysis.
 
-Source: https://llmpricing.dev
-Last updated: 2026-07-19
+## Overview
 
-## OpenAI
+- Models: 2124
+- Providers: 180
+- Provider quotes: 6226
+- Data synced: 2026-08-07
 
-Pricing source: https://platform.openai.com/docs/pricing
+## About
 
-| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
-| --- | --- | --- | --- | --- |
-| text-embedding-3-small | $0.02 | - | 8K | text, embedding |
-| text-embedding-3-large | $0.13 | - | 8K | text, embedding |
-| text-embedding-ada-002 | $0.1 | - | 8K | text, embedding |
-| gpt-5.6-sol | $5 | $30 | 400K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| gpt-5.6-terra | $2.5 | $15 | 400K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| gpt-5.6-luna | $1 | $6 | 400K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| gpt-5.5 | $5 | $30 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5.5-pro | $30 | $180 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5.4 | $2.5 | $15 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5.4-pro | $30 | $180 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5.4-mini | $0.75 | $4.5 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5.4-nano | $0.2 | $1.25 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5-pro | $15 | $120 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5 | $1.25 | $10 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5-mini | $0.25 | $2 | 200K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5-nano | $0.05 | $0.4 | 128K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5-chat-latest | $1.25 | $10 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5-codex | $1.25 | $10 | 400K | coder, json-output, function-calling |
-| gpt-5.1 | $1.25 | $10 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5.1-codex | $1.25 | $10 | 400K | coder, json-output, function-calling, image-input, multimodal |
-| gpt-5.1-codex-max | $1.25 | $10 | 400K | coder, json-output, function-calling, image-input, multimodal |
-| gpt-5.2 | $1.75 | $14 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5.2-codex | $1.75 | $14 | 400K | coder, text, json-output, function-calling, image-input, multimodal |
-| gpt-5.3-codex | $1.75 | $14 | 400K | coder, text, json-output, function-calling, image-input, multimodal |
-| gpt-5.2-pro | $21 | $168 | 400K | text, json-output, function-calling, image-input, multimodal |
-| gpt-5.1-codex-mini | $0.25 | $2 | 400K | coder, json-output, function-calling, image-input, multimodal |
-| gpt-4.1 | $2 | $8 | 1.0M | text, json-output, function-calling, image-input, multimodal |
-| gpt-4.1-mini | $0.4 | $1.6 | 1.0M | text, json-output, function-calling, image-input, multimodal |
-| gpt-4.1-nano | $0.1 | $0.4 | 1.0M | text, json-output, function-calling, image-input, multimodal |
-| gpt-4o | $2.5 | $10 | 128K | text, json-output, function-calling, image-input, multimodal |
-| gpt-4o-mini | $0.15 | $0.6 | 128K | text, json-output, function-calling, image-input, multimodal |
-| o1-mini | $1.1 | $4.4 | 128K | text, reasoning, image-input, multimodal |
-| o1 | $15 | $60 | 128K | text, reasoning, image-input, multimodal |
-| o1-pro | $150 | $600 | 128K | text, reasoning, image-input, multimodal |
-| o3-mini | $1.1 | $4.4 | 200K | text, reasoning, image-input, multimodal |
-| o3 | $2 | $8 | 200K | text, reasoning, image-input, multimodal |
-| o3-pro | $20 | $80 | 200K | text, reasoning, image-input |
-| o3-deep-research | $10 | $40 | 200K | text, reasoning, research, image-input, multimodal |
-| o4-mini | $1.1 | $4.4 | 256K | text, reasoning, image-input, multimodal |
-| o4-mini-deep-research | $2 | $8 | 256K | text, reasoning, research, image-input, multimodal |
+LLM Pricing aggregates and normalizes API pricing, capabilities and quality benchmarks for large language / chat models, so you can compare price, capability and every provider's quote in one place.
 
-## Anthropic
+Methodology:
+- Models are merged into canonical entries by normalized name (a model hosted on many providers is one entry with per-provider quotes).
+- Blended unit price = input x 0.75 + output x 0.25 (approximate typical usage mix).
+- Providers are tiered: first-party (the lab itself), cloud platforms, and third-party gateways. The lowest price is taken from paid channels; $0 channels are listed separately (free tiers usually have rate limits).
+- Capability flags are tri-state: supported / unsupported / unknown — never conflated.
 
-Pricing source: https://www.anthropic.com/pricing#api
+## Data sources
 
-| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
-| --- | --- | --- | --- | --- |
-| claude-opus-4-8 | $5 | $25 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| claude-sonnet-5 | $2.5 | $12.5 | 1.0M | text, json-output, function-calling, reasoning, image-input, multimodal |
-| claude-opus-4-7 | $5 | $25 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| claude-opus-4-6 | $5 | $25 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| claude-opus-4-5-20251101 | $5 | $25 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| claude-sonnet-4-6 | $3 | $15 | 1.0M | text, json-output, function-calling, image-input, multimodal |
-| claude-sonnet-4-5-20250929 | $3 | $15 | 1.0M | text, json-output, function-calling, image-input, multimodal |
-| claude-haiku-4-5-20251001 | $1 | $5 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| claude-opus-4-1-20250805 | $15 | $75 | 200K | text, json-output, function-calling, reasoning, image-input, multimodal |
-| claude-sonnet-4-20250514 | $3 | $15 | 1.0M | text, json-output, function-calling, image-input, multimodal |
-| claude-opus-4-20250514 | $15 | $75 | 1.0M | text, json-output, function-calling, image-input, multimodal |
-| claude-sonnet-3.7-20241022 | $3 | $15 | 200K | text, json-output, function-calling, image-input, multimodal |
-| claude-opus-3-20240229 | $15 | $75 | 200K | text, json-output, function-calling, image-input, multimodal |
-| claude-haiku-3-20240307 | $0.25 | $1.25 | 200K | text, json-output, function-calling |
+- Pricing & capabilities: models.dev (MIT licensed).
+- Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
+- Real-world usage (30-day tokens): OpenRouter.
+- Data is refreshed regularly (last sync 2026-08-07); prices are indicative — always confirm on each provider's official page.
 
-## Google
+## Key pages
 
-Pricing source: https://ai.google.dev/gemini-api/docs/pricing
+- [Pricing](https://llmpricing.dev/en/): compare price, capability and every provider's quote for all models
+- [Leaderboards](https://llmpricing.dev/en/leaderboards/): intelligence, coding, value, cost per task, speed, usage
+- [Value frontier](https://llmpricing.dev/en/frontier/): best intelligence per dollar
+- [Providers](https://llmpricing.dev/en/providers/): first-party, cloud and gateway providers
+- [Compare](https://llmpricing.dev/en/compare/): 2-4 models side by side
 
-| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
-| --- | --- | --- | --- | --- |
-| gemini-embedding-001 | $0 | - | 2K | text, embedding |
-| gemini-3.5-flash | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
-| gemini-3.1-flash-lite | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
-| gemini-3.1-pro-preview | $2 | $12 | 1.0M | text, json-output, function-calling, pdf-input, image-input, audio-input, video-input, multimodal |
-| gemini-3-pro-preview | $2 | $12 | 1.0M | text, json-output, function-calling, pdf-input, image-input, audio-input, video-input, multimodal |
-| gemini-3-flash-preview | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
-| gemini-2.5-pro | $0 | $0 | 1.0M | text, json-output, function-calling, pdf-input, image-input, audio-input, video-input, multimodal |
-| gemini-2.5-flash | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
-| gemini-2.5-flash-lite | $0 | $0 | 1.0M | text, json-output, function-calling, reasoning, image-input, audio-input, video-input, multimodal |
+## Popular models
 
-## DeepSeek
-
-Pricing source: https://api-docs.deepseek.com/quick_start/pricing/
-
-| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
-| --- | --- | --- | --- | --- |
-| deepseek-v4-flash | $0.14 | $0.28 | 1.0M | text, json-output, function-calling, reasoning |
-| deepseek-v4-pro | $0.435 | $0.87 | 1.0M | text, json-output, function-calling, reasoning |
-| deepseek-chat | $0.28 | $0.42 | 128K | text, json-output, function-calling |
-| deepseek-reasoner | $0.28 | $0.42 | 128K | text, json-output, reasoning |
-
-## xAI
-
-Pricing source: https://docs.x.ai/docs/models
-
-| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
-| --- | --- | --- | --- | --- |
-| grok-4.5 | $2 | $6 | 500K | text, json-output, reasoning, function-calling, image-input |
-| grok-3 | $3 | $15 | 131K | text, json-output, function-calling |
-| grok-3-mini | $0.3 | $0.5 | 131K | text, json-output, function-calling |
-| grok-4-0709 | $3 | $15 | 256K | text, json-output, reasoning, function-calling, image-input |
-| grok-4-fast-reasoning | $0.2 | $0.05 | 2.0M | text, json-output, reasoning, function-calling, image-input |
-| grok-4-fast-non-reasoning | $0.2 | $0.05 | 2.0M | text, json-output, function-calling, image-input |
-| grok-4-1-fast-reasoning | $0.2 | $0.05 | 2.0M | text, json-output, reasoning, function-calling, image-input |
-| grok-4-1-fast-non-reasoning | $0.2 | $0.05 | 2.0M | text, json-output, function-calling, image-input |
-| grok-code-fast-1 | $0.2 | $0.02 | 256K | coder, json-output, reasoning, function-calling |
-
-## Alibaba
-
-Pricing source: https://help.aliyun.com/model-studio/models
-
-| Model | Input (per 1M) | Output (per 1M) | Context | Capabilities |
-| --- | --- | --- | --- | --- |
-| qwen3-coder-flash | $0.14285714285714285 | $0.5714285714285714 | 1.0M | coder |
-| qwen3-coder-plus | $0.5714285714285714 | $2.2857142857142856 | 1.0M | coder |
-| qwen-max | $0.34285714285714286 | $1.3714285714285714 | 33K | text, json-output, function-calling |
-| qwen-max-latest | $0.34285714285714286 | $1.3714285714285714 | 131K | text, json-output, function-calling |
-| qwen-long | $0.07142857142857142 | $0.2857142857142857 | 10.0M | text, json-output, function-calling |
-| qwen-long-latest | $0.07142857142857142 | $0.2857142857142857 | 10.0M | text, json-output, function-calling |
-| qwen-omni-turbo | $0.05714285714285715 | $0.2285714285714286 | 33K | text, json-output, function-calling, image-input, image-output, audio-input, audio-output, video-input, video-output, multimodal |
-| qwen-turbo | $0.04285714285714286 | $0.42857142857142855 | 131K | text, json-output, function-calling, reasoning |
-| qwen-turbo-latest | $0.04285714285714286 | $0.08571428571428572 | 1.0M | text, json-output, function-calling |
-| qwen-flash | $0.02142857142857143 | $0.21428571428571427 | 1.0M | text, json-output, function-calling |
-| qwen-flash (reasoning) | $0.02142857142857143 | $0.21428571428571427 | 1.0M | text, json-output, function-calling, reasoning |
-| qwen-plus | $0.1142857142857143 | $0.2857142857142857 | 131K | text, json-output, function-calling |
-| qwen-plus (reasoning) | $0.1142857142857143 | $1.1428571428571428 | 131K | text, json-output, function-calling, reasoning |
-| qwen-plus-latest | $0.1142857142857143 | $0.2857142857142857 | 1.0M | text, json-output, function-calling |
-| qwen-plus-latest (reasoning) | $0.1142857142857143 | $1.1428571428571428 | 1.0M | text, json-output, function-calling, reasoning |
+- [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Zhipu AI, $1.40/$4.40 per 1M, 75 providers
+- [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — DeepSeek, $0.435/$0.87 per 1M, 54 providers
+- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — Regolo AI, $1.00/$4.20 per 1M, 53 providers
+- [DeepSeek V4 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4-flash/) — DeepSeek, $0.14/$0.28 per 1M, 52 providers
+- [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (China), $3.00/$15.00 per 1M, 50 providers
+- [Kimi K2.7 Code](https://llmpricing.dev/m/moonshotai/kimi-k2.7-code/) — Moonshot AI (China), $0.95/$4.00 per 1M, 50 providers
+- [GPT-5.5](https://llmpricing.dev/m/openai/gpt-5.5/) — OpenAI, $5.00/$30.00 per 1M, 43 providers
+- [Claude Sonnet 4.6](https://llmpricing.dev/m/anthropic/claude-sonnet-4-6/) — Anthropic, $3.00/$15.00 per 1M, 42 providers
+- [Claude Opus 4.8](https://llmpricing.dev/m/anthropic/claude-opus-4-8/) — Anthropic, $5.00/$25.00 per 1M, 40 providers
+- [GPT-5.4](https://llmpricing.dev/m/openai/gpt-5.4/) — OpenAI, $2.50/$15.00 per 1M, 39 providers
+- [Claude Opus 4.7](https://llmpricing.dev/m/anthropic/claude-opus-4-7/) — Anthropic, $5.00/$25.00 per 1M, 38 providers
+- [MiniMax-M2.7](https://llmpricing.dev/m/minimax/MiniMax-M2.7/) — MiniMax (minimax.io), $0.30/$1.20 per 1M, 38 providers
+- [Claude Opus 4.6](https://llmpricing.dev/m/anthropic/claude-opus-4-6/) — Anthropic, $5.00/$25.00 per 1M, 35 providers
+- [MiniMax-M3](https://llmpricing.dev/m/minimax/MiniMax-M3/) — MiniMax (minimax.io), $0.30/$1.20 per 1M, 33 providers
+- [GPT-5.2](https://llmpricing.dev/m/openai/gpt-5.2/) — OpenAI, $1.75/$14.00 per 1M, 32 providers
+- [GPT-5.4 mini](https://llmpricing.dev/m/openai/gpt-5.4-mini/) — OpenAI, $0.75/$4.50 per 1M, 32 providers
+- [Gemini 2.5 Flash](https://llmpricing.dev/m/google/gemini-2.5-flash/) — Google, $0.30/$2.50 per 1M, 31 providers
+- [GPT-5.6 Sol](https://llmpricing.dev/m/openai/gpt-5.6-sol/) — OpenAI, $5.00/$30.00 per 1M, 31 providers
+- [GPT-5.6 Terra](https://llmpricing.dev/m/openai/gpt-5.6-terra/) — OpenAI, $2.00/$12.00 per 1M, 31 providers
+- [GPT-5.6 Luna](https://llmpricing.dev/m/openai/gpt-5.6-luna/) — OpenAI, $0.20/$1.20 per 1M, 30 providers
+- [Gemini 2.5 Pro](https://llmpricing.dev/m/google/gemini-2.5-pro/) — Google, $1.25/$10.00 per 1M, 29 providers
+- [GPT-5 Mini](https://llmpricing.dev/m/openai/gpt-5-mini/) — OpenAI, $0.25/$2.00 per 1M, 29 providers
+- [Qwen3.7 Max](https://llmpricing.dev/m/alibaba/qwen3.7-max/) — Alibaba, $2.50/$7.50 per 1M, 28 providers
+- [Claude Fable 5](https://llmpricing.dev/m/anthropic/claude-fable-5/) — Anthropic, $10.00/$50.00 per 1M, 28 providers
+- [Claude Sonnet 5](https://llmpricing.dev/m/anthropic/claude-sonnet-5/) — Anthropic, $2.00/$10.00 per 1M, 28 providers
+- [GPT-5.1](https://llmpricing.dev/m/openai/gpt-5.1/) — OpenAI, $1.25/$10.00 per 1M, 27 providers
+- [GPT-5.4 nano](https://llmpricing.dev/m/openai/gpt-5.4-nano/) — OpenAI, $0.20/$1.25 per 1M, 27 providers
+- [GPT-5](https://llmpricing.dev/m/openai/gpt-5/) — OpenAI, $1.25/$10.00 per 1M, 26 providers
+- [Gemini 3.5 Flash](https://llmpricing.dev/m/google/gemini-3.5-flash/) — Google, $1.50/$9.00 per 1M, 26 providers
+- [Gemini 3.1 Pro Preview](https://llmpricing.dev/m/google/gemini-3.1-pro-preview/) — Google, $2.00/$12.00 per 1M, 26 providers
+- [Qwen3.7 Plus](https://llmpricing.dev/m/alibaba/qwen3.7-plus/) — Alibaba, $0.50/$3.00 per 1M, 26 providers
+- [Qwen3.6 27B](https://llmpricing.dev/m/alibaba/qwen3.6-27b/) — Alibaba, $0.60/$3.60 per 1M, 25 providers
+- [Qwen3.6 Plus](https://llmpricing.dev/m/alibaba/qwen3.6-plus/) — Alibaba, $0.50/$3.00 per 1M, 25 providers
+- [GPT-5.3 Codex](https://llmpricing.dev/m/openai/gpt-5.3-codex/) — OpenAI, $1.75/$14.00 per 1M, 24 providers
+- [Qwen3.6 35B-A3B](https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b/) — Alibaba, $0.248/$1.49 per 1M, 24 providers
+- [Gemini 3 Flash Preview](https://llmpricing.dev/m/google/gemini-3-flash-preview/) — Google, $0.50/$3.00 per 1M, 23 providers
+- [GPT-5 Nano](https://llmpricing.dev/m/openai/gpt-5-nano/) — OpenAI, $0.05/$0.40 per 1M, 23 providers
+- [Claude Opus 5](https://llmpricing.dev/m/anthropic/claude-opus-5/) — Anthropic, $5.00/$25.00 per 1M, 23 providers
+- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Cortecs, $0.25/$0.30 per 1M, 22 providers
+- [MiMo-V2.5-Pro](https://llmpricing.dev/m/xiaomi/mimo-v2.5-pro/) — Xiaomi, $0.435/$0.87 per 1M, 22 providers
