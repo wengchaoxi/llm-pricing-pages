@@ -34,6 +34,20 @@ Methodology:
 - [Providers](https://llmpricing.dev/en/providers/): first-party, cloud and gateway providers
 - [Compare](https://llmpricing.dev/en/compare/): 2-4 models side by side
 
+## Tools
+
+- [Cost calculator](https://llmpricing.dev/en/tools/cost/): estimate monthly API cost across providers from token usage and cache hit rate
+- [Token counter](https://llmpricing.dev/en/tools/token/): exact token counts for OpenAI tokenizers (o200k/cl100k) plus labeled estimates for other models, and per-model cost
+- [Subscription vs API](https://llmpricing.dev/en/tools/subscription/): whether an AI subscription beats pay-as-you-go for your usage (ranges, not single points)
+- [AI subscription prices](https://llmpricing.dev/en/subscriptions/): consumer plans and quotas for ChatGPT, Claude, Gemini, Grok, Perplexity, Copilot and more
+
+## Data & API
+
+Normalized data is published as free static JSON (CC BY 4.0, no key required):
+- [Models JSON](https://llmpricing.dev/api/models.json): every model with prices, blended unit price, context, capabilities, quality scores and usage
+- [Providers JSON](https://llmpricing.dev/api/providers.json): every provider with tier, model count, SDK and API base
+- [API & MCP docs](https://llmpricing.dev/en/api/): field reference, code examples and how to consume the data from an MCP-enabled agent
+
 ## Popular models
 
 - [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Zhipu AI, $1.40/$4.40 per 1M, 76 providers
