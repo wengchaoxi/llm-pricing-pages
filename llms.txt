@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 2129+ LLM/chat models across 182 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 2131+ LLM/chat models across 182 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 2129
+- Models: 2131
 - Providers: 182
-- Provider quotes: 6239
-- Data synced: 2026-08-09
+- Provider quotes: 6248
+- Data synced: 2026-08-10
 
 ## About
 
@@ -24,7 +24,7 @@ Methodology:
 - Pricing & capabilities: models.dev (MIT licensed).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-08-09); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-08-10); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -85,8 +85,8 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Qwen3.6 35B-A3B](https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b/) — Alibaba, $0.248/$1.49 per 1M, 25 providers
 - [Qwen3.6 Plus](https://llmpricing.dev/m/alibaba/qwen3.6-plus/) — Alibaba, $0.50/$3.00 per 1M, 25 providers
 - [GPT-5.3 Codex](https://llmpricing.dev/m/openai/gpt-5.3-codex/) — OpenAI, $1.75/$14.00 per 1M, 24 providers
+- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Cortecs, $0.25/$0.30 per 1M, 24 providers
 - [Gemini 3 Flash Preview](https://llmpricing.dev/m/google/gemini-3-flash-preview/) — Google, $0.50/$3.00 per 1M, 23 providers
 - [GPT-5 Nano](https://llmpricing.dev/m/openai/gpt-5-nano/) — OpenAI, $0.05/$0.40 per 1M, 23 providers
-- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Cortecs, $0.25/$0.30 per 1M, 23 providers
 - [Claude Opus 5](https://llmpricing.dev/m/anthropic/claude-opus-5/) — Anthropic, $5.00/$25.00 per 1M, 23 providers
 - [MiMo-V2.5-Pro](https://llmpricing.dev/m/xiaomi/mimo-v2.5-pro/) — Xiaomi, $0.435/$0.87 per 1M, 22 providers
