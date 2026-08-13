@@ -55,5 +55,5 @@ Allow: /
 User-Agent: Bingbot
 Allow: /
 
-Host: https://llmpricing.dev
+Host: llmpricing.dev
 Sitemap: https://llmpricing.dev/sitemap.xml
