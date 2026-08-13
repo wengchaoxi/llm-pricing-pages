@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"ViewportBoundary"]
+8:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"MetadataBoundary"]
+6:X
+3c:X
+3c:C
+0:{"buildId":"mze55Ov7FLiHJuy_5qeba","data":[{"rsc":["$","$1","c",{"children":[[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://llmpricing.dev/fr/contact/\",\"url\":\"https://llmpricing.dev/fr/contact/\",\"name\":\"Contact | LLM Pricing\",\"description\":\"Get in touch with LLM Pricing for questions, feedback or data corrections.\",\"inLanguage\":\"fr-FR\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"LLM Pricing\",\"url\":\"https://llmpricing.dev/\"},\"about\":{\"@type\":\"Thing\",\"name\":\"Large language model API pricing\"},\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"h1\"]}}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Contact\",\"item\":\"https://llmpricing.dev/fr/contact/\"}]}"}}]],["$","article",null,{"className":"mx-auto max-w-3xl px-5 py-10 sm:py-14","children":[["$","h1",null,{"className":"text-3xl font-bold tracking-tight text-foreground","children":"Contact"}],"$undefined",["$","p",null,{"className":"mt-6 leading-7 text-zinc-700 dark:text-zinc-300","children":"Questions, corrections or feedback about the data? We'd like to hear from you."}],["$","div",null,{"className":"mt-8 space-y-8","children":[["$","section",null,{"className":"space-y-3","children":[["$","h2",null,{"className":"text-lg font-semibold tracking-tight text-foreground","children":"Email"}],["$","div",null,{"className":"space-y-3 leading-7 text-zinc-700 dark:text-zinc-300","children":["$","p",null,{"children":["Reach us at"," ",["$","a",null,{"className":"text-blue-600 hover:underline","href":"mailto:hello@llmpricing.dev","children":"hello@llmpricing.dev"}],"."]}]}]]}],["$","section",null,{"className":"space-y-3","children":[["$","h2",null,{"className":"text-lg font-semibold tracking-tight text-foreground","children":"Social"}],["$","div",null,{"className":"space-y-3 leading-7 text-zinc-700 dark:text-zinc-300","children":["$","p",null,{"children":["Find us on X (Twitter) at"," ",["$","a",null,{"className":"text-blue-600 hover:underline","href":"https://x.com/chaoxiweng","target":"_blank","rel":"noopener","children":"@chaoxiweng"}],"."]}]}]]}],["$","section",null,{"className":"space-y-3","children":[["$","h2",null,{"className":"text-lg font-semibold tracking-tight text-foreground","children":"Data corrections"}],["$","div",null,{"className":"space-y-3 leading-7 text-zinc-700 dark:text-zinc-300","children":["$","p",null,{"children":"Spotted a wrong price or a missing model? Pricing is aggregated from models.dev, and corrections there flow back here. For anything else, email us at the address above."}]}]]}]]}]]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0a0a0a","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contact | LLM Pricing"}],["$","meta","1",{"name":"description","content":"Get in touch with LLM Pricing for questions, feedback or data corrections."}],["$","meta","2",{"name":"application-name","content":"LLM Pricing"}],["$","meta","3",{"name":"author","content":"@chaoxiweng"}],["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","5",{"name":"creator","content":"@chaoxiweng"}],["$","meta","6",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","7",{"rel":"canonical","href":"https://llmpricing.dev/fr/contact/"}],["$","link","8",{"rel":"alternate","hrefLang":"en","href":"https://llmpricing.dev/en/contact/"}],"$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38"]}]}]}],null]}],"isPartial":"$@39","staleTime":"$6","varyParams":null},{"rsc":"$L3a","isPartial":"$@3b","staleTime":"$6","varyParams":"$3c"}],"isUpgradeableISRFallback":false,"a":"$@3d","rootVaryParams":null,"needsRuntimeRequest":"$@3e"}
+3f:I[82886,["/_next/static/chunks/36tjmxk9g1ayc.js"],"IconMark"]
+40:I[68223,["/_next/static/chunks/36tjmxk9g1ayc.js"],"default"]
+41:I[16317,["/_next/static/chunks/36tjmxk9g1ayc.js"],"default"]
+4:null
+9:["$","link","9",{"rel":"alternate","hrefLang":"zh","href":"https://llmpricing.dev/zh/contact/"}]
+a:["$","link","10",{"rel":"alternate","hrefLang":"es","href":"https://llmpricing.dev/es/contact/"}]
+b:["$","link","11",{"rel":"alternate","hrefLang":"fr","href":"https://llmpricing.dev/fr/contact/"}]
+c:["$","link","12",{"rel":"alternate","hrefLang":"de","href":"https://llmpricing.dev/de/contact/"}]
+d:["$","link","13",{"rel":"alternate","hrefLang":"ja","href":"https://llmpricing.dev/ja/contact/"}]
+e:["$","link","14",{"rel":"alternate","hrefLang":"ru","href":"https://llmpricing.dev/ru/contact/"}]
+f:["$","link","15",{"rel":"alternate","hrefLang":"ko","href":"https://llmpricing.dev/ko/contact/"}]
+10:["$","link","16",{"rel":"alternate","hrefLang":"pt","href":"https://llmpricing.dev/pt/contact/"}]
+11:["$","link","17",{"rel":"alternate","hrefLang":"id","href":"https://llmpricing.dev/id/contact/"}]
+12:["$","link","18",{"rel":"alternate","hrefLang":"hi","href":"https://llmpricing.dev/hi/contact/"}]
+13:["$","link","19",{"rel":"alternate","hrefLang":"ar","href":"https://llmpricing.dev/ar/contact/"}]
+14:["$","link","20",{"rel":"alternate","hrefLang":"it","href":"https://llmpricing.dev/it/contact/"}]
+15:["$","link","21",{"rel":"alternate","hrefLang":"tr","href":"https://llmpricing.dev/tr/contact/"}]
+16:["$","link","22",{"rel":"alternate","hrefLang":"x-default","href":"https://llmpricing.dev/en/contact/"}]
+17:["$","meta","23",{"name":"format-detection","content":"telephone=no, date=no, address=no, email=no"}]
+18:["$","meta","24",{"name":"msvalidate.01","content":"2ADD08D32D4D5D7B114AD1F42793E891"}]
+19:["$","meta","25",{"property":"og:title","content":"Contact | LLM Pricing"}]
+1a:["$","meta","26",{"property":"og:description","content":"Get in touch with LLM Pricing for questions, feedback or data corrections."}]
+1b:["$","meta","27",{"property":"og:url","content":"https://llmpricing.dev/fr/contact/"}]
+1c:["$","meta","28",{"property":"og:site_name","content":"LLM Pricing"}]
+1d:["$","meta","29",{"property":"og:locale","content":"fr_FR"}]
+1e:["$","meta","30",{"property":"og:image","content":"https://llmpricing.dev/og.png"}]
+1f:["$","meta","31",{"property":"og:image:width","content":"1200"}]
+20:["$","meta","32",{"property":"og:image:height","content":"630"}]
+21:["$","meta","33",{"property":"og:image:alt","content":"LLM Pricing — compare LLM API pricing across every provider"}]
+22:["$","meta","34",{"property":"og:locale:alternate","content":"en_US"}]
+23:["$","meta","35",{"property":"og:locale:alternate","content":"zh_CN"}]
+24:["$","meta","36",{"property":"og:locale:alternate","content":"es_ES"}]
+25:["$","meta","37",{"property":"og:locale:alternate","content":"de_DE"}]
+26:["$","meta","38",{"property":"og:locale:alternate","content":"ja_JP"}]
+27:["$","meta","39",{"property":"og:locale:alternate","content":"ru_RU"}]
+28:["$","meta","40",{"property":"og:locale:alternate","content":"ko_KR"}]
+29:["$","meta","41",{"property":"og:locale:alternate","content":"pt_BR"}]
+2a:["$","meta","42",{"property":"og:locale:alternate","content":"id_ID"}]
+2b:["$","meta","43",{"property":"og:locale:alternate","content":"hi_IN"}]
+2c:["$","meta","44",{"property":"og:locale:alternate","content":"ar"}]
+2d:["$","meta","45",{"property":"og:locale:alternate","content":"it_IT"}]
+2e:["$","meta","46",{"property":"og:locale:alternate","content":"tr_TR"}]
+2f:["$","meta","47",{"property":"og:type","content":"website"}]
+30:["$","meta","48",{"name":"twitter:card","content":"summary_large_image"}]
+31:["$","meta","49",{"name":"twitter:site","content":"@chaoxiweng"}]
+32:["$","meta","50",{"name":"twitter:creator","content":"@chaoxiweng"}]
+33:["$","meta","51",{"name":"twitter:title","content":"Contact | LLM Pricing"}]
+34:["$","meta","52",{"name":"twitter:description","content":"Get in touch with LLM Pricing for questions, feedback or data corrections."}]
+35:["$","meta","53",{"name":"twitter:image","content":"https://llmpricing.dev/og.png"}]
+36:["$","link","54",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}]
+37:["$","link","55",{"rel":"icon","href":"/icon.svg?icon.0cky9s9a1x7kx.svg","sizes":"any","type":"image/svg+xml"}]
+38:["$","$L3f","56",{}]
+3a:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+3e:true
+6:300
+6:C
+3d:0
+3b:"$undefined"
+5:"$undefined"
+39:"$undefined"

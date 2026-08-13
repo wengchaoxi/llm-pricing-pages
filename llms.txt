@@ -6,7 +6,7 @@
 
 - Models: 2129
 - Providers: 184
-- Provider quotes: 6293
+- Provider quotes: 6292
 - Data synced: 2026-08-13
 
 ## About
