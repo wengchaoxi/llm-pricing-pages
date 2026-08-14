@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 2127+ LLM/chat models across 184 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 2130+ LLM/chat models across 185 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 2127
-- Providers: 184
-- Provider quotes: 6293
-- Data synced: 2026-08-13
+- Models: 2130
+- Providers: 185
+- Provider quotes: 6323
+- Data synced: 2026-08-14
 
 ## About
 
@@ -24,7 +24,7 @@ Methodology:
 - Pricing & capabilities: models.dev (MIT licensed).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-08-13); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-08-14); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -50,8 +50,8 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 ## Popular models
 
-- [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Zhipu AI, $1.40/$4.40 per 1M, 78 providers
-- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — Regolo AI, $1.00/$4.20 per 1M, 56 providers
+- [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Zhipu AI, $1.40/$4.40 per 1M, 79 providers
+- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — Regolo AI, $1.00/$4.20 per 1M, 57 providers
 - [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — DeepSeek, $0.435/$0.87 per 1M, 54 providers
 - [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (China), $3.00/$15.00 per 1M, 53 providers
 - [DeepSeek V4 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4-flash/) — DeepSeek, $0.14/$0.28 per 1M, 52 providers
