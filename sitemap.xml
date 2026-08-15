@@ -9524,7 +9524,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-thinking/</loc>
-<lastmod>2026-04-24</lastmod>
+<lastmod>2026-08-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -10345,12 +10345,6 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/alibaba/qwen3-235b-a22b-instruct-2507-tee/</loc>
-<lastmod>2025-07-25</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.6</priority>
-</url>
-<url>
 <loc>https://llmpricing.dev/m/alibaba/qwen3.5-397b-a17b-thinking/</loc>
 <lastmod>2026-02-15</lastmod>
 <changefreq>monthly</changefreq>
@@ -10531,6 +10525,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://llmpricing.dev/m/zhipuai/glm-5.3-thinking/</loc>
+<lastmod>2026-08-14</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://llmpricing.dev/m/zhipuai/glm-5-original-thinking/</loc>
 <lastmod>2026-02-11</lastmod>
 <changefreq>monthly</changefreq>
@@ -10593,6 +10593,12 @@
 <url>
 <loc>https://llmpricing.dev/m/zhipuai/glm-latest/</loc>
 <lastmod>2026-05-03</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://llmpricing.dev/m/zhipuai/glm-5.3/</loc>
+<lastmod>2026-08-14</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -10965,6 +10971,12 @@
 <url>
 <loc>https://llmpricing.dev/m/alibaba/qwen2.5-vl-72b-instruct/</loc>
 <lastmod>2025-02-01</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://llmpricing.dev/m/moonshotai/kimi-k2.7-code-2/</loc>
+<lastmod>2026-06-12</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -12254,7 +12266,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/alibaba/qwen-plus-2025-07-28-thinking/</loc>
-<lastmod>2025-09-08</lastmod>
+<lastmod>2026-08-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -13573,7 +13585,7 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/zhipuai/glm-5.3/</loc>
+<loc>https://llmpricing.dev/m/zhipuai/glm-5.3-2/</loc>
 <lastmod>2026-08-14</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -15500,7 +15512,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/google/gemini-3.1-flash-lite-eu/</loc>
-<lastmod>2026-05-07</lastmod>
+<lastmod>2026-08-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -15548,7 +15560,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/google/gemini-3.5-flash-eu/</loc>
-<lastmod>2026-05-19</lastmod>
+<lastmod>2026-08-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -15578,7 +15590,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/google/gemini-3.7-flash-eu/</loc>
-<lastmod>2026-08-13</lastmod>
+<lastmod>2026-08-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -18206,7 +18218,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/alibaba/qwen-plus-2025-07-28-thinking-2/</loc>
-<lastmod>2025-09-08</lastmod>
+<lastmod>2026-08-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -19664,7 +19676,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/requesty/</loc>
-<lastmod>2026-08-14</lastmod>
+<lastmod>2026-08-15</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
