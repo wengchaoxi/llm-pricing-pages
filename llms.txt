@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 2120+ LLM/chat models across 185 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 2121+ LLM/chat models across 185 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 2120
+- Models: 2121
 - Providers: 185
-- Provider quotes: 6585
-- Data synced: 2026-08-15
+- Provider quotes: 6586
+- Data synced: 2026-08-16
 
 ## About
 
@@ -24,7 +24,7 @@ Methodology:
 - Pricing & capabilities: models.dev (MIT licensed).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-08-15); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-08-16); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
