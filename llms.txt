@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 2162+ LLM/chat models across 192 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 2163+ LLM/chat models across 192 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 2162
+- Models: 2163
 - Providers: 192
-- Provider quotes: 6838
-- Data synced: 2026-08-19
+- Provider quotes: 6839
+- Data synced: 2026-08-20
 
 ## About
 
@@ -24,7 +24,7 @@ Methodology:
 - Pricing & capabilities: models.dev (MIT licensed).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-08-19); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-08-20); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -51,7 +51,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 ## Popular models
 
-- [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Z.AI, $1.40/$4.40 per 1M, 83 providers
+- [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Z.AI, $1.40/$4.40 per 1M, 84 providers
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — Regolo AI, $1.00/$4.20 per 1M, 69 providers
 - [Kimi K2.6](https://llmpricing.dev/m/moonshotai/kimi-k2.6/) — Moonshot AI, $0.95/$4.00 per 1M, 65 providers
 - [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — DeepSeek, $0.435/$0.87 per 1M, 59 providers
@@ -87,7 +87,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Qwen3.7 Plus](https://llmpricing.dev/m/alibaba/qwen3.7-plus/) — Alibaba (China), $0.50/$3.00 per 1M, 28 providers
 - [GPT-5.3 Codex](https://llmpricing.dev/m/openai/gpt-5.3-codex/) — OpenAI, $1.75/$14.00 per 1M, 27 providers
 - [Qwen3.6 Plus](https://llmpricing.dev/m/alibaba/qwen3.6-plus/) — Alibaba (China), $0.50/$3.00 per 1M, 27 providers
+- [DeepSeek V4 Pro 0813](https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813/) — Venice AI, $1.65/$4.95 per 1M, 26 providers
 - [GPT-5 Nano](https://llmpricing.dev/m/openai/gpt-5-nano/) — OpenAI, $0.05/$0.40 per 1M, 26 providers
 - [Qwen3.6 27B](https://llmpricing.dev/m/alibaba/qwen3.6-27b/) — Alibaba, $0.60/$3.60 per 1M, 26 providers
 - [Qwen3.6 35B-A3B](https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b/) — Alibaba, $0.248/$1.49 per 1M, 25 providers
-- [DeepSeek V4 Pro 0813](https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813/) — Venice AI, $1.65/$4.95 per 1M, 25 providers
