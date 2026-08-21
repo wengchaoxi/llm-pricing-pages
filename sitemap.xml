@@ -7154,7 +7154,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/google/gemma-4-31b/</loc>
-<lastmod>2026-08-13</lastmod>
+<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -7490,7 +7490,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/google/gemini-flash-lite-latest/</loc>
-<lastmod>2026-05-07</lastmod>
+<lastmod>2026-07-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -9830,7 +9830,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-latest/</loc>
-<lastmod>2026-08-20</lastmod>
+<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -10621,6 +10621,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored/</loc>
+<lastmod>2026-08-21</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://llmpricing.dev/m/alibaba/qwen3.5-plus-thinking/</loc>
 <lastmod>2026-02-16</lastmod>
 <changefreq>monthly</changefreq>
@@ -10653,6 +10659,12 @@
 <url>
 <loc>https://llmpricing.dev/m/alibaba/qwen3-235b-a22b-thinking-2507-3/</loc>
 <lastmod>2026-08-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored/</loc>
+<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -11347,7 +11359,7 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored/</loc>
+<loc>https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored-2/</loc>
 <lastmod>2026-05-23</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -12261,6 +12273,12 @@
 <url>
 <loc>https://llmpricing.dev/m/deepseek/deepseek-r1-distill-llama-70b/</loc>
 <lastmod>2026-08-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp/</loc>
+<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -13867,6 +13885,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://llmpricing.dev/m/misc/ox-alpha-free/</loc>
+<lastmod>2026-08-21</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://llmpricing.dev/m/xiaomi/mimo-v2-omni/</loc>
 <lastmod>2026-03-18</lastmod>
 <changefreq>monthly</changefreq>
@@ -15067,6 +15091,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-9/</loc>
+<lastmod>2026-04-24</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://llmpricing.dev/m/google/gemini-3.5-flash-lite-3/</loc>
 <lastmod>2026-07-21</lastmod>
 <changefreq>monthly</changefreq>
@@ -15247,7 +15277,7 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-9/</loc>
+<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-10/</loc>
 <lastmod>2026-04-24</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -15319,7 +15349,7 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-10/</loc>
+<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-11/</loc>
 <lastmod>2026-04-24</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -15751,7 +15781,7 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-11/</loc>
+<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-12/</loc>
 <lastmod>2026-04-24</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -15943,7 +15973,7 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-12/</loc>
+<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-13/</loc>
 <lastmod>2026-04-24</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -16045,7 +16075,7 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-13/</loc>
+<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-14/</loc>
 <lastmod>2026-04-24</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -16358,7 +16388,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/mistral/mistral-small-latest/</loc>
-<lastmod>2026-08-15</lastmod>
+<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -16484,7 +16514,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/nvidia/nvidia-nemotron-3-super-120b/</loc>
-<lastmod>2026-08-09</lastmod>
+<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -17949,12 +17979,6 @@
 <url>
 <loc>https://llmpricing.dev/m/misc/muse-spark-1.2-contributor-free/</loc>
 <lastmod>2026-08-05</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.6</priority>
-</url>
-<url>
-<loc>https://llmpricing.dev/m/misc/x-preview-f-free/</loc>
-<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -20983,6 +21007,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://llmpricing.dev/m/meituan/longcat-2.0-free-2/</loc>
+<lastmod>2025-08-26</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://llmpricing.dev/m/nousresearch/hermes-3-llama-3.1-405b-2/</loc>
 <lastmod>2024-08-16</lastmod>
 <changefreq>monthly</changefreq>
@@ -21535,7 +21565,7 @@
 <priority>0.6</priority>
 </url>
 <url>
-<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-14/</loc>
+<loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-15/</loc>
 <lastmod>2026-06-11</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
@@ -21716,7 +21746,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/neuralwatt/</loc>
-<lastmod>2026-08-20</lastmod>
+<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -22394,7 +22424,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/arcee/</loc>
-<lastmod>2026-08-20</lastmod>
+<lastmod>2026-08-21</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>

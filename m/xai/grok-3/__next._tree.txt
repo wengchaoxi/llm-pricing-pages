@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/3-sm_78no71zv.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;700&display=swap","style"]
 :HL["https://api.fontshare.com/v2/css?f[]=satoshi@700,800,900&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(detail)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"m","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"xai/grok-3","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"G8YokC4LsAmNI2ko5j7nL"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(detail)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"m","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"xai/grok-3","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"_DKRpy02vhSGeDtx-wMNh"}

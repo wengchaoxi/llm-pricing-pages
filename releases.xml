@@ -6,11 +6,29 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 03:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:28:03 GMT</lastBuildDate>
     <item>
-      <title>Ox Alpha Free</title>
-      <link>https://llmpricing.dev/m/misc/x-preview-f-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/x-preview-f-free/</guid>
+      <title>DeepSeek V4 Flash Vision Exp</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ox Alpha Free (Unlimited)</title>
+      <link>https://llmpricing.dev/m/misc/ox-alpha-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/ox-alpha-free/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.6 35B A3B Uncensored</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Uncensored</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored/</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -158,6 +176,12 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Gemini Flash Latest</title>
+      <link>https://llmpricing.dev/m/google/gemini-flash-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-flash-latest/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ByteDance Seed 2.1 Turbo</title>
       <link>https://llmpricing.dev/m/bytedance-seed/seed-2-1-turbo/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/bytedance-seed/seed-2-1-turbo/</guid>
@@ -282,30 +306,6 @@
       <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-thinking/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA: Nemotron 3.5 Lightning (free)</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-free-2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-free-2/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Glimmer 30B</title>
-      <link>https://llmpricing.dev/m/meta/muse-glimmer-30b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-glimmer-30b/</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Glimmer 30B (TR)</title>
-      <link>https://llmpricing.dev/m/meta/muse-glimmer-30b-tr/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-glimmer-30b-tr/</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Glimmer 30B TEE</title>
-      <link>https://llmpricing.dev/m/meta/muse-glimmer-30b-2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-glimmer-30b-2/</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
