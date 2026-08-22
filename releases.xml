@@ -6,11 +6,23 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:28:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 02:53:41 GMT</lastBuildDate>
     <item>
       <title>DeepSeek V4 Flash Vision Exp</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta: Muse Spark 1.2 Contributor</title>
+      <link>https://llmpricing.dev/m/meta/muse-spark-1.2-contributor-3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-spark-1.2-contributor-3/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ox Alpha</title>
+      <link>https://llmpricing.dev/m/stealth/ox-alpha/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/stealth/ox-alpha/</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -53,12 +65,6 @@
       <title>Ornith 1.5 35B Thinking</title>
       <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b-thinking/</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ox Alpha</title>
-      <link>https://llmpricing.dev/m/stealth/ox-alpha/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/stealth/ox-alpha/</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -218,6 +224,12 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Grok 4.6 (Vertex AI (OpenAI-compatible))</title>
+      <link>https://llmpricing.dev/m/xai/grok-4-6-3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4-6-3/</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Grok 4.6 (xAI)</title>
       <link>https://llmpricing.dev/m/xai/grok-4-6/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4-6/</guid>
@@ -293,18 +305,6 @@
       <title>Nemotron 3.5 Lightning 30B A3B</title>
       <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Nemotron 3.5 Lightning</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-2/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Nemotron 3.5 Lightning Thinking</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-thinking/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
