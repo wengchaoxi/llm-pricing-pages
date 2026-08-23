@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:53:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:01:53 GMT</lastBuildDate>
+    <item>
+      <title>Gemma 4 26B A4B Uncensored</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-uncensored/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek V4 Flash Vision Exp</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp/</link>
@@ -78,6 +84,18 @@
       <link>https://llmpricing.dev/m/tencent/hy-mt2-30b-a3b-2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-30b-a3b-2/</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hy-MT2-7B</title>
+      <link>https://llmpricing.dev/m/tencent/hy-mt2-7b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-7b/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tencent: Hy-MT2-7B</title>
+      <link>https://llmpricing.dev/m/tencent/hy-mt2-7b-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-7b-2/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Z.ai: GLM Latest</title>
@@ -287,24 +305,6 @@
       <title>Nemotron 3.5 Lightning</title>
       <link>https://llmpricing.dev/m/nvidia/nvidia-nemotron-3.5-lightning-30b-a3b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nvidia-nemotron-3.5-lightning-30b-a3b/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nemotron 3.5 Lightning (free)</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-free/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nemotron 3.5 Lightning 30B</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-3/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning-3/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nemotron 3.5 Lightning 30B A3B</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-lightning/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
