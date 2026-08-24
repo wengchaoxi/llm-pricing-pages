@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 03:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 03:02:20 GMT</lastBuildDate>
+    <item>
+      <title>Gemma 4 31B MeroMero v2</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-31b-meromero-v2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-meromero-v2/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ornith 1.5 9B</title>
+      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-9b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-9b/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Gemma 4 26B A4B Uncensored</title>
       <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-uncensored/</link>
@@ -293,18 +305,6 @@
       <title>LiquidAI: LFM2.5-2.6B (free)</title>
       <link>https://llmpricing.dev/m/liquid/lfm-2.5-2.6b-free-2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/liquid/lfm-2.5-2.6b-free-2/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MAI-Code-1.1-Flash</title>
-      <link>https://llmpricing.dev/m/microsoft/mai-code-1.1-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/microsoft/mai-code-1.1-flash/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nemotron 3.5 Lightning</title>
-      <link>https://llmpricing.dev/m/nvidia/nvidia-nemotron-3.5-lightning-30b-a3b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nvidia-nemotron-3.5-lightning-30b-a3b/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
