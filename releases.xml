@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 02:57:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:04:07 GMT</lastBuildDate>
+    <item>
+      <title>Qwen 3.8 27B Uncensored Thinking</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored-thinking/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Gemma 4 26B A4B Uncensored Thinking</title>
       <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-uncensored-thinking/</link>
@@ -17,6 +23,12 @@
       <title>Gemma 4 31B MeroMero v2 Thinking</title>
       <link>https://llmpricing.dev/m/google/gemma-4-31b-meromero-v2-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-meromero-v2-thinking/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Granite 4.2 8B</title>
+      <link>https://llmpricing.dev/m/ibm-granite/granite-4.2-8b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/ibm-granite/granite-4.2-8b/</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -101,6 +113,12 @@
       <title>Qwen 3.6 35B A3B Uncensored</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Uncensored</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored/</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -200,6 +218,12 @@
       <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GLM-5.3 (Baidu)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-4/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-4/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GLM-5.3 (Z AI)</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-3/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-3/</guid>
@@ -281,30 +305,6 @@
       <title>DeepSeek V4 Pro 0813 Thinking</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813-thinking/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.6</title>
-      <link>https://llmpricing.dev/m/xai/grok-4.6/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4.6/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.6 (AWS Bedrock)</title>
-      <link>https://llmpricing.dev/m/xai/grok-4-6-2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4-6-2/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.6 (Vertex AI (OpenAI-compatible))</title>
-      <link>https://llmpricing.dev/m/xai/grok-4-6-3/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4-6-3/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.6 (xAI)</title>
-      <link>https://llmpricing.dev/m/xai/grok-4-6/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4-6/</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
