@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 07:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:51:54 GMT</lastBuildDate>
     <item>
       <title>Kloker</title>
       <link>https://llmpricing.dev/m/misc/kloker/</link>
