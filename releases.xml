@@ -6,101 +6,29 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 08:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:38:25 GMT</lastBuildDate>
     <item>
-      <title>Gemsicle</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-gemsicle/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-gemsicle/</guid>
+      <title>Kloker</title>
+      <link>https://llmpricing.dev/m/misc/kloker/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/kloker/</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Chimera X</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-chimerax/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-chimerax/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <title>Kloker Integration Architect</title>
+      <link>https://llmpricing.dev/m/misc/kloker-integration-architect/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/kloker-integration-architect/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Dark Soul</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-darksoul/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-darksoul/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DarkIdol</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-darkidol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-darkidol/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fabled</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-fabled/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-fabled/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Garnet</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-garnet/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-garnet/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gembrain</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-gembrain/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-gembrain/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <title>Kloker Integration Developer</title>
+      <link>https://llmpricing.dev/m/misc/kloker-integration-developer/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/kloker-integration-developer/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Hy4 preview</title>
       <link>https://llmpricing.dev/m/tencent/hy4-preview-2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy4-preview-2/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Isometry</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-isometry/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-isometry/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Luminous Mirror</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-luminous/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-luminous/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moonlight Dusk</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-moonlight/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-moonlight/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Musica</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-musica/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-musica/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Novelist</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-novelist/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-novelist/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opus Distill</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-opusdistill/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-opusdistill/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B Fable</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-fable/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-fable/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shadow Siren</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-shadowsiren/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-shadowsiren/</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -111,20 +39,14 @@
     </item>
     <item>
       <title>Abliterated Model</title>
-      <link>https://llmpricing.dev/m/misc/abliterated-model/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/abliterated-model/</guid>
+      <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Abliterated Model Large</title>
-      <link>https://llmpricing.dev/m/misc/abliterated-model-large/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/abliterated-model-large/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Flash Uncensored</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</guid>
+      <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -150,18 +72,6 @@
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-flash-next/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-flash-next/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 26B A4B MeroMero</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-meromero/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-meromero/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 26B A4B MeroMero Thinking</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-meromero-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-meromero-thinking/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GLM 5.3 Flash TEE</title>
@@ -194,12 +104,6 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GLM-5.3-Flash (EU)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-eu/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Qwen3.8 Flash</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-flash/</guid>
@@ -218,82 +122,10 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Qwen 3.8 27B Uncensored Thinking</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored-thinking/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 26B A4B Uncensored Thinking</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-uncensored-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-uncensored-thinking/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 31B MeroMero v2 Thinking</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-meromero-v2-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-meromero-v2-thinking/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Granite 4.2 8B</title>
       <link>https://llmpricing.dev/m/ibm-granite/granite-4.2-8b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/ibm-granite/granite-4.2-8b/</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ornith 1.5 397B</title>
-      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-397b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-397b/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ornith 1.5 397B Thinking</title>
-      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-397b-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-397b-thinking/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ornith 1.5 9B Thinking</title>
-      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-9b-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-9b-thinking/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.6 35B A3B Uncensored Thinking</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b-uncensored-thinking/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B Obliterated</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-obliterated/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-obliterated/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B Obliterated Thinking</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-obliterated-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-obliterated-thinking/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 31B MeroMero v2</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-meromero-v2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-meromero-v2/</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ornith 1.5 9B</title>
-      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-9b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-9b/</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 26B A4B Uncensored</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-uncensored/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek V4 Flash Vision Exp</title>
@@ -306,6 +138,174 @@
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-2/</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta: Muse Spark 1.2 Contributor</title>
+      <link>https://llmpricing.dev/m/meta/muse-spark-1.2-contributor-3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-spark-1.2-contributor-3/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hy-MT2-1.8B</title>
+      <link>https://llmpricing.dev/m/tencent/hy-mt2-1.8b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-1.8b/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hy-MT2-30B-A3B</title>
+      <link>https://llmpricing.dev/m/tencent/hy-mt2-30b-a3b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-30b-a3b/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tencent: Hy-MT2-1.8B</title>
+      <link>https://llmpricing.dev/m/tencent/hy-mt2-1.8b-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-1.8b-2/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tencent: Hy-MT2-30B-A3B</title>
+      <link>https://llmpricing.dev/m/tencent/hy-mt2-30b-a3b-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-30b-a3b-2/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hy-MT2-7B</title>
+      <link>https://llmpricing.dev/m/tencent/hy-mt2-7b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-7b/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tencent: Hy-MT2-7B</title>
+      <link>https://llmpricing.dev/m/tencent/hy-mt2-7b-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-7b-2/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Z.ai: GLM Latest</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-latest-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-latest-2/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ornith 1.5 35B A3B</title>
+      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b-2/</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dots3-Note Preview</title>
+      <link>https://llmpricing.dev/m/dots-studio/dots-3-note-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/dots-studio/dots-3-note-preview/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>nemotron-lightning-3.5-30b-a3b</title>
+      <link>https://llmpricing.dev/m/nvidia/nemotron-lightning-3.5-30b-a3b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-lightning-3.5-30b-a3b/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dots Studio: Dots3-Note Preview (free)</title>
+      <link>https://llmpricing.dev/m/dots-studio/dots-3-note-preview-free-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/dots-studio/dots-3-note-preview-free-2/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dots3-Note Preview (free)</title>
+      <link>https://llmpricing.dev/m/dots-studio/dots-3-note-preview-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/dots-studio/dots-3-note-preview-free/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.3 Thinking</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-thinking/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3 (Baidu)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-5/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3 (EU)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-eu/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3 (free)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-free/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3 (NovitaAI)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-2/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3 (SCX.ai)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-4/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-4/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3 (Z AI)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-3/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3 Highspeed</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-highspeed/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-highspeed/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.8 27B</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.8 27B (free)</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-free/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.8 27B (NovitaAI)</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-3/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.8 27B TEE</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-2/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.8 27B Thinking</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-thinking/</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.7 Flash</title>
+      <link>https://llmpricing.dev/m/google/gemini-3.7-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.7-flash/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
