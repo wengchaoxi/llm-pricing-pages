@@ -55,5 +55,14 @@ Allow: /
 User-Agent: Bingbot
 Allow: /
 
+User-Agent: Mediapartners-Google
+Allow: /
+
+User-Agent: AdsBot-Google
+Allow: /
+
+User-Agent: AdsBot-Google-Mobile
+Allow: /
+
 Host: llmpricing.dev
 Sitemap: https://llmpricing.dev/sitemap.xml
