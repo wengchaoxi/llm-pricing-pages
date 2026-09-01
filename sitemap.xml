@@ -6770,7 +6770,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/alibaba/qwen3-235b-a22b-instruct-2507/</loc>
-<lastmod>2026-09-01</lastmod>
+<lastmod>2026-08-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -7917,12 +7917,6 @@
 <url>
 <loc>https://llmpricing.dev/m/zhipuai/glm-5v-turbo/</loc>
 <lastmod>2026-08-13</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.6</priority>
-</url>
-<url>
-<loc>https://llmpricing.dev/m/misc/mistral-medium-2508/</loc>
-<lastmod>2024-08-07</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -11570,7 +11564,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/qiniu-ai/</loc>
-<lastmod>2026-09-01</lastmod>
+<lastmod>2026-08-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11600,7 +11594,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/meganova/</loc>
-<lastmod>2026-09-01</lastmod>
+<lastmod>2026-08-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11654,7 +11648,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/modelscope/</loc>
-<lastmod>2026-09-01</lastmod>
+<lastmod>2026-08-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11774,7 +11768,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/jiekou/</loc>
-<lastmod>2026-09-01</lastmod>
+<lastmod>2026-08-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11990,7 +11984,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/nebius/</loc>
-<lastmod>2026-09-01</lastmod>
+<lastmod>2026-08-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -12242,7 +12236,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/submodel/</loc>
-<lastmod>2026-09-01</lastmod>
+<lastmod>2026-08-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
