@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 03:45:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:15:00 GMT</lastBuildDate>
     <item>
       <title>Abliterated Model Large V2</title>
       <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-v2/</link>
@@ -207,8 +207,8 @@
     </item>
     <item>
       <title>Ornith 1.5 35B A3B</title>
-      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b-2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b-2/</guid>
+      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b/</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>

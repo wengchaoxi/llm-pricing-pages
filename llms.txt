@@ -6,7 +6,7 @@
 
 - Models: 2574
 - Providers: 212
-- Provider quotes: 7478
+- Provider quotes: 7479
 - Data synced: 2026-09-01
 
 ## About
@@ -90,4 +90,4 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Qwen3.8 27B](https://llmpricing.dev/m/alibaba/qwen3.8-27b/) — Groq, $0.80/$4.00 per 1M, 28 providers
 - [GPT-5](https://llmpricing.dev/m/openai/gpt-5-2/) — OpenAI, $1.25/$10.00 per 1M, 28 providers
 - [GPT-5.1](https://llmpricing.dev/m/openai/gpt-5.1/) — OpenAI, $1.25/$10.00 per 1M, 28 providers
-- [MiMo-V2.5-Pro](https://llmpricing.dev/m/xiaomi/mimo-v2.5-pro/) — Xiaomi, $0.435/$0.87 per 1M, 27 providers
+- [GPT-5.3 Codex](https://llmpricing.dev/m/openai/gpt-5.3-codex/) — OpenAI, $1.75/$14.00 per 1M, 27 providers
