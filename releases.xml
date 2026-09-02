@@ -6,7 +6,43 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:52:36 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic Claude Fable 5.1</title>
+      <link>https://llmpricing.dev/m/anthropic/anthropic-claude-fable-5.1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/anthropic-claude-fable-5.1/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5.1</title>
+      <link>https://llmpricing.dev/m/anthropic/claude-fable-5-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-fable-5-1/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5.1 (Anthropic)</title>
+      <link>https://llmpricing.dev/m/anthropic/claude-fable-5-1-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-fable-5-1-2/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5.1 (Global)</title>
+      <link>https://llmpricing.dev/m/anthropic/global.anthropic.claude-fable-5-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/global.anthropic.claude-fable-5-1/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5.1 (US)</title>
+      <link>https://llmpricing.dev/m/anthropic/us.anthropic.claude-fable-5-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/us.anthropic.claude-fable-5-1/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mercury 2.5 Preview</title>
+      <link>https://llmpricing.dev/m/inception/mercury-2.5-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-2.5-preview/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Abliterated Model Large V2</title>
       <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-v2/</link>
@@ -23,6 +59,12 @@
       <title>IBM: Granite 4.2 8B</title>
       <link>https://llmpricing.dev/m/ibm-granite/granite-4.2-8b-2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/ibm-granite/granite-4.2-8b-2/</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inception: Mercury 2.5 Preview</title>
+      <link>https://llmpricing.dev/m/inception/mercury-2.5-preview-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-2.5-preview-2/</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -263,48 +305,6 @@
       <title>GLM-5.3 (Baidu)</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-6/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-6/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 (EU)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-eu/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 (free)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-free/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 (NovitaAI)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-3/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-3/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 (SCX.ai)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-5/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 (Z AI)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-4/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-4/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 Highspeed</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-highspeed/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-highspeed/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.8 27B</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b/</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
