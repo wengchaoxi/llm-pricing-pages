@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 01:52:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:49:26 GMT</lastBuildDate>
     <item>
       <title>Anthropic Claude Fable 5.1</title>
       <link>https://llmpricing.dev/m/anthropic/anthropic-claude-fable-5.1/</link>
@@ -110,6 +110,12 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GLM Flash Latest</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-flash-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-flash-latest/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Ling 3.0 Flash Fin</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin/</guid>
@@ -131,6 +137,12 @@
       <title>Qwen3.8 Flash Next</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-flash-next/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-flash-next/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Z.ai: GLM Flash Latest</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-flash-latest-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-flash-latest-2/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -293,18 +305,6 @@
       <title>GLM 5.3 Thinking</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-thinking/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 (Baidu)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-6/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-6/</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>

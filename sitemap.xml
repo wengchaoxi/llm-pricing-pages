@@ -10639,6 +10639,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://llmpricing.dev/m/openai/gpt-oss-20b-6/</loc>
+<lastmod>2026-04-16</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://llmpricing.dev/m/misc/neosmith.intelligent-pro/</loc>
 <lastmod>2026-07-18</lastmod>
 <changefreq>monthly</changefreq>
@@ -11984,7 +11990,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/llmgateway-providers/</loc>
-<lastmod>2026-09-01</lastmod>
+<lastmod>2026-09-02</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
