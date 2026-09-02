@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:08:03 GMT</lastBuildDate>
+    <item>
+      <title>Gemini 3.8 Flash</title>
+      <link>https://llmpricing.dev/m/google/gemini-3.8-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-flash/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qwen3.8 Max 0902</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-max-0902/</link>
@@ -299,12 +305,6 @@
       <title>LFM2.5 2.6B</title>
       <link>https://llmpricing.dev/m/liquid/lfm-2.5-2.6b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/liquid/lfm-2.5-2.6b/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Motif 3</title>
-      <link>https://llmpricing.dev/m/motif-technologies/motif-3/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/motif-technologies/motif-3/</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
