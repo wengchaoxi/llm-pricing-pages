@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:51:36 GMT</lastBuildDate>
     <item>
       <title>Gemini 3.8 Flash</title>
       <link>https://llmpricing.dev/m/google/gemini-3.8-flash/</link>
@@ -14,10 +14,40 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Gemini 3.8 Flash (EU)</title>
+      <link>https://llmpricing.dev/m/google/gemini-3.8-flash-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-flash-eu/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Muse Spark 1.3</title>
+      <link>https://llmpricing.dev/m/meta/muse-spark-1.3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-spark-1.3/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Muse Spark 1.3 Contributor</title>
+      <link>https://llmpricing.dev/m/meta/muse-spark-1.3-contributor/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-spark-1.3-contributor/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Muse Spark 1.3 Free</title>
+      <link>https://llmpricing.dev/m/misc/muse-spark-1.3-contributor-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/muse-spark-1.3-contributor-free/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Qwen3.8 Max 0902</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-max-0902/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-max-0902/</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agentic Chat (Claude Fable 5.1)</title>
+      <link>https://llmpricing.dev/m/anthropic/duo-chat-fable-5-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/duo-chat-fable-5-1/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Anthropic Claude Fable 5.1</title>
@@ -29,6 +59,12 @@
       <title>Claude Fable 5.1</title>
       <link>https://llmpricing.dev/m/anthropic/claude-fable-5-1/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-fable-5-1/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5.1 (EU)</title>
+      <link>https://llmpricing.dev/m/anthropic/claude-fable-5.1-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-fable-5.1-eu/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -128,9 +164,21 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Qwen3.8 Flash Next (EU)</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-flash-next-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-flash-next-eu/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GLM-5.3-Flash</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash/</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.3-Flash (EU)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-eu/</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -168,6 +216,12 @@
       <link>https://llmpricing.dev/m/tencent/hy-mt2-7b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-7b/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.3 (50% off)</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-promo-50/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-promo-50/</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Ornith 1.5 35B A3B</title>
@@ -252,60 +306,6 @@
       <link>https://llmpricing.dev/m/google/gemini-3.7-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.7-flash/</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.7 Flash (EU)</title>
-      <link>https://llmpricing.dev/m/google/gemini-3.7-flash-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.7-flash-eu/</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.7 Flash (US)</title>
-      <link>https://llmpricing.dev/m/google/gemini-3.7-flash-us/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.7-flash-us/</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini Flash Latest</title>
-      <link>https://llmpricing.dev/m/google/gemini-flash-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-flash-latest/</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ByteDance Seed 2.1 Turbo</title>
-      <link>https://llmpricing.dev/m/bytedance-seed/seed-2-1-turbo/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/bytedance-seed/seed-2-1-turbo/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4 Pro 0813</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4 Pro 0813 Thinking</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813-thinking/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.6</title>
-      <link>https://llmpricing.dev/m/xai/grok-4.6/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4.6/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.6 (AWS Bedrock)</title>
-      <link>https://llmpricing.dev/m/xai/grok-4-6/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4-6/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LFM2.5 2.6B</title>
-      <link>https://llmpricing.dev/m/liquid/lfm-2.5-2.6b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/liquid/lfm-2.5-2.6b/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
