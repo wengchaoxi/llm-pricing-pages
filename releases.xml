@@ -6,11 +6,47 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:44:58 GMT</lastBuildDate>
+    <item>
+      <title>GPT 6 Astra Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-astra-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-pro/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra (Fast)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-astra-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-fast/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.0 Flash Sante</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.0 Flash Sante (Free)</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante-free/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Omen Alpha</title>
       <link>https://llmpricing.dev/m/misc/omen-alpha/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/omen-alpha/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3 8B TEE</title>
+      <link>https://llmpricing.dev/m/tee/qwen3-8b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tee/qwen3-8b/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -164,7 +200,7 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ling 3.0 Flash Fin (free)</title>
+      <title>Ling 3.0 Flash Fin (Free)</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin-free/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
@@ -248,64 +284,28 @@
       <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Qwen3.5 0.8B</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.5-0.8b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.5-0.8b/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.5 2B</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.5-2b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.5-2b/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.5 4B</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.5-4b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.5-4b/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>nemotron-lightning-3.5-30b-a3b</title>
       <link>https://llmpricing.dev/m/nvidia/nemotron-lightning-3.5-30b-a3b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-lightning-3.5-30b-a3b/</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dots3-Note Preview (free)</title>
-      <link>https://llmpricing.dev/m/dots-studio/dots-3-note-preview-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/dots-studio/dots-3-note-preview-free/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Fast</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-fast/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 FP4</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-fp4/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-fp4/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Thinking</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-thinking/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 (EU)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-eu/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 (free)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-free/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 Highspeed</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-highspeed/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-highspeed/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.8 27B</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
