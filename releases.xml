@@ -6,13 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 02:44:58 GMT</lastBuildDate>
-    <item>
-      <title>GPT 6 Astra Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-astra-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-pro/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 06:41:38 GMT</lastBuildDate>
     <item>
       <title>GPT-6 Astra</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra/</link>
@@ -20,9 +14,21 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GPT-6 Astra (Azure)</title>
+      <link>https://llmpricing.dev/m/azure/gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/azure/gpt-6-astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GPT-6 Astra (Fast)</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra-fast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-fast/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-astra-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-pro/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -300,12 +306,6 @@
       <link>https://llmpricing.dev/m/alibaba/qwen3.5-4b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.5-4b/</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>nemotron-lightning-3.5-30b-a3b</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-lightning-3.5-30b-a3b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-lightning-3.5-30b-a3b/</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
