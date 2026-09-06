@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1872+ LLM/chat models across 213 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1871+ LLM/chat models across 213 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1872
+- Models: 1871
 - Providers: 213
-- Provider quotes: 7559
-- Data synced: 2026-09-05
+- Provider quotes: 7563
+- Data synced: 2026-09-06
 
 ## About
 
@@ -24,7 +24,7 @@ Methodology:
 - Pricing & capabilities: models.dev (MIT licensed).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-09-05); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-09-06); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -68,7 +68,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [MiniMax-M2.7](https://llmpricing.dev/m/minimax/MiniMax-M2.7/) — MiniMax (minimax.io), $0.30/$1.20 per 1M, 43 providers
 - [MiniMax-M3](https://llmpricing.dev/m/minimax/MiniMax-M3/) — MiniMax (minimax.io), $0.30/$1.20 per 1M, 43 providers
 - [Claude Opus 4.6](https://llmpricing.dev/m/anthropic/claude-opus-4-6/) — Anthropic, $5.00/$25.00 per 1M, 42 providers
-- [GPT-5.6 Sol](https://llmpricing.dev/m/openai/gpt-5.6-sol/) — OpenAI, $4.00/$20.00 per 1M, 41 providers
+- [GPT-5.6 Sol](https://llmpricing.dev/m/openai/gpt-5.6-sol/) — OpenAI, $4.00/$20.00 per 1M, 40 providers
 - [GPT-5.4 mini](https://llmpricing.dev/m/openai/gpt-5.4-mini/) — OpenAI, $0.75/$4.50 per 1M, 39 providers
 - [GPT-5.6 Luna](https://llmpricing.dev/m/openai/gpt-5.6-luna/) — OpenAI, $0.20/$1.20 per 1M, 39 providers
 - [GPT-5.6 Terra](https://llmpricing.dev/m/openai/gpt-5.6-terra/) — OpenAI, $2.00/$12.00 per 1M, 39 providers

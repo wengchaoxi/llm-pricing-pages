@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 06:41:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 06:51:47 GMT</lastBuildDate>
     <item>
       <title>GPT-6 Astra</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra/</link>
