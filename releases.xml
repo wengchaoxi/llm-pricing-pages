@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 06:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:00:49 GMT</lastBuildDate>
+    <item>
+      <title>TheDrummer/Artemis v1.1</title>
+      <link>https://llmpricing.dev/m/thedrummer/artemis-v1.1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/artemis-v1.1/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>GPT-6 Astra</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra/</link>
@@ -68,7 +74,7 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Gemini 3.8 Flash (US)</title>
+      <title>Gemini 3.8 Flash (Vertex AI, US)</title>
       <link>https://llmpricing.dev/m/google/gemini-3.8-flash-us/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-flash-us/</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
@@ -299,12 +305,6 @@
       <title>Qwen3.5 2B</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.5-2b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.5-2b/</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.5 4B</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.5-4b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.5-4b/</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
