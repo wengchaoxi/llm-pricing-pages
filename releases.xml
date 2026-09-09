@@ -6,7 +6,37 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 06:55:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:05:00 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek V4.1 Flash</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash Beta</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-beta/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-beta/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mercury 2.5</title>
+      <link>https://llmpricing.dev/m/inception/mercury-2.5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-2.5/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nex AGI: Nex-N2.5-Mini (free)</title>
+      <link>https://llmpricing.dev/m/nex-agi/nex-n2.5-mini-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nex-agi/nex-n2.5-mini-free/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nex AGI: Nex-N2.5-Pro (free)</title>
+      <link>https://llmpricing.dev/m/nex-agi/nex-n2.5-pro-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nex-agi/nex-n2.5-pro-free/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek V4 Flash Vision Exp Uncensored</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-uncensored/</link>
@@ -44,6 +74,18 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GPT-6 Astra (Global)</title>
+      <link>https://llmpricing.dev/m/misc/global.openai.gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/global.openai.gpt-6-astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra (US)</title>
+      <link>https://llmpricing.dev/m/misc/us.openai.gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/us.openai.gpt-6-astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GPT-6 Astra Pro</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-pro/</guid>
@@ -65,6 +107,18 @@
       <title>Omen Alpha</title>
       <link>https://llmpricing.dev/m/misc/omen-alpha/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/omen-alpha/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI GPT-6 Astra</title>
+      <link>https://llmpricing.dev/m/misc/openai-gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/openai-gpt-6-astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3 8B TEE</title>
+      <link>https://llmpricing.dev/m/tee/qwen3-8b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tee/qwen3-8b/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -152,6 +206,12 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Mercury 2.5 Preview</title>
+      <link>https://llmpricing.dev/m/inception/mercury-2.5-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-2.5-preview/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Abliterated Model Large V2</title>
       <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-v2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-v2/</guid>
@@ -161,12 +221,6 @@
       <title>Granite 4.2 8B</title>
       <link>https://llmpricing.dev/m/ibm-granite/granite-4.2-8b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/ibm-granite/granite-4.2-8b/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mercury 2.5 Preview</title>
-      <link>https://llmpricing.dev/m/inception/mercury-2.5-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-2.5-preview/</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -252,60 +306,6 @@
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-eu/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-eu/</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.8 Flash</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-flash/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ZDev</title>
-      <link>https://llmpricing.dev/m/misc/zdev/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/zdev/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4 Flash Vision Exp</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp/</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hy-MT2-1.8B</title>
-      <link>https://llmpricing.dev/m/tencent/hy-mt2-1.8b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-1.8b/</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hy-MT2-30B-A3B</title>
-      <link>https://llmpricing.dev/m/tencent/hy-mt2-30b-a3b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-30b-a3b/</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM Latest</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-latest/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hy-MT2-7B</title>
-      <link>https://llmpricing.dev/m/tencent/hy-mt2-7b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy-mt2-7b/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 (50% off)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-promo-50/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-promo-50/</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ornith 1.5 35B A3B</title>
-      <link>https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepreinforce/ornith-1.5-35b-a3b/</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
