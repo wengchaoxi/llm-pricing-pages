@@ -6,12 +6,54 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:00:54 GMT</lastBuildDate>
     <item>
       <title>DeepSeek V4.1 Flash</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash Thinking</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agnes 3.0 Flash</title>
+      <link>https://llmpricing.dev/m/misc/agnes-3.0-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/agnes-3.0-flash/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 12B Semancer</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-12b-it-semancer/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-12b-it-semancer/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 12B StationKeeper</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-12b-it-station-keeper/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-12b-it-station-keeper/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>K2-Horizon-7B</title>
+      <link>https://llmpricing.dev/m/misc/k2-horizon-7b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/k2-horizon-7b/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.0 Flash VL</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Queen</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-queen/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-queen/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek V4.1 Flash Beta</title>
@@ -101,12 +143,6 @@
       <title>Ling 3.0 Flash Sante (Free)</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante-free/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Omen Alpha</title>
-      <link>https://llmpricing.dev/m/misc/omen-alpha/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/omen-alpha/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -270,42 +306,6 @@
       <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.0 Flash Fin (Free)</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin-free/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrcaRouter Free</title>
-      <link>https://llmpricing.dev/m/orcarouter/free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/orcarouter/free/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.8 Flash Next</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-flash-next/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-flash-next/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.8 Flash Next (EU)</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-flash-next-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-flash-next-eu/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3-Flash</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3-Flash (EU)</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-eu/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
