@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 07:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:54:17 GMT</lastBuildDate>
     <item>
       <title>DeepSeek V4.1 Flash</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</link>

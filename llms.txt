@@ -1,12 +1,12 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1920+ LLM/chat models across 213 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1918+ LLM/chat models across 213 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1920
+- Models: 1918
 - Providers: 213
-- Provider quotes: 7617
+- Provider quotes: 7614
 - Data synced: 2026-09-10
 
 ## About
@@ -53,8 +53,8 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 - [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Zhipu AI, $1.40/$4.40 per 1M, 101 providers
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — CloudFerro Sherlock, $2.92/$2.92 per 1M, 82 providers
-- [DeepSeek V4 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4-flash/) — DeepSeek, $0.14/$0.28 per 1M, 80 providers
 - [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — DeepSeek, $0.435/$0.87 per 1M, 79 providers
+- [DeepSeek V4 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4-flash/) — DeepSeek, $0.14/$0.28 per 1M, 78 providers
 - [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (China), $3.00/$15.00 per 1M, 72 providers
 - [Kimi K2.7 Code](https://llmpricing.dev/m/moonshotai/kimi-k2.7-code/) — Moonshot AI (China), $0.95/$4.00 per 1M, 64 providers
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Zhipu AI, $0.075/$0.25 per 1M, 55 providers
