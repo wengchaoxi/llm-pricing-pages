@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:00:41 GMT</lastBuildDate>
+    <item>
+      <title>Fugu Max</title>
+      <link>https://llmpricing.dev/m/sakana/fugu-max/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/sakana/fugu-max/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fugu Ultra v2</title>
+      <link>https://llmpricing.dev/m/sakana/fugu-ultra-v2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/sakana/fugu-ultra-v2/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek V4.1 Flash</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</link>
@@ -17,6 +29,12 @@
       <title>DeepSeek V4.1 Flash Thinking</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>inclusionAI: Ling 3.0 Flash VL (free)</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -38,12 +56,6 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>K2-Horizon-7B</title>
-      <link>https://llmpricing.dev/m/misc/k2-horizon-7b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/k2-horizon-7b/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Ling 3.0 Flash VL</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</guid>
@@ -54,12 +66,6 @@
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-queen/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-queen/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash Beta</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-beta/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-beta/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Mercury 2.5</title>
@@ -78,12 +84,6 @@
       <link>https://llmpricing.dev/m/nex-agi/nex-n2.5-pro-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nex-agi/nex-n2.5-pro-free/</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4 Flash Vision Exp Uncensored</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-uncensored/</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>TheDrummer/Artemis v1.1</title>
