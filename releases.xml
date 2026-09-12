@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:51:44 GMT</lastBuildDate>
+    <item>
+      <title>Inference.net: Schematron V2 Small</title>
+      <link>https://llmpricing.dev/m/inference-net/schematron-v2-small/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-small/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inference.net: Schematron V2 Turbo</title>
+      <link>https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Fugu Max</title>
       <link>https://llmpricing.dev/m/sakana/fugu-max/</link>
@@ -17,6 +29,42 @@
       <title>Fugu Ultra v2</title>
       <link>https://llmpricing.dev/m/sakana/fugu-ultra-v2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/sakana/fugu-ultra-v2/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fugu Ultra v2.0</title>
+      <link>https://llmpricing.dev/m/misc/fugu-ultra-v2.0/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/fugu-ultra-v2.0/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fugu Ultra v2.0 (Sakana AI)</title>
+      <link>https://llmpricing.dev/m/sakana/fugu-ultra-v2.0/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/sakana/fugu-ultra-v2.0/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI GPT Astra Latest ($$$$)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-astra-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-astra-latest/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI GPT Luna Latest</title>
+      <link>https://llmpricing.dev/m/openai/gpt-luna-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-luna-latest/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI GPT Sol Latest</title>
+      <link>https://llmpricing.dev/m/openai/gpt-sol-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-sol-latest/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI GPT Terra Latest</title>
+      <link>https://llmpricing.dev/m/openai/gpt-terra-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-terra-latest/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -38,6 +86,24 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>LightOnOCR 2</title>
+      <link>https://llmpricing.dev/m/lightonai/lightonocr-2-1b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/lightonai/lightonocr-2-1b/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.0 Flash VL</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Llama 3.1 405B</title>
+      <link>https://llmpricing.dev/m/meta/llama-3.1-405b-instruct/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meta/llama-3.1-405b-instruct/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Agnes 3.0 Flash</title>
       <link>https://llmpricing.dev/m/misc/agnes-3.0-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/agnes-3.0-flash/</guid>
@@ -53,12 +119,6 @@
       <title>Gemma 4 12B StationKeeper</title>
       <link>https://llmpricing.dev/m/google/gemma-4-12b-it-station-keeper/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-12b-it-station-keeper/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.0 Flash VL</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -246,66 +306,6 @@
       <link>https://llmpricing.dev/m/inception/mercury-2.5-preview/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-2.5-preview/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abliterated Model Large V2</title>
-      <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-v2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-v2/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Granite 4.2 8B</title>
-      <link>https://llmpricing.dev/m/ibm-granite/granite-4.2-8b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/ibm-granite/granite-4.2-8b/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kloker</title>
-      <link>https://llmpricing.dev/m/misc/kloker/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/kloker/</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kloker Integration Architect</title>
-      <link>https://llmpricing.dev/m/misc/kloker-integration-architect/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/kloker-integration-architect/</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kloker Integration Developer</title>
-      <link>https://llmpricing.dev/m/misc/kloker-integration-developer/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/kloker-integration-developer/</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hy4 preview</title>
-      <link>https://llmpricing.dev/m/tencent/hy4-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy4-preview/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abliterated Model</title>
-      <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abliterated Model Large</title>
-      <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM Flash Latest</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-flash-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-flash-latest/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.0 Flash Fin</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-fin/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
