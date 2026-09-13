@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 06:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 07:10:05 GMT</lastBuildDate>
     <item>
       <title>Inference.net: Schematron V2 Small</title>
       <link>https://llmpricing.dev/m/inference-net/schematron-v2-small/</link>
@@ -44,25 +44,25 @@
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI GPT Astra Latest ($$$$)</title>
+      <title>GPT Astra Latest</title>
       <link>https://llmpricing.dev/m/openai/gpt-astra-latest/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-astra-latest/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI GPT Luna Latest</title>
+      <title>GPT Luna Latest</title>
       <link>https://llmpricing.dev/m/openai/gpt-luna-latest/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-luna-latest/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI GPT Sol Latest</title>
+      <title>GPT Sol Latest</title>
       <link>https://llmpricing.dev/m/openai/gpt-sol-latest/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-sol-latest/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI GPT Terra Latest</title>
+      <title>GPT Terra Latest</title>
       <link>https://llmpricing.dev/m/openai/gpt-terra-latest/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-terra-latest/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
@@ -71,6 +71,12 @@
       <title>DeepSeek V4.1 Flash</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash (EU)</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-eu/</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -161,6 +167,12 @@
       <title>GPT-6 Astra</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra (AWS Mantle)</title>
+      <link>https://llmpricing.dev/m/aws-mantle/gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aws-mantle/gpt-6-astra/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -293,18 +305,6 @@
       <title>Claude Fable 5.1 (Global)</title>
       <link>https://llmpricing.dev/m/anthropic/global.anthropic.claude-fable-5-1/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/global.anthropic.claude-fable-5-1/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Fable 5.1 (US)</title>
-      <link>https://llmpricing.dev/m/anthropic/us.anthropic.claude-fable-5-1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/us.anthropic.claude-fable-5-1/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mercury 2.5 Preview</title>
-      <link>https://llmpricing.dev/m/inception/mercury-2.5-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-2.5-preview/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
