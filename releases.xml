@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 07:10:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:34:28 GMT</lastBuildDate>
     <item>
       <title>Inference.net: Schematron V2 Small</title>
       <link>https://llmpricing.dev/m/inference-net/schematron-v2-small/</link>
