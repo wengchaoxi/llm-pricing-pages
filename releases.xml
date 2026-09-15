@@ -6,15 +6,39 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 07:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:11:15 GMT</lastBuildDate>
     <item>
-      <title>Inference.net: Schematron V2 Small</title>
+      <title>DeepSeek: DeepSeek Flash Latest</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-flash-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-flash-latest/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek: DeepSeek Pro Latest</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-pro-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-pro-latest/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Atria Dawn Preview</title>
+      <link>https://llmpricing.dev/m/misc/atria-dawn-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/atria-dawn-preview/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Atria Dawn Preview (Atria)</title>
+      <link>https://llmpricing.dev/m/atria/atria-dawn-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/atria/atria-dawn-preview/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schematron V2 Small</title>
       <link>https://llmpricing.dev/m/inference-net/schematron-v2-small/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-small/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Inference.net: Schematron V2 Turbo</title>
+      <title>Schematron V2 Turbo</title>
       <link>https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
@@ -68,6 +92,12 @@
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>kimi-for-coding</title>
+      <link>https://llmpricing.dev/m/moonshotai/kimi-for-coding/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/moonshotai/kimi-for-coding/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DeepSeek V4.1 Flash</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</guid>
@@ -86,12 +116,6 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>inclusionAI: Ling 3.0 Flash VL (free)</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>LightOnOCR 2</title>
       <link>https://llmpricing.dev/m/lightonai/lightonocr-2-1b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/lightonai/lightonocr-2-1b/</guid>
@@ -101,6 +125,12 @@
       <title>Ling 3.0 Flash VL</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.0 Flash VL (Free)</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -152,6 +182,12 @@
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>MiniCPM5-2B</title>
+      <link>https://llmpricing.dev/m/openbmb/minicpm5-2b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openbmb/minicpm5-2b/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>TheDrummer/Artemis v1.1</title>
       <link>https://llmpricing.dev/m/thedrummer/artemis-v1.1/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/artemis-v1.1/</guid>
@@ -194,6 +230,12 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GPT-6 Astra (Official API)</title>
+      <link>https://llmpricing.dev/m/infer/gpt-6-astra-official/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/infer/gpt-6-astra-official/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GPT-6 Astra (US)</title>
       <link>https://llmpricing.dev/m/misc/us.openai.gpt-6-astra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/us.openai.gpt-6-astra/</guid>
@@ -221,12 +263,6 @@
       <title>OpenAI GPT-6 Astra</title>
       <link>https://llmpricing.dev/m/misc/openai-gpt-6-astra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/openai-gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3 8B TEE</title>
-      <link>https://llmpricing.dev/m/tee/qwen3-8b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/tee/qwen3-8b/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -270,42 +306,6 @@
       <link>https://llmpricing.dev/m/consensusprotocol/qwen3.8-27b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/consensusprotocol/qwen3.8-27b/</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.8 Max 0902</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-max-0902/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-max-0902/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentic Chat (Claude Fable 5.1)</title>
-      <link>https://llmpricing.dev/m/anthropic/duo-chat-fable-5-1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/duo-chat-fable-5-1/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Claude Fable 5.1</title>
-      <link>https://llmpricing.dev/m/anthropic/anthropic-claude-fable-5.1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/anthropic-claude-fable-5.1/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Fable 5.1</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-fable-5-1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-fable-5-1/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Fable 5.1 (EU)</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-fable-5.1-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-fable-5.1-eu/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Fable 5.1 (Global)</title>
-      <link>https://llmpricing.dev/m/anthropic/global.anthropic.claude-fable-5-1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/global.anthropic.claude-fable-5-1/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
