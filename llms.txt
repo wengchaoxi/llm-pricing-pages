@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1942+ LLM/chat models across 217 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1952+ LLM/chat models across 217 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1942
+- Models: 1952
 - Providers: 217
-- Provider quotes: 7808
-- Data synced: 2026-09-15
+- Provider quotes: 7824
+- Data synced: 2026-09-16
 
 ## About
 
@@ -24,7 +24,7 @@ Methodology:
 - Pricing & capabilities: models.dev (MIT licensed).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-09-15); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-09-16); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -53,20 +53,20 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 - [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Zhipu AI, $1.40/$4.40 per 1M, 103 providers
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — CloudFerro Sherlock, $2.92/$2.92 per 1M, 82 providers
-- [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — DeepSeek, $0.435/$0.87 per 1M, 80 providers
+- [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — DeepSeek, $0.435/$0.87 per 1M, 81 providers
 - [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (China), $3.00/$15.00 per 1M, 79 providers
 - [DeepSeek V4 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4-flash/) — DeepSeek, $0.15/$0.60 per 1M, 77 providers
 - [Kimi K2.7 Code](https://llmpricing.dev/m/moonshotai/kimi-k2.7-code/) — Moonshot AI (China), $0.95/$4.00 per 1M, 64 providers
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Zhipu AI, $0.075/$0.25 per 1M, 61 providers
-- [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Zhipu AI, $1.40/$4.40 per 1M, 56 providers
-- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Volcengine Ark, $0.445/$1.34 per 1M, 53 providers
+- [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Zhipu AI, $1.40/$4.40 per 1M, 58 providers
+- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Volcengine Ark, $0.445/$1.34 per 1M, 52 providers
 - [GPT-5.5](https://llmpricing.dev/m/openai/gpt-5.5/) — OpenAI, $5.00/$30.00 per 1M, 49 providers
 - [Claude Sonnet 4.6](https://llmpricing.dev/m/anthropic/claude-sonnet-4-6/) — Anthropic, $3.00/$15.00 per 1M, 49 providers
 - [Claude Opus 4.8](https://llmpricing.dev/m/anthropic/claude-opus-4-8/) — Anthropic, $5.00/$25.00 per 1M, 47 providers
+- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — DeepSeek, $0.15/$0.60 per 1M, 47 providers
 - [GPT-5.4](https://llmpricing.dev/m/openai/gpt-5.4/) — OpenAI, $2.50/$15.00 per 1M, 45 providers
 - [Claude Opus 4.7](https://llmpricing.dev/m/anthropic/claude-opus-4-7/) — Anthropic, $5.00/$25.00 per 1M, 45 providers
 - [MiniMax-M3](https://llmpricing.dev/m/minimax/MiniMax-M3/) — MiniMax (minimax.io), $0.30/$1.20 per 1M, 44 providers
-- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — DeepSeek, $0.15/$0.60 per 1M, 44 providers
 - [GPT-5.6 Luna](https://llmpricing.dev/m/openai/gpt-5.6-luna/) — OpenAI, $0.20/$1.20 per 1M, 41 providers
 - [Claude Opus 4.6](https://llmpricing.dev/m/anthropic/claude-opus-4-6/) — Anthropic, $5.00/$25.00 per 1M, 41 providers
 - [GPT-5.6 Sol](https://llmpricing.dev/m/openai/gpt-5.6-sol/) — OpenAI, $4.00/$20.00 per 1M, 41 providers

@@ -6,15 +6,33 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:13:05 GMT</lastBuildDate>
     <item>
-      <title>DeepSeek: DeepSeek Flash Latest</title>
+      <title>DeepSeek-V4.1-Flash (Runware)</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.8 Live</title>
+      <link>https://llmpricing.dev/m/google/gemini-3.8-live/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-live/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.8 Live Extended Thinking</title>
+      <link>https://llmpricing.dev/m/google/gemini-3.8-live-extended-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-live-extended-thinking/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek Flash Latest</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-flash-latest/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-flash-latest/</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek: DeepSeek Pro Latest</title>
+      <title>DeepSeek Pro Latest</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-pro-latest/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-pro-latest/</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
@@ -32,15 +50,27 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Schematron V2 Small</title>
+      <title>Inference.net: Schematron V2 Small</title>
       <link>https://llmpricing.dev/m/inference-net/schematron-v2-small/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-small/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Schematron V2 Turbo</title>
+      <title>Inference.net: Schematron V2 Turbo</title>
       <link>https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schematron V2 Small</title>
+      <link>https://llmpricing.dev/m/openai/schematron-v2-small/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/schematron-v2-small/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schematron V2 Turbo</title>
+      <link>https://llmpricing.dev/m/openai/schematron-v2-turbo/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/schematron-v2-turbo/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -113,6 +143,12 @@
       <title>DeepSeek V4.1 Flash Thinking</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-Live 1</title>
+      <link>https://llmpricing.dev/m/openai/gpt-live-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-live-1/</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -269,42 +305,6 @@
       <title>Gemini 3.8 Flash</title>
       <link>https://llmpricing.dev/m/google/gemini-3.8-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-flash/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.8 Flash (EU)</title>
-      <link>https://llmpricing.dev/m/google/gemini-3.8-flash-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-flash-eu/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.8 Flash (Vertex AI, US)</title>
-      <link>https://llmpricing.dev/m/google/gemini-3.8-flash-us/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-flash-us/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Spark 1.3</title>
-      <link>https://llmpricing.dev/m/meta/muse-spark-1.3/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-spark-1.3/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Spark 1.3 Contributor</title>
-      <link>https://llmpricing.dev/m/meta/muse-spark-1.3-contributor/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-spark-1.3-contributor/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Spark 1.3 Free</title>
-      <link>https://llmpricing.dev/m/misc/muse-spark-1.3-contributor-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/muse-spark-1.3-contributor-free/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.8 27B (Consensus Protocol)</title>
-      <link>https://llmpricing.dev/m/consensusprotocol/qwen3.8-27b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/consensusprotocol/qwen3.8-27b/</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
