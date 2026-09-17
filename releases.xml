@@ -6,12 +6,18 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:01:15 GMT</lastBuildDate>
     <item>
-      <title>DeepSeek-V4.1-Flash (Runware)</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <title>Union Alpha</title>
+      <link>https://llmpricing.dev/m/stealth/union-alpha/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/stealth/union-alpha/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Union Alpha Free</title>
+      <link>https://llmpricing.dev/m/misc/union-alpha/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/union-alpha/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Gemini 3.8 Live</title>
@@ -300,12 +306,6 @@
       <link>https://llmpricing.dev/m/misc/openai-gpt-6-astra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/openai-gpt-6-astra/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.8 Flash</title>
-      <link>https://llmpricing.dev/m/google/gemini-3.8-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-flash/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
