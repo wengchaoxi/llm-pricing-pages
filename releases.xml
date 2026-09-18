@@ -6,18 +6,24 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:03:17 GMT</lastBuildDate>
     <item>
-      <title>Union Alpha</title>
-      <link>https://llmpricing.dev/m/stealth/union-alpha/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/stealth/union-alpha/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <title>Gemma 4 31B Split-Untied</title>
+      <link>https://llmpricing.dev/m/google/gemma4-31b-splituntied/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma4-31b-splituntied/</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Union Alpha Free</title>
-      <link>https://llmpricing.dev/m/misc/union-alpha/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/union-alpha/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <title>Pareto</title>
+      <link>https://llmpricing.dev/m/unbiased/pareto/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/unbiased/pareto/</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.8 Omni Flash</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-omni-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-omni-flash/</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Gemini 3.8 Live</title>
@@ -29,6 +35,12 @@
       <title>Gemini 3.8 Live Extended Thinking</title>
       <link>https://llmpricing.dev/m/google/gemini-3.8-live-extended-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-live-extended-thinking/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jev</title>
+      <link>https://llmpricing.dev/m/typesafe/jev-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/typesafe/jev-latest/</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -56,27 +68,15 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Inference.net: Schematron V2 Small</title>
+      <title>Schematron V2 Small</title>
       <link>https://llmpricing.dev/m/inference-net/schematron-v2-small/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-small/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Inference.net: Schematron V2 Turbo</title>
+      <title>Schematron V2 Turbo</title>
       <link>https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schematron V2 Small</title>
-      <link>https://llmpricing.dev/m/openai/schematron-v2-small/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/schematron-v2-small/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schematron V2 Turbo</title>
-      <link>https://llmpricing.dev/m/openai/schematron-v2-turbo/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/schematron-v2-turbo/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -173,12 +173,6 @@
       <title>Ling 3.0 Flash VL (Free)</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Llama 3.1 405B</title>
-      <link>https://llmpricing.dev/m/meta/llama-3.1-405b-instruct/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meta/llama-3.1-405b-instruct/</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -306,6 +300,12 @@
       <link>https://llmpricing.dev/m/misc/openai-gpt-6-astra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/openai-gpt-6-astra/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.8 Flash</title>
+      <link>https://llmpricing.dev/m/google/gemini-3.8-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-flash/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
