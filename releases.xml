@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 07:27:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:23:28 GMT</lastBuildDate>
     <item>
       <title>Step 5 Preview</title>
       <link>https://llmpricing.dev/m/stepfun/step-5-preview/</link>
@@ -159,12 +159,6 @@
     </item>
     <item>
       <title>Fugu Ultra v2.0</title>
-      <link>https://llmpricing.dev/m/misc/fugu-ultra-v2.0/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/fugu-ultra-v2.0/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fugu Ultra v2.0 (Sakana AI)</title>
       <link>https://llmpricing.dev/m/sakana/fugu-ultra-v2.0/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/sakana/fugu-ultra-v2.0/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
@@ -297,14 +291,20 @@
     </item>
     <item>
       <title>Agentic Chat (GPT-6 Astra)</title>
-      <link>https://llmpricing.dev/m/misc/duo-chat-gpt-6-astra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/duo-chat-gpt-6-astra/</guid>
+      <link>https://llmpricing.dev/m/openai/duo-chat-gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/duo-chat-gpt-6-astra/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GPT-6 Astra</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra (Fast)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-astra-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-fast/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
