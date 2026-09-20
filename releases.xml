@@ -6,7 +6,31 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 05:04:45 GMT</lastBuildDate>
+    <item>
+      <title>DiffusionGemma</title>
+      <link>https://llmpricing.dev/m/google/diffusiongemma/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/diffusiongemma/</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 26B A4B Cybersecurity</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-cybersecurity/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-cybersecurity/</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.3 Flash Cybersecurity</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-cybersecurity/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-cybersecurity/</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Cybersecurity</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-cybersecurity/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-cybersecurity/</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>GLM 5.3 FlashX</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flashx/</link>
@@ -38,6 +62,18 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Arrow 2</title>
+      <link>https://llmpricing.dev/m/quiverai/arrow-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/quiverai/arrow-2/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arrow 2 Telos</title>
+      <link>https://llmpricing.dev/m/quiverai/arrow-2-telos/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/quiverai/arrow-2-telos/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Gemini 3.8 Live</title>
       <link>https://llmpricing.dev/m/google/gemini-3.8-live/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-live/</guid>
@@ -53,6 +89,18 @@
       <title>Jev</title>
       <link>https://llmpricing.dev/m/typesafe/jev-latest/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/typesafe/jev-latest/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jev 1.13</title>
+      <link>https://llmpricing.dev/m/misc/jev-1.13/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jev-1.13/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jev 1.13 Free</title>
+      <link>https://llmpricing.dev/m/misc/jev-1.13-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jev-1.13-free/</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -257,54 +305,6 @@
       <title>GPT-6 Astra (AWS Mantle)</title>
       <link>https://llmpricing.dev/m/aws-mantle/gpt-6-astra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/aws-mantle/gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (Azure)</title>
-      <link>https://llmpricing.dev/m/azure/gpt-6-astra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/azure/gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (Fast)</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-astra-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-fast/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (Global)</title>
-      <link>https://llmpricing.dev/m/misc/global.openai.gpt-6-astra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/global.openai.gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (Official API)</title>
-      <link>https://llmpricing.dev/m/infer/gpt-6-astra-official/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/infer/gpt-6-astra-official/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (US)</title>
-      <link>https://llmpricing.dev/m/misc/us.openai.gpt-6-astra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/us.openai.gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-astra-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-pro/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.0 Flash Sante</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.0 Flash Sante (Free)</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-sante-free/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
