@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 05:04:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 05:40:07 GMT</lastBuildDate>
+    <item>
+      <title>Step 5 Preview</title>
+      <link>https://llmpricing.dev/m/stepfun/step-5-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/stepfun/step-5-preview/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DiffusionGemma</title>
       <link>https://llmpricing.dev/m/google/diffusiongemma/</link>
@@ -299,12 +305,6 @@
       <title>GPT-6 Astra</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (AWS Mantle)</title>
-      <link>https://llmpricing.dev/m/aws-mantle/gpt-6-astra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aws-mantle/gpt-6-astra/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
