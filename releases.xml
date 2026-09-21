@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:10:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:18:32 GMT</lastBuildDate>
     <item>
       <title>Qwen 3.8 27B Hemingway</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-hemmingway/</link>
