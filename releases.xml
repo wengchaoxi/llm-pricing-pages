@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:38:00 GMT</lastBuildDate>
     <item>
       <title>Step 5 Preview</title>
       <link>https://llmpricing.dev/m/stepfun/step-5-preview/</link>
@@ -89,24 +89,6 @@
       <title>Gemini 3.8 Live Extended Thinking</title>
       <link>https://llmpricing.dev/m/google/gemini-3.8-live-extended-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-live-extended-thinking/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jev</title>
-      <link>https://llmpricing.dev/m/typesafe/jev-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/typesafe/jev-latest/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jev 1.13</title>
-      <link>https://llmpricing.dev/m/misc/jev-1.13/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jev-1.13/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jev 1.13 Free</title>
-      <link>https://llmpricing.dev/m/misc/jev-1.13-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jev-1.13-free/</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -305,6 +287,24 @@
       <title>GPT-6 Astra (Fast)</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-astra-fast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-fast/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra (Global)</title>
+      <link>https://llmpricing.dev/m/openai/global.openai.gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/global.openai.gpt-6-astra/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra (Official API)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-astra-official/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-official/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra (US)</title>
+      <link>https://llmpricing.dev/m/openai/us.openai.gpt-6-astra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/us.openai.gpt-6-astra/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
