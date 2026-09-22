@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 07:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:39:09 GMT</lastBuildDate>
     <item>
       <title>MiMo-V2.6-Flash</title>
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash/</link>
