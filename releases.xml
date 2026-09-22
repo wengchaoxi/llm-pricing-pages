@@ -6,7 +6,43 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:37:49 GMT</lastBuildDate>
+    <item>
+      <title>MiMo-V2.6-Flash</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo-V2.6-Flash Free</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-free/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo-V2.6-Pro</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-pro/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok 4.7</title>
+      <link>https://llmpricing.dev/m/xai/grok-4.7/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4.7/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok 4.7 (xAI)</title>
+      <link>https://llmpricing.dev/m/xai/grok-4-7/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4-7/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo-V2.6-Pro-UltraSpeed</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-pro-ultraspeed/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-pro-ultraspeed/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qwen 3.8 27B Hemingway</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-hemmingway/</link>
@@ -14,10 +50,10 @@
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Step 5 Preview</title>
-      <link>https://llmpricing.dev/m/stepfun/step-5-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/stepfun/step-5-preview/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+      <title>Viv Fast</title>
+      <link>https://llmpricing.dev/m/vivgrid/viv-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/vivgrid/viv-fast/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DiffusionGemma</title>
@@ -83,6 +119,12 @@
       <title>Arrow 2 Telos</title>
       <link>https://llmpricing.dev/m/quiverai/arrow-2-telos/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/quiverai/arrow-2-telos/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Step 5 Preview</title>
+      <link>https://llmpricing.dev/m/stepfun/step-5-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/stepfun/step-5-preview/</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -194,6 +236,12 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DeepSeek V4.1 Flash Flex</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-flex/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-flex/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DeepSeek V4.1 Flash Thinking</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</guid>
@@ -258,54 +306,6 @@
       <link>https://llmpricing.dev/m/nex-agi/nex-n2.5-mini-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nex-agi/nex-n2.5-mini-free/</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nex AGI: Nex-N2.5-Pro (free)</title>
-      <link>https://llmpricing.dev/m/nex-agi/nex-n2.5-pro-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nex-agi/nex-n2.5-pro-free/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiniCPM5-2B</title>
-      <link>https://llmpricing.dev/m/openbmb/minicpm5-2b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openbmb/minicpm5-2b/</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TheDrummer/Artemis v1.1</title>
-      <link>https://llmpricing.dev/m/thedrummer/artemis-v1.1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/artemis-v1.1/</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentic Chat (GPT-6 Astra)</title>
-      <link>https://llmpricing.dev/m/openai/duo-chat-gpt-6-astra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/duo-chat-gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-astra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (Fast)</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-astra-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-fast/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (Global)</title>
-      <link>https://llmpricing.dev/m/openai/global.openai.gpt-6-astra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/global.openai.gpt-6-astra/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra (Official API)</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-astra-official/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-astra-official/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
