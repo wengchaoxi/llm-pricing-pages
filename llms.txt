@@ -1,12 +1,12 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1948+ LLM/chat models across 223 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1962+ LLM/chat models across 223 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1948
+- Models: 1962
 - Providers: 223
-- Provider quotes: 8080
+- Provider quotes: 8114
 - Data synced: 2026-09-23
 
 ## About
@@ -56,7 +56,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — CloudFerro Sherlock, $2.92/$2.92 per 1M, 83 providers
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Zhipu AI, $0.15/$0.50 per 1M, 73 providers
 - [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Zhipu AI, $1.40/$4.40 per 1M, 71 providers
-- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — DeepSeek, $0.15/$0.60 per 1M, 59 providers
+- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — DeepSeek, $0.15/$0.60 per 1M, 60 providers
 - [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Volcengine Ark, $0.445/$1.34 per 1M, 54 providers
 - [MiniMax-M3](https://llmpricing.dev/m/minimax/minimax-m3/) — MiniMax (minimax.io), $0.30/$1.20 per 1M, 51 providers
 - [Claude Sonnet 4.6](https://llmpricing.dev/m/anthropic/claude-sonnet-4-6/) — Anthropic, $3.00/$15.00 per 1M, 50 providers

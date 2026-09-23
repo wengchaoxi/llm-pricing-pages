@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 01:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:20:09 GMT</lastBuildDate>
+    <item>
+      <title>Agentic Chat (Claude Opus 5.5)</title>
+      <link>https://llmpricing.dev/m/anthropic/duo-chat-opus-5-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/duo-chat-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Claude Opus 5.5</title>
+      <link>https://llmpricing.dev/m/anthropic/anthropic-claude-opus-5.5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/anthropic-claude-opus-5.5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Claude Opus 5.5</title>
       <link>https://llmpricing.dev/m/anthropic/claude-opus-5-5/</link>
@@ -68,9 +80,27 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GPT-6 Luna (EU)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-luna-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna-eu/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GPT-6 Luna (Fast)</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-luna-fast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna-fast/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Luna (Global)</title>
+      <link>https://llmpricing.dev/m/openai/global.openai.gpt-6-luna/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/global.openai.gpt-6-luna/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Luna (US)</title>
+      <link>https://llmpricing.dev/m/openai/us.openai.gpt-6-luna/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/us.openai.gpt-6-luna/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -80,9 +110,27 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GPT-6 Sol (EU)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-sol-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol-eu/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GPT-6 Sol (Fast)</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-sol-fast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol-fast/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Sol (Global)</title>
+      <link>https://llmpricing.dev/m/openai/global.openai.gpt-6-sol/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/global.openai.gpt-6-sol/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Sol (US)</title>
+      <link>https://llmpricing.dev/m/openai/us.openai.gpt-6-sol/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/us.openai.gpt-6-sol/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -107,6 +155,18 @@
       <title>MiMo-V2.6-Pro</title>
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-pro/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI GPT-6 Luna</title>
+      <link>https://llmpricing.dev/m/openai/openai-gpt-6-luna/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-6-luna/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI GPT-6 Sol</title>
+      <link>https://llmpricing.dev/m/openai/openai-gpt-6-sol/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-6-sol/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -246,66 +306,6 @@
       <link>https://llmpricing.dev/m/atria/atria-dawn-preview/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/atria/atria-dawn-preview/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schematron V2 Small</title>
-      <link>https://llmpricing.dev/m/inference-net/schematron-v2-small/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-small/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schematron V2 Turbo</title>
-      <link>https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inference-net/schematron-v2-turbo/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fugu Max</title>
-      <link>https://llmpricing.dev/m/sakana/fugu-max/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/sakana/fugu-max/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fugu Ultra v2</title>
-      <link>https://llmpricing.dev/m/sakana/fugu-ultra-v2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/sakana/fugu-ultra-v2/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fugu Ultra v2.0</title>
-      <link>https://llmpricing.dev/m/sakana/fugu-ultra-v2.0/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/sakana/fugu-ultra-v2.0/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT Astra Latest</title>
-      <link>https://llmpricing.dev/m/openai/gpt-astra-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-astra-latest/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT Luna Latest</title>
-      <link>https://llmpricing.dev/m/openai/gpt-luna-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-luna-latest/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT Sol Latest</title>
-      <link>https://llmpricing.dev/m/openai/gpt-sol-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-sol-latest/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT Terra Latest</title>
-      <link>https://llmpricing.dev/m/openai/gpt-terra-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-terra-latest/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>kimi-for-coding</title>
-      <link>https://llmpricing.dev/m/moonshotai/kimi-for-coding/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/moonshotai/kimi-for-coding/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
