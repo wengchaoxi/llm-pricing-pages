@@ -6,7 +6,91 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:54:30 GMT</lastBuildDate>
+    <item>
+      <title>Claude Opus 5.5</title>
+      <link>https://llmpricing.dev/m/anthropic/claude-opus-5-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 (AU)</title>
+      <link>https://llmpricing.dev/m/anthropic/au.anthropic.claude-opus-5-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/au.anthropic.claude-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 (EU)</title>
+      <link>https://llmpricing.dev/m/anthropic/claude-opus-5-5-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-opus-5-5-eu/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 (Fast)</title>
+      <link>https://llmpricing.dev/m/anthropic/claude-opus-5.5-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-opus-5.5-fast/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 (Global)</title>
+      <link>https://llmpricing.dev/m/anthropic/global.anthropic.claude-opus-5-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/global.anthropic.claude-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 (JP)</title>
+      <link>https://llmpricing.dev/m/anthropic/jp.anthropic.claude-opus-5-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/jp.anthropic.claude-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 (US)</title>
+      <link>https://llmpricing.dev/m/anthropic/us.anthropic.claude-opus-5-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/us.anthropic.claude-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 6 Luna Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-luna-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna-pro/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 6 Sol Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-sol-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol-pro/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Luna</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-luna/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Luna (Fast)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-luna-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna-fast/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Sol</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-sol/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Sol (Fast)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-sol-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol-fast/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lumen Stealth</title>
+      <link>https://llmpricing.dev/m/nano/lumen-stealth/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nano/lumen-stealth/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>MiMo-V2.6-Flash</title>
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash/</link>
@@ -222,90 +306,6 @@
       <link>https://llmpricing.dev/m/moonshotai/kimi-for-coding/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/moonshotai/kimi-for-coding/</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash (EU)</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-eu/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash Flex</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-flex/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-flex/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash FP4</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-fast-fp4/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-fast-fp4/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash Thinking</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-thinking/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-Live 1</title>
-      <link>https://llmpricing.dev/m/openai/gpt-live-1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-live-1/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LightOnOCR 2</title>
-      <link>https://llmpricing.dev/m/lightonai/lightonocr-2-1b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/lightonai/lightonocr-2-1b/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.0 Flash VL</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.0 Flash VL (Free)</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-flash-vl-free/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agnes 3.0 Flash</title>
-      <link>https://llmpricing.dev/m/misc/agnes-3.0-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/agnes-3.0-flash/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 12B Semancer</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-12b-it-semancer/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-12b-it-semancer/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 12B StationKeeper</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-12b-it-station-keeper/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-12b-it-station-keeper/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B Queen</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-queen/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-queen/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mercury 2.5</title>
-      <link>https://llmpricing.dev/m/inception/mercury-2.5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-2.5/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
