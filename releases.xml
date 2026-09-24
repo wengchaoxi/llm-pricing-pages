@@ -6,11 +6,89 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:10:25 GMT</lastBuildDate>
+    <item>
+      <title>Ember-1</title>
+      <link>https://llmpricing.dev/m/misc/ember-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/ember-1/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aion 3.5</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aion 3.5 Mini</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AionLabs: Aion 3.5</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-3.5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AionLabs: Aion 3.5 Mini</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-3.5-mini/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5-mini/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.3 Prime</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-prime/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-prime/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 Max Prime</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-max-prime/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-max-prime/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solar Mini 4</title>
+      <link>https://llmpricing.dev/m/upstage/solar-mini4/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solar Mini 4 Thinking</title>
+      <link>https://llmpricing.dev/m/upstage/solar-mini4-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4-thinking/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Space Bunny Alpha</title>
+      <link>https://llmpricing.dev/m/stealth/space-bunny-alpha/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/stealth/space-bunny-alpha/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Space Bunny Free</title>
+      <link>https://llmpricing.dev/m/misc/space-bunny-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/space-bunny-free/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Agentic Chat (Claude Opus 5.5)</title>
       <link>https://llmpricing.dev/m/anthropic/duo-chat-opus-5-5/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/duo-chat-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agentic Chat (GPT-6 Luna)</title>
+      <link>https://llmpricing.dev/m/openai/duo-chat-gpt-6-luna/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/duo-chat-gpt-6-luna/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agentic Chat (GPT-6 Sol)</title>
+      <link>https://llmpricing.dev/m/openai/duo-chat-gpt-6-sol/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/duo-chat-gpt-6-sol/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -228,84 +306,6 @@
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flashx/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flashx/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ternary Bonsai 2 27B</title>
-      <link>https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-27b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-27b/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 31B Split-Untied</title>
-      <link>https://llmpricing.dev/m/google/gemma4-31b-splituntied/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma4-31b-splituntied/</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pareto</title>
-      <link>https://llmpricing.dev/m/unbiased/pareto/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/unbiased/pareto/</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.8 Omni Flash</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-omni-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-omni-flash/</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arrow 2</title>
-      <link>https://llmpricing.dev/m/quiverai/arrow-2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/quiverai/arrow-2/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arrow 2 Telos</title>
-      <link>https://llmpricing.dev/m/quiverai/arrow-2-telos/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/quiverai/arrow-2-telos/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Step 5 Preview</title>
-      <link>https://llmpricing.dev/m/stepfun/step-5-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/stepfun/step-5-preview/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.8 Live</title>
-      <link>https://llmpricing.dev/m/google/gemini-3.8-live/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-live/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.8 Live Extended Thinking</title>
-      <link>https://llmpricing.dev/m/google/gemini-3.8-live-extended-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-3.8-live-extended-thinking/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek Flash Latest</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-flash-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-flash-latest/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek Pro Latest</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-pro-latest/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-pro-latest/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atria Dawn Preview</title>
-      <link>https://llmpricing.dev/m/misc/atria-dawn-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/atria-dawn-preview/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atria Dawn Preview (Atria)</title>
-      <link>https://llmpricing.dev/m/atria/atria-dawn-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/atria/atria-dawn-preview/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
