@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:07:54 GMT</lastBuildDate>
+    <item>
+      <title>MiMo V2.6 Flash Uncensored</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clover 1 150B Preview</title>
+      <link>https://llmpricing.dev/m/kitani/clover-1-150b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/kitani/clover-1-150b/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ember-1</title>
       <link>https://llmpricing.dev/m/misc/ember-1/</link>
@@ -212,12 +224,6 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Lumen Stealth</title>
-      <link>https://llmpricing.dev/m/nano/lumen-stealth/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nano/lumen-stealth/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>MiMo-V2.6-Flash</title>
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash/</guid>
@@ -300,12 +306,6 @@
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-cybersecurity/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-cybersecurity/</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 FlashX</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flashx/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flashx/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
