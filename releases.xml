@@ -6,11 +6,23 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 07:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:04:46 GMT</lastBuildDate>
     <item>
       <title>MiMo V2.6 Flash Uncensored</title>
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perceptron Mk1.5</title>
+      <link>https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen3.8 27B Uncensored TEE</title>
+      <link>https://llmpricing.dev/m/tee/qwen3.8-27b-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tee/qwen3.8-27b-uncensored/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -293,18 +305,6 @@
       <title>Gemma 4 26B A4B Cybersecurity</title>
       <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-cybersecurity/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-cybersecurity/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Flash Cybersecurity</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-cybersecurity/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-cybersecurity/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B Cybersecurity</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-cybersecurity/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-cybersecurity/</guid>
       <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
