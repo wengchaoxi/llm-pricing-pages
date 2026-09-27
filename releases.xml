@@ -6,7 +6,25 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 07:34:51 GMT</lastBuildDate>
+    <item>
+      <title>GLM 5.3 Uncensored</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo V2.6 Flash Uncensored Thinking</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LongCat 2.5 Preview Free</title>
+      <link>https://llmpricing.dev/m/meituan/longcat-2.5-preview-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meituan/longcat-2.5-preview-free/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>MiMo V2.6 Flash Uncensored</title>
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</link>
@@ -288,24 +306,6 @@
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-hemmingway/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-hemmingway/</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Viv Fast</title>
-      <link>https://llmpricing.dev/m/vivgrid/viv-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/vivgrid/viv-fast/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DiffusionGemma</title>
-      <link>https://llmpricing.dev/m/google/diffusiongemma/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/diffusiongemma/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 26B A4B Cybersecurity</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-cybersecurity/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-cybersecurity/</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
