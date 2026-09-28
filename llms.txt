@@ -22,7 +22,7 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official video generation pricing: vendor pricing pages (36 models, checked 2026-09-28).
+- Official video generation pricing: vendor pricing pages (38 models, checked 2026-09-28).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
 - Data is refreshed regularly (last sync 2026-09-28); prices are indicative — always confirm on each provider's official page.
@@ -95,6 +95,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 ## Official video generation pricing
 
+- [Gemini Omni Flash Preview](https://llmpricing.dev/m/google/gemini-omni-flash-preview/) — Google Vertex AI, published tariff from $0.034 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine Video 1.5](https://llmpricing.dev/m/xai/grok-imagine-video-1.5/) — xAI, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
 - [Veo 3.1](https://llmpricing.dev/m/google/veo-3.1/) — Google Vertex AI, published tariff from $0.20 per second; conditions vary by resolution, audio and input media
 - [Veo-3.1-Fast](https://llmpricing.dev/m/google/veo-3.1-fast/) — Google Vertex AI, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
@@ -102,6 +103,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [HappyHorse 1.1 Reference-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-r2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Text-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-t2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [Veo 3.1 lite](https://llmpricing.dev/m/google/veo-3.1-lite-generate-preview/) — Google Vertex AI, published tariff from $0.03 per second; conditions vary by resolution, audio and input media
+- [Flux 3](https://llmpricing.dev/m/bfl/flux-3-video/) — Black Forest Labs, published tariff from $0.06 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine](https://llmpricing.dev/m/xai/grok-imagine-video/) — xAI, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
 - [MiniMax H3](https://llmpricing.dev/m/minimax/minimax-h3/) — MiniMax, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
 - [MiniMax H3 Max](https://llmpricing.dev/m/minimax/minimax-h3-max/) — MiniMax, published tariff from $0.05 per second; conditions vary by resolution, audio and input media

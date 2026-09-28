@@ -6530,7 +6530,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/</loc>
-<lastmod>2026-09-28</lastmod>
+<lastmod>2026-09-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -8246,7 +8246,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/google/gemini-omni-flash-preview/</loc>
-<lastmod>2026-06-30</lastmod>
+<lastmod>2026-09-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -9176,7 +9176,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/deepseek/deepseek-flash-latest/</loc>
-<lastmod>2026-09-28</lastmod>
+<lastmod>2026-09-26</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -9639,6 +9639,12 @@
 <url>
 <loc>https://llmpricing.dev/m/baidu/ernie-5.0-thinking-preview/</loc>
 <lastmod>2026-09-03</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://llmpricing.dev/m/bfl/flux-3-video/</loc>
+<lastmod>2026-09-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -10304,7 +10310,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/deepseek/</loc>
-<lastmod>2026-09-28</lastmod>
+<lastmod>2026-09-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -10346,13 +10352,13 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/umans-ai-coding-plan/</loc>
-<lastmod>2026-09-28</lastmod>
+<lastmod>2026-09-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 <url>
 <loc>https://llmpricing.dev/p/umans-ai/</loc>
-<lastmod>2026-09-28</lastmod>
+<lastmod>2026-09-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11174,7 +11180,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/synthetic/</loc>
-<lastmod>2026-09-28</lastmod>
+<lastmod>2026-09-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11282,7 +11288,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/amd/</loc>
-<lastmod>2026-09-28</lastmod>
+<lastmod>2026-09-27</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
