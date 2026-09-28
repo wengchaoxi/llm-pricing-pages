@@ -6,7 +6,7 @@
 
 - Models: 1990
 - Providers: 225
-- Provider quotes: 8255
+- Provider quotes: 8253
 - Data synced: 2026-09-28
 
 ## About
@@ -22,7 +22,7 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official video generation pricing: vendor pricing pages (38 models, checked 2026-09-28).
+- Official media generation pricing: vendor pricing pages (82 models, checked 2026-09-28).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
 - Data is refreshed regularly (last sync 2026-09-28); prices are indicative — always confirm on each provider's official page.
@@ -133,3 +133,49 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Wan v2.7 Text-to-Video](https://llmpricing.dev/m/alibaba/wan-v2.7-t2v/) — Alibaba Cloud Model Studio, published tariff from $0.10 per second; conditions vary by resolution, audio and input media
 - [Wan v3.0 Video](https://llmpricing.dev/m/alibaba/wan-v3.0-video/) — Alibaba Cloud Model Studio, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
 - [Wan v3.0 Video Prime](https://llmpricing.dev/m/alibaba/wan-v3.0-video-prime/) — Alibaba Cloud Model Studio, published tariff from $0.068 per second; conditions vary by resolution, audio and input media
+
+## Official image generation pricing
+
+- [Nano Banana Pro](https://llmpricing.dev/m/google/gemini-3-pro-image/) — Google Vertex AI, published tariff from $0.134 per image; size, quality and editing conditions may vary
+- [Nano Banana 2](https://llmpricing.dev/m/google/gemini-3.1-flash-image/) — Google Vertex AI, published tariff from $0.045 per image; size, quality and editing conditions may vary
+- [Nano Banana](https://llmpricing.dev/m/google/gemini-2.5-flash-image/) — Google Vertex AI, published tariff from $0.039 per image; size, quality and editing conditions may vary
+- [GPT-Image-2](https://llmpricing.dev/m/openai/gpt-image-2/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
+- [GPT-Image-1.5](https://llmpricing.dev/m/openai/gpt-image-1.5/) — OpenAI, published tariff from $0.009 per image; size, quality and editing conditions may vary
+- [Nano Banana 2 Lite](https://llmpricing.dev/m/google/gemini-3.1-flash-lite-image/) — Google Vertex AI, published tariff from $0.034 per image; size, quality and editing conditions may vary
+- [GPT Image 2.5 Flare](https://llmpricing.dev/m/openai/gpt-image-2.5-flare/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
+- [GPT Image 2.5 Sunburst](https://llmpricing.dev/m/openai/gpt-image-2.5-sunburst/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
+- [Grok Imagine Image 2.0](https://llmpricing.dev/m/xai/grok-imagine-image-2.0/) — xAI, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [GPT-Image-1-Mini](https://llmpricing.dev/m/openai/gpt-image-1-mini/) — OpenAI, published tariff from $0.005 per image; size, quality and editing conditions may vary
+- [Grok Imagine Image](https://llmpricing.dev/m/xai/grok-imagine-image/) — xAI, published tariff from $0.02 per image; size, quality and editing conditions may vary
+- [Imagen-4-Fast](https://llmpricing.dev/m/google/imagen-4-fast/) — Google Vertex AI, published tariff from $0.02 per image; size, quality and editing conditions may vary
+- [Imagen-4-Ultra](https://llmpricing.dev/m/google/imagen-4-ultra/) — Google Vertex AI, published tariff from $0.06 per image; size, quality and editing conditions may vary
+- [Qwen-Image](https://llmpricing.dev/m/alibaba/qwen-image/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [Qwen Image 2.0](https://llmpricing.dev/m/alibaba/qwen-image-2.0/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [Qwen Image 2.0 Pro](https://llmpricing.dev/m/alibaba/qwen-image-2.0-pro/) — Alibaba Cloud Model Studio, published tariff from $0.075 per image; size, quality and editing conditions may vary
+- [Wan2.7 Image](https://llmpricing.dev/m/misc/wan2.7-image/) — Alibaba Cloud Model Studio, published tariff from $0.03 per image; size, quality and editing conditions may vary
+- [Wan2.7 Image Pro](https://llmpricing.dev/m/misc/wan2.7-image-pro/) — Alibaba Cloud Model Studio, published tariff from $0.075 per image; size, quality and editing conditions may vary
+- [FLUX1.1 [pro]](https://llmpricing.dev/m/bfl/flux-pro-1.1/) — Black Forest Labs, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [FLUX1.1 [pro] Ultra](https://llmpricing.dev/m/bfl/flux-pro-1.1-ultra/) — Black Forest Labs, published tariff from $0.06 per image; size, quality and editing conditions may vary
+- [FLUX.1 Fill [pro]](https://llmpricing.dev/m/bfl/flux-pro-1.0-fill/) — Black Forest Labs, published tariff from $0.05 per image; size, quality and editing conditions may vary
+- [FLUX.1 Kontext Max](https://llmpricing.dev/m/bfl/flux-kontext-max/) — Black Forest Labs, published tariff from $0.08 per image; size, quality and editing conditions may vary
+- [FLUX.1 Kontext Pro](https://llmpricing.dev/m/bfl/flux-kontext-pro/) — Black Forest Labs, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [FLUX.2 [flex]](https://llmpricing.dev/m/bfl/flux-2-flex/) — Black Forest Labs, published tariff from $0.05 per image; size, quality and editing conditions may vary
+- [FLUX.2 [klein] 9B](https://llmpricing.dev/m/bfl/flux-2-klein-9b/) — Black Forest Labs, published tariff from $0.015 per image; size, quality and editing conditions may vary
+- [FLUX.2 [max]](https://llmpricing.dev/m/bfl/flux-2-max/) — Black Forest Labs, published tariff from $0.07 per image; size, quality and editing conditions may vary
+- [FLUX.2 [pro]](https://llmpricing.dev/m/bfl/flux-2-pro/) — Black Forest Labs, published tariff from $0.03 per image; size, quality and editing conditions may vary
+- [Imagen-3](https://llmpricing.dev/m/google/imagen-3/) — Google Vertex AI, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [Imagen-3-Fast](https://llmpricing.dev/m/google/imagen-3-fast/) — Google Vertex AI, published tariff from $0.02 per image; size, quality and editing conditions may vary
+- [Imagen-4](https://llmpricing.dev/m/google/imagen-4/) — Google Vertex AI, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [Qwen Image Edit](https://llmpricing.dev/m/alibaba/qwen-image-edit/) — Alibaba Cloud Model Studio, published tariff from $0.045 per image; size, quality and editing conditions may vary
+- [Recraft V2](https://llmpricing.dev/m/recraft/recraft-v2/) — Recraft, published tariff from $0.022 per image; size, quality and editing conditions may vary
+- [Recraft V3](https://llmpricing.dev/m/recraft/recraft-v3/) — Recraft, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [Recraft V4](https://llmpricing.dev/m/recraft/recraft-v4/) — Recraft, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [Recraft V4.1](https://llmpricing.dev/m/recraft/recraft-v4.1/) — Recraft, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [Recraft V4.1 Pro](https://llmpricing.dev/m/recraft/recraft-v4.1-pro/) — Recraft, published tariff from $0.21 per image; size, quality and editing conditions may vary
+- [Recraft V4.1 Utility](https://llmpricing.dev/m/recraft/recraft-v4.1-utility/) — Recraft, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [Recraft V4.1 Utility Pro](https://llmpricing.dev/m/recraft/recraft-v4.1-utility-pro/) — Recraft, published tariff from $0.21 per image; size, quality and editing conditions may vary
+- [Recraft V4 Pro](https://llmpricing.dev/m/recraft/recraft-v4-pro/) — Recraft, published tariff from $0.25 per image; size, quality and editing conditions may vary
+- [Seedream 4.0](https://llmpricing.dev/m/bytedance-seed/seedream-4.0/) — BytePlus ModelArk, published tariff from $0.03 per image; size, quality and editing conditions may vary
+- [Seedream 4.5](https://llmpricing.dev/m/bytedance-seed/seedream-4.5/) — BytePlus ModelArk, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [Seedream 5.0 Lite](https://llmpricing.dev/m/bytedance-seed/seedream-5.0-lite/) — BytePlus ModelArk, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [Seedream 5.0 Pro](https://llmpricing.dev/m/bytedance-seed/seedream-5.0-pro/) — BytePlus ModelArk, published tariff from $0.022 per image; size, quality and editing conditions may vary
