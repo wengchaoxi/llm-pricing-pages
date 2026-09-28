@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:53:22 GMT</lastBuildDate>
     <item>
       <title>CyberHeabsy</title>
       <link>https://llmpricing.dev/m/heabsy/cyberheabsy/</link>
