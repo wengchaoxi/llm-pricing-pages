@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 07:34:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:13:19 GMT</lastBuildDate>
+    <item>
+      <title>CyberHeabsy</title>
+      <link>https://llmpricing.dev/m/heabsy/cyberheabsy/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/heabsy/cyberheabsy/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiniMax-M3.1-Flash-Preview</title>
+      <link>https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>GLM 5.3 Uncensored</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</link>
@@ -23,6 +35,18 @@
       <title>LongCat 2.5 Preview Free</title>
       <link>https://llmpricing.dev/m/meituan/longcat-2.5-preview-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/meituan/longcat-2.5-preview-free/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LongCat-2.5-Preview</title>
+      <link>https://llmpricing.dev/m/meituan/longcat-2.5-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meituan/longcat-2.5-preview/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo V2.6 Flash Abliterated</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-abliterated/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -282,30 +306,6 @@
       <link>https://llmpricing.dev/m/openai/openai-gpt-6-sol/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-6-sol/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.7</title>
-      <link>https://llmpricing.dev/m/xai/grok-4.7/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4.7/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 4.7 (xAI)</title>
-      <link>https://llmpricing.dev/m/xai/grok-4-7/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xai/grok-4-7/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiMo-V2.6-Pro-UltraSpeed</title>
-      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-pro-ultraspeed/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-pro-ultraspeed/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B Hemingway</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-hemmingway/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-hemmingway/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
