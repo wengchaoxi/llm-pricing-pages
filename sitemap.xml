@@ -7213,6 +7213,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://llmpricing.dev/m/anthropic/claude-sonnet-5-5/</loc>
+<lastmod>2026-09-28</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://llmpricing.dev/m/zhipuai/glm-5v-turbo/</loc>
 <lastmod>2026-09-24</lastmod>
 <changefreq>monthly</changefreq>
@@ -7251,12 +7257,6 @@
 <url>
 <loc>https://llmpricing.dev/m/alibaba/qwen3-vl-235b-a22b-instruct/</loc>
 <lastmod>2026-09-12</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.6</priority>
-</url>
-<url>
-<loc>https://llmpricing.dev/m/anthropic/claude-sonnet-5-5/</loc>
-<lastmod>2026-09-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -8498,7 +8498,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/deepseek/deepseek-v3.2-exp/</loc>
-<lastmod>2026-09-29</lastmod>
+<lastmod>2026-09-03</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -8822,7 +8822,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-latest/</loc>
-<lastmod>2026-09-24</lastmod>
+<lastmod>2026-09-29</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -10514,7 +10514,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/iflowcn/</loc>
-<lastmod>2026-09-29</lastmod>
+<lastmod>2026-09-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11216,7 +11216,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/meganova/</loc>
-<lastmod>2026-09-29</lastmod>
+<lastmod>2026-09-28</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -11348,7 +11348,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/p/arcee/</loc>
-<lastmod>2026-09-27</lastmod>
+<lastmod>2026-09-29</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>

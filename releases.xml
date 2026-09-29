@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 07:53:37 GMT</lastBuildDate>
     <item>
       <title>Anthropic Claude Sonnet 5.5</title>
       <link>https://llmpricing.dev/m/anthropic/anthropic-claude-sonnet-5.5/</link>
@@ -107,6 +107,12 @@
       <title>Ember-1</title>
       <link>https://llmpricing.dev/m/misc/ember-1/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/ember-1/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLiNER-2.5-Decide</title>
+      <link>https://llmpricing.dev/m/fastino/gliner-2.5-decide/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/fastino/gliner-2.5-decide/</guid>
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -299,12 +305,6 @@
       <title>GPT-6 Sol (US)</title>
       <link>https://llmpricing.dev/m/openai/us.openai.gpt-6-sol/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/us.openai.gpt-6-sol/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiMo-V2.6-Flash</title>
-      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
