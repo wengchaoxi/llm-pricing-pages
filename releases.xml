@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 07:57:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:56:17 GMT</lastBuildDate>
     <item>
       <title>GPT 6.1 Sol Pro</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
