@@ -6,7 +6,49 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 07:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:57:25 GMT</lastBuildDate>
+    <item>
+      <title>GPT 6.1 Sol Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol (EU)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-eu/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol (Fast)</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-fast/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.1 Flash</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.1-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.1-flash/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.1 Flash (Free)</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.1-flash-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.1-flash-free/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liquid d1</title>
+      <link>https://llmpricing.dev/m/liquid/d1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/liquid/d1/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic Claude Sonnet 5.5</title>
       <link>https://llmpricing.dev/m/anthropic/anthropic-claude-sonnet-5.5/</link>
@@ -17,6 +59,12 @@
       <title>Claude Sonnet 5.5</title>
       <link>https://llmpricing.dev/m/anthropic/claude-sonnet-5-5/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-sonnet-5-5/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Sonnet 5.5 (EU)</title>
+      <link>https://llmpricing.dev/m/anthropic/claude-sonnet-5-5-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-sonnet-5-5-eu/</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -257,54 +305,6 @@
       <title>GPT-6 Luna (EU)</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-luna-eu/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna-eu/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Luna (Fast)</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-luna-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna-fast/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Luna (Global)</title>
-      <link>https://llmpricing.dev/m/openai/global.openai.gpt-6-luna/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/global.openai.gpt-6-luna/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Luna (US)</title>
-      <link>https://llmpricing.dev/m/openai/us.openai.gpt-6-luna/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/us.openai.gpt-6-luna/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Sol</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Sol (EU)</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-sol-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol-eu/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Sol (Fast)</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6-sol-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol-fast/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Sol (Global)</title>
-      <link>https://llmpricing.dev/m/openai/global.openai.gpt-6-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/global.openai.gpt-6-sol/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Sol (US)</title>
-      <link>https://llmpricing.dev/m/openai/us.openai.gpt-6-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/us.openai.gpt-6-sol/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
