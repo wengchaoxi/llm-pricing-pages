@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:35:35 GMT</lastBuildDate>
     <item>
       <title>Abliterated Large V2</title>
       <link>https://llmpricing.dev/m/misc/abliteration-abliterated-model-large-v2/</link>
