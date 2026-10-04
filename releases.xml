@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 07:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:46:09 GMT</lastBuildDate>
     <item>
       <title>Abliterated Large V2</title>
       <link>https://llmpricing.dev/m/misc/abliteration-abliterated-model-large-v2/</link>
@@ -122,6 +122,12 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Claude Sonnet 5.5 (US)</title>
+      <link>https://llmpricing.dev/m/anthropic/us.anthropic.claude-sonnet-5-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/us.anthropic.claude-sonnet-5-5/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Sonnet 5.5 Thinking</title>
       <link>https://llmpricing.dev/m/anthropic/claude-sonnet-5.5-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-sonnet-5.5-thinking/</guid>
@@ -186,12 +192,6 @@
       <link>https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clover 1 150B Preview</title>
-      <link>https://llmpricing.dev/m/kitani/clover-1-150b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/kitani/clover-1-150b/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Ember-1</title>
