@@ -6,7 +6,67 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 08:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:33:31 GMT</lastBuildDate>
+    <item>
+      <title>Apex Flash 1</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apex Flash 1 Abliterated</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex-abliterated/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Antislop</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-antislop/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-antislop/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B DarkIdol</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-darkidol/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-darkidol/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Fimi</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-fimi/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-fimi/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Kimiko</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-kimiko/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-kimiko/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Kiwen</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-kiwen/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-kiwen/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Novelist</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-novelist/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-novelist/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Swift</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-swift/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-swift/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Synthia</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-synthia/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-synthia/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Abliterated Large V2</title>
       <link>https://llmpricing.dev/m/misc/abliteration-abliterated-model-large-v2/</link>
@@ -246,66 +306,6 @@
       <link>https://llmpricing.dev/m/upstage/solar-mini4/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solar Mini 4 Thinking</title>
-      <link>https://llmpricing.dev/m/upstage/solar-mini4-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4-thinking/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Space Bunny Alpha</title>
-      <link>https://llmpricing.dev/m/stealth/space-bunny-alpha/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/stealth/space-bunny-alpha/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Space Bunny Free</title>
-      <link>https://llmpricing.dev/m/misc/space-bunny-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/space-bunny-free/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentic Chat (Claude Opus 5.5)</title>
-      <link>https://llmpricing.dev/m/anthropic/duo-chat-opus-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/duo-chat-opus-5-5/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentic Chat (GPT-6 Luna)</title>
-      <link>https://llmpricing.dev/m/openai/duo-chat-gpt-6-luna/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/duo-chat-gpt-6-luna/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentic Chat (GPT-6 Sol)</title>
-      <link>https://llmpricing.dev/m/openai/duo-chat-gpt-6-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/duo-chat-gpt-6-sol/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Claude Opus 5.5</title>
-      <link>https://llmpricing.dev/m/anthropic/anthropic-claude-opus-5.5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/anthropic-claude-opus-5.5/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-opus-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-opus-5-5/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 (AU)</title>
-      <link>https://llmpricing.dev/m/anthropic/au.anthropic.claude-opus-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/au.anthropic.claude-opus-5-5/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 (EU)</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-opus-5-5-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-opus-5-5-eu/</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

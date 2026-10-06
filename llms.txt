@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 2025+ LLM/chat models across 226 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 2035+ LLM/chat models across 226 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 2025
+- Models: 2035
 - Providers: 226
 - Provider quotes: 8389
-- Data synced: 2026-10-05
+- Data synced: 2026-10-06
 
 ## About
 
@@ -25,7 +25,7 @@ Methodology:
 - Official media generation pricing: vendor pricing pages (83 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-10-05); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-10-06); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -57,8 +57,8 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — CloudFerro Sherlock, $2.92/$2.92 per 1M, 84 providers
 - [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Z.AI, $1.40/$4.40 per 1M, 81 providers
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI, $0.15/$0.50 per 1M, 80 providers
-- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — DeepSeek, $0.15/$0.60 per 1M, 73 providers
-- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Volcengine Ark, $0.445/$1.34 per 1M, 54 providers
+- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — DeepSeek, $0.15/$0.60 per 1M, 74 providers
+- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Volcengine Ark, $0.445/$1.34 per 1M, 53 providers
 - [Claude Sonnet 4.6](https://llmpricing.dev/m/anthropic/claude-sonnet-4-6/) — Anthropic, $3.00/$15.00 per 1M, 50 providers
 - [GPT-5.5](https://llmpricing.dev/m/openai/gpt-5.5/) — OpenAI, $5.00/$30.00 per 1M, 49 providers
 - [Claude Opus 4.8](https://llmpricing.dev/m/anthropic/claude-opus-4-8/) — Anthropic, $5.00/$25.00 per 1M, 48 providers
@@ -97,6 +97,9 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 - [Gemini Omni Flash Preview](https://llmpricing.dev/m/google/gemini-omni-flash-preview/) — Google Vertex AI, published tariff from $0.034 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine Video 1.5](https://llmpricing.dev/m/xai/grok-imagine-video-1.5/) — xAI, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
+- [MiniMax H3](https://llmpricing.dev/m/minimax/minimax-h3/) — MiniMax, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
+- [Seedance 2.0](https://llmpricing.dev/m/bytedance-seed/seedance-2.0/) — BytePlus ModelArk, published tariff from $2.40 per 1M video tokens; conditions vary by resolution, audio and input media
+- [Seedance 2.5](https://llmpricing.dev/m/bytedance-seed/seedance-2.5/) — BytePlus ModelArk, published tariff from $6.40 per 1M video tokens; conditions vary by resolution, audio and input media
 - [Veo 3.1](https://llmpricing.dev/m/google/veo-3.1/) — Google Vertex AI, published tariff from $0.20 per second; conditions vary by resolution, audio and input media
 - [Veo-3.1-Fast](https://llmpricing.dev/m/google/veo-3.1-fast/) — Google Vertex AI, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Image-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-i2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
@@ -105,14 +108,11 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Veo 3.1 lite](https://llmpricing.dev/m/google/veo-3.1-lite-generate-preview/) — Google Vertex AI, published tariff from $0.03 per second; conditions vary by resolution, audio and input media
 - [Flux 3](https://llmpricing.dev/m/bfl/flux-3-video/) — Black Forest Labs, published tariff from $0.06 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine](https://llmpricing.dev/m/xai/grok-imagine-video/) — xAI, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
-- [MiniMax H3](https://llmpricing.dev/m/minimax/minimax-h3/) — MiniMax, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
 - [MiniMax H3 Max](https://llmpricing.dev/m/minimax/minimax-h3-max/) — MiniMax, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
 - [Runway-Gen-4-Turbo](https://llmpricing.dev/m/runwayml/runway-gen-4-turbo/) — Runway, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
 - [Seedance 2](https://llmpricing.dev/m/bytedance-seed/seedance-2/) — BytePlus ModelArk, published tariff from $2.40 per 1M video tokens; conditions vary by resolution, audio and input media
-- [Seedance 2.0](https://llmpricing.dev/m/bytedance-seed/seedance-2.0/) — BytePlus ModelArk, published tariff from $2.40 per 1M video tokens; conditions vary by resolution, audio and input media
 - [Seedance 2.0 Fast](https://llmpricing.dev/m/bytedance-seed/seedance-2.0-fast/) — BytePlus ModelArk, published tariff from $3.30 per 1M video tokens; conditions vary by resolution, audio and input media
 - [Seedance 2.0 Mini](https://llmpricing.dev/m/bytedance-seed/seedance-2.0-mini/) — BytePlus ModelArk, published tariff from $2.10 per 1M video tokens; conditions vary by resolution, audio and input media
-- [Seedance 2.5](https://llmpricing.dev/m/bytedance-seed/seedance-2.5/) — BytePlus ModelArk, published tariff from $6.40 per 1M video tokens; conditions vary by resolution, audio and input media
 - [Seedance v1.0 Pro](https://llmpricing.dev/m/bytedance-seed/seedance-v1.0-pro/) — BytePlus ModelArk, published tariff from $2.50 per 1M video tokens; conditions vary by resolution, audio and input media
 - [Seedance v1.0 Pro Fast](https://llmpricing.dev/m/bytedance-seed/seedance-v1.0-pro-fast/) — BytePlus ModelArk, published tariff from $1.00 per 1M video tokens; conditions vary by resolution, audio and input media
 - [Seedance v1.5 Pro](https://llmpricing.dev/m/bytedance-seed/seedance-v1.5-pro/) — BytePlus ModelArk, published tariff from $1.20 per 1M video tokens; conditions vary by resolution, audio and input media
