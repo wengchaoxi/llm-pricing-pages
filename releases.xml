@@ -6,7 +6,25 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:09:45 GMT</lastBuildDate>
+    <item>
+      <title>Exo Free</title>
+      <link>https://llmpricing.dev/m/misc/exo-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/exo-free/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistral Large 4</title>
+      <link>https://llmpricing.dev/m/mistral/mistral-large-4/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/mistral/mistral-large-4/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistral Large 4 (EU)</title>
+      <link>https://llmpricing.dev/m/mistral/mistral-large-4-eu/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/mistral/mistral-large-4-eu/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Apex Flash 1</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex/</link>
@@ -146,6 +164,12 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Ling 3.1 Flash (NovitaAI)</title>
+      <link>https://llmpricing.dev/m/novita/ling-3.1-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/novita/ling-3.1-flash/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenAI GPT-6.1 Sol</title>
       <link>https://llmpricing.dev/m/openai/openai-gpt-6-1-sol/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-6-1-sol/</guid>
@@ -281,30 +305,6 @@
       <title>AionLabs: Aion 3.5</title>
       <link>https://llmpricing.dev/m/aion-labs/aion-3.5/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AionLabs: Aion 3.5 Mini</title>
-      <link>https://llmpricing.dev/m/aion-labs/aion-3.5-mini/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5-mini/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Prime</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-prime/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-prime/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 Max Prime</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-max-prime/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-max-prime/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solar Mini 4</title>
-      <link>https://llmpricing.dev/m/upstage/solar-mini4/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
