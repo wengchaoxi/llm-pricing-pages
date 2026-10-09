@@ -6,7 +6,25 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:29:13 GMT</lastBuildDate>
+    <item>
+      <title>Apex</title>
+      <link>https://llmpricing.dev/m/callstack/apex/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/callstack/apex/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 26B A4B Chimera X Heretic</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-chimeraxheretic/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-chimeraxheretic/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 31B Scarlet</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-scarlet/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-scarlet/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Claude Haiku 5.5</title>
       <link>https://llmpricing.dev/m/anthropic/claude-haiku-5-5/</link>
@@ -65,6 +83,12 @@
       <title>Mistral Large 4 (EU)</title>
       <link>https://llmpricing.dev/m/mistral/mistral-large-4-eu/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/mistral/mistral-large-4-eu/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistral: Mistral Large 4 (50% off)</title>
+      <link>https://llmpricing.dev/m/mistral/mistral-large-4-0/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/mistral/mistral-large-4-0/</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -137,12 +161,6 @@
       <title>Apodex 1.1 Mini (free)</title>
       <link>https://llmpricing.dev/m/apodex/apodex-1.1-mini-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/apodex/apodex-1.1-mini-free/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fledge Alpha Free</title>
-      <link>https://llmpricing.dev/m/misc/fledge-alpha-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/fledge-alpha-free/</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -288,24 +306,6 @@
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</guid>
       <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LongCat 2.5 Preview Free</title>
-      <link>https://llmpricing.dev/m/meituan/longcat-2.5-preview-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meituan/longcat-2.5-preview-free/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LongCat-2.5-Preview</title>
-      <link>https://llmpricing.dev/m/meituan/longcat-2.5-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meituan/longcat-2.5-preview/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiMo V2.6 Flash Abliterated</title>
-      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-abliterated/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-abliterated/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

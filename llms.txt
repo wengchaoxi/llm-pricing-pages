@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 2050+ LLM/chat models across 226 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 2055+ LLM/chat models across 225 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 2050
-- Providers: 226
-- Provider quotes: 8454
-- Data synced: 2026-10-08
+- Models: 2055
+- Providers: 225
+- Provider quotes: 8467
+- Data synced: 2026-10-09
 
 ## About
 
@@ -25,7 +25,7 @@ Methodology:
 - Official media generation pricing: vendor pricing pages (83 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-10-08); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-10-09); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -56,7 +56,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — CloudFerro Sherlock, $2.92/$2.92 per 1M, 84 providers
 - [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Z.AI, $1.40/$4.40 per 1M, 82 providers
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI, $0.15/$0.50 per 1M, 81 providers
-- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — DeepSeek, $0.15/$0.60 per 1M, 76 providers
+- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — DeepSeek, $0.15/$0.60 per 1M, 77 providers
 - [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Volcengine Ark, $0.445/$1.34 per 1M, 53 providers
 - [Claude Sonnet 4.6](https://llmpricing.dev/m/anthropic/claude-sonnet-4-6/) — Anthropic, $3.00/$15.00 per 1M, 50 providers
 - [GPT-5.5](https://llmpricing.dev/m/openai/gpt-5.5/) — OpenAI, $5.00/$30.00 per 1M, 49 providers
@@ -78,11 +78,9 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GPT-5.2](https://llmpricing.dev/m/openai/gpt-5.2/) — OpenAI, $1.75/$14.00 per 1M, 35 providers
 - [GPT-5 Mini](https://llmpricing.dev/m/openai/gpt-5-mini/) — OpenAI, $0.25/$2.00 per 1M, 35 providers
 - [GPT-5.4 nano](https://llmpricing.dev/m/openai/gpt-5.4-nano/) — OpenAI, $0.20/$1.25 per 1M, 34 providers
-- [Gemini 2.5 Flash](https://llmpricing.dev/m/google/gemini-2.5-flash/) — Google, $0.30/$2.50 per 1M, 34 providers
 - [GPT-5](https://llmpricing.dev/m/openai/gpt-5/) — OpenAI, $1.25/$10.00 per 1M, 34 providers
 - [Qwen3.6 35B-A3B](https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b/) — Alibaba, $0.248/$1.49 per 1M, 33 providers
 - [Qwen3.7 Plus](https://llmpricing.dev/m/alibaba/qwen3.7-plus/) — Alibaba, $0.40/$1.60 per 1M, 32 providers
-- [Gemini 2.5 Pro](https://llmpricing.dev/m/google/gemini-2.5-pro/) — Google, $1.25/$10.00 per 1M, 32 providers
 - [GPT-5.1](https://llmpricing.dev/m/openai/gpt-5.1/) — OpenAI, $1.25/$10.00 per 1M, 31 providers
 - [Grok 4.6](https://llmpricing.dev/m/xai/grok-4.6/) — xAI, $2.00/$6.00 per 1M, 30 providers
 - [Claude Fable 5.1](https://llmpricing.dev/m/anthropic/claude-fable-5-1/) — Anthropic, $10.00/$50.00 per 1M, 30 providers
@@ -92,6 +90,8 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Qwen3.8 Flash](https://llmpricing.dev/m/alibaba/qwen3.8-flash/) — Alibaba, $0.15/$0.47 per 1M, 29 providers
 - [Claude Opus 5.5](https://llmpricing.dev/m/anthropic/claude-opus-5-5/) — Anthropic, $4.00/$20.00 per 1M, 29 providers
 - [Gemini 3 Flash Preview](https://llmpricing.dev/m/google/gemini-3-flash-preview/) — Google, $0.50/$3.00 per 1M, 29 providers
+- [Gemini 3.5 Flash Lite](https://llmpricing.dev/m/google/gemini-3.5-flash-lite/) — Google, $0.30/$2.50 per 1M, 28 providers
+- [Qwen3 235B-A22B Instruct 2507](https://llmpricing.dev/m/alibaba/qwen3-235b-a22b-instruct-2507/) — GreenPT, $1.03/$3.08 per 1M, 28 providers
 
 ## Official video generation pricing
 
