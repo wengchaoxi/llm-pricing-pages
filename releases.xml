@@ -6,7 +6,25 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:06:35 GMT</lastBuildDate>
+    <item>
+      <title>Clef Omni</title>
+      <link>https://llmpricing.dev/m/cf/clef-omni/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/cf/clef-omni/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reka Edge 2603</title>
+      <link>https://llmpricing.dev/m/misc/reka-edge-2603/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/reka-edge-2603/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reka Edge 2603 (reka-ai)</title>
+      <link>https://llmpricing.dev/m/reka-ai/reka-edge-2603/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/reka-ai/reka-edge-2603/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Apex</title>
       <link>https://llmpricing.dev/m/callstack/apex/</link>
@@ -24,6 +42,12 @@
       <link>https://llmpricing.dev/m/google/gemma-4-31b-it-scarlet/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-scarlet/</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Claude 5.5 Haiku</title>
+      <link>https://llmpricing.dev/m/anthropic/anthropic-claude-5.5-haiku/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/anthropic-claude-5.5-haiku/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Claude Haiku 5.5</title>
@@ -282,30 +306,6 @@
       <link>https://llmpricing.dev/m/heabsy/cyberheabsy/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/heabsy/cyberheabsy/</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiniMax-M3.1-Flash-Preview</title>
-      <link>https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 Fast</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-opus-5-5-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-opus-5-5-fast/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Uncensored</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiMo V2.6 Flash Uncensored Thinking</title>
-      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
