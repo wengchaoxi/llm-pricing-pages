@@ -1,12 +1,12 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1582+ LLM/chat models across 226 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1581+ LLM/chat models across 226 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1582
+- Models: 1581
 - Providers: 226
-- Provider quotes: 8469
+- Provider quotes: 8468
 - Data synced: 2026-10-11
 
 ## About

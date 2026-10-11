@@ -6,13 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 03:39:55 GMT</lastBuildDate>
-    <item>
-      <title>Clef Omni</title>
-      <link>https://llmpricing.dev/m/cf/clef-omni/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/cf/clef-omni/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 08:17:22 GMT</lastBuildDate>
     <item>
       <title>Reka Edge 2603</title>
       <link>https://llmpricing.dev/m/misc/reka-edge-2603/</link>
@@ -305,6 +299,12 @@
       <title>GPT 6 Luna Pro</title>
       <link>https://llmpricing.dev/m/openai/gpt-6-luna-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna-pro/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 6 Sol Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-sol-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-sol-pro/</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
