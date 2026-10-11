@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 03:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:39:55 GMT</lastBuildDate>
     <item>
       <title>Clef Omni</title>
       <link>https://llmpricing.dev/m/cf/clef-omni/</link>
@@ -50,45 +50,9 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Anthropic Claude 5.5 Haiku</title>
-      <link>https://llmpricing.dev/m/anthropic/anthropic-claude-5.5-haiku/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/anthropic-claude-5.5-haiku/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Claude Haiku 5.5</title>
       <link>https://llmpricing.dev/m/anthropic/claude-haiku-5-5/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-haiku-5-5/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5 (AU)</title>
-      <link>https://llmpricing.dev/m/anthropic/au.anthropic.claude-haiku-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/au.anthropic.claude-haiku-5-5/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5 (EU)</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-haiku-5-5-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-haiku-5-5-eu/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5 (Global)</title>
-      <link>https://llmpricing.dev/m/anthropic/global.anthropic.claude-haiku-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/global.anthropic.claude-haiku-5-5/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5 (JP)</title>
-      <link>https://llmpricing.dev/m/anthropic/jp.anthropic.claude-haiku-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/jp.anthropic.claude-haiku-5-5/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5 (US)</title>
-      <link>https://llmpricing.dev/m/anthropic/us.anthropic.claude-haiku-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/us.anthropic.claude-haiku-5-5/</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -107,12 +71,6 @@
       <title>Mistral Large 4</title>
       <link>https://llmpricing.dev/m/mistral/mistral-large-4/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/mistral/mistral-large-4/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral Large 4 (EU)</title>
-      <link>https://llmpricing.dev/m/mistral/mistral-large-4-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/mistral/mistral-large-4-eu/</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -200,12 +158,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Agentic Chat (GPT-6.1 Sol)</title>
-      <link>https://llmpricing.dev/m/openai/duo-chat-gpt-6-1-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/duo-chat-gpt-6-1-sol/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>GPT 6.1 Sol Pro</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
@@ -218,64 +170,10 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Sol (EU)</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-eu/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol (Fast)</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-fast/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol (Global)</title>
-      <link>https://llmpricing.dev/m/openai/global.openai.gpt-6.1-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/global.openai.gpt-6.1-sol/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol (US)</title>
-      <link>https://llmpricing.dev/m/openai/us.openai.gpt-6.1-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/us.openai.gpt-6.1-sol/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Ling 3.1 Flash</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.1-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.1-flash/</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.1 Flash (Free)</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.1-flash-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.1-flash-free/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.1 Flash (NovitaAI)</title>
-      <link>https://llmpricing.dev/m/novita/ling-3.1-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/novita/ling-3.1-flash/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI GPT-6.1 Sol</title>
-      <link>https://llmpricing.dev/m/openai/openai-gpt-6-1-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-6-1-sol/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentic Chat (Claude Sonnet 5.5)</title>
-      <link>https://llmpricing.dev/m/anthropic/duo-chat-sonnet-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/duo-chat-sonnet-5-5/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic Claude Sonnet 5.5</title>
-      <link>https://llmpricing.dev/m/anthropic/anthropic-claude-sonnet-5.5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/anthropic-claude-sonnet-5.5/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Claude Sonnet 5.5</title>
@@ -284,28 +182,130 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Sonnet 5.5 (EU)</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-sonnet-5-5-eu/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-sonnet-5-5-eu/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <title>CyberHeabsy</title>
+      <link>https://llmpricing.dev/m/heabsy/cyberheabsy/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/heabsy/cyberheabsy/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Sonnet 5.5 (Global)</title>
-      <link>https://llmpricing.dev/m/anthropic/global.anthropic.claude-sonnet-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/global.anthropic.claude-sonnet-5-5/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <title>MiniMax-M3.1-Flash-Preview</title>
+      <link>https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Sonnet 5.5 (US)</title>
-      <link>https://llmpricing.dev/m/anthropic/us.anthropic.claude-sonnet-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/us.anthropic.claude-sonnet-5-5/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <title>GLM 5.3 Uncensored</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Sonnet 5.5 Thinking</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-sonnet-5.5-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-sonnet-5.5-thinking/</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <title>MiMo V2.6 Flash Uncensored Thinking</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LongCat-2.5-Preview</title>
+      <link>https://llmpricing.dev/m/meituan/longcat-2.5-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meituan/longcat-2.5-preview/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo V2.6 Flash Abliterated</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-abliterated/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo V2.6 Flash Uncensored</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perceptron Mk1.5</title>
+      <link>https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ember-1</title>
+      <link>https://llmpricing.dev/m/misc/ember-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/ember-1/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLiNER-2.5-Decide</title>
+      <link>https://llmpricing.dev/m/fastino/gliner-2.5-decide/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/fastino/gliner-2.5-decide/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aion 3.5</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aion 3.5 Mini</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AionLabs: Aion 3.5</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-3.5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AionLabs: Aion 3.5 Mini</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-3.5-mini/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5-mini/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.3 Prime</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-prime/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-prime/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 Max Prime</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-max-prime/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-max-prime/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solar Mini 4</title>
+      <link>https://llmpricing.dev/m/upstage/solar-mini4/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solar Mini 4 Thinking</title>
+      <link>https://llmpricing.dev/m/upstage/solar-mini4-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4-thinking/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Space Bunny</title>
+      <link>https://llmpricing.dev/m/misc/space-bunny/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/space-bunny/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5</title>
+      <link>https://llmpricing.dev/m/anthropic/claude-opus-5-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 6 Luna Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6-luna-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6-luna-pro/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
