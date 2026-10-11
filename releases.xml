@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 08:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:01:13 GMT</lastBuildDate>
     <item>
       <title>Clef Omni</title>
       <link>https://llmpricing.dev/m/cf/clef-omni/</link>
@@ -41,6 +41,12 @@
       <title>Gemma 4 31B Scarlet</title>
       <link>https://llmpricing.dev/m/google/gemma-4-31b-it-scarlet/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-scarlet/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol Ultrafast</title>
+      <link>https://llmpricing.dev/m/openai/openai-gpt-61-sol-ultrafast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-61-sol-ultrafast/</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -300,12 +306,6 @@
       <link>https://llmpricing.dev/m/anthropic/claude-sonnet-5.5-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-sonnet-5.5-thinking/</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CyberHeabsy</title>
-      <link>https://llmpricing.dev/m/heabsy/cyberheabsy/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/heabsy/cyberheabsy/</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
