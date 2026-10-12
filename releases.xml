@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 08:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:16:27 GMT</lastBuildDate>
     <item>
       <title>Reka Edge 2603</title>
       <link>https://llmpricing.dev/m/misc/reka-edge-2603/</link>
