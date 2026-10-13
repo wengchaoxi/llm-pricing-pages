@@ -9877,6 +9877,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</loc>
+<lastmod>2026-10-13</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://llmpricing.dev/m/zhipuai/glm-4.6v-original/</loc>
 <lastmod>2025-12-08</lastmod>
 <changefreq>monthly</changefreq>
@@ -10209,6 +10215,12 @@
 <url>
 <loc>https://llmpricing.dev/m/sarvamai/sarvam-m/</loc>
 <lastmod>2025-07-25</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://llmpricing.dev/m/nimbz/schattenblume-31b/</loc>
+<lastmod>2026-10-13</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>

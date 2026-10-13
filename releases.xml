@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:38:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:56:22 GMT</lastBuildDate>
+    <item>
+      <title>Gemma 4 Dark Thoughts V2 31B</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Schattenblume 31B</title>
+      <link>https://llmpricing.dev/m/nimbz/schattenblume-31b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nimbz/schattenblume-31b/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Cat Jam Free</title>
       <link>https://llmpricing.dev/m/misc/cat-jam-free/</link>
@@ -293,18 +305,6 @@
       <title>Solar Mini 4</title>
       <link>https://llmpricing.dev/m/upstage/solar-mini4/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solar Mini 4 Thinking</title>
-      <link>https://llmpricing.dev/m/upstage/solar-mini4-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4-thinking/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Space Bunny</title>
-      <link>https://llmpricing.dev/m/misc/space-bunny/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/space-bunny/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
