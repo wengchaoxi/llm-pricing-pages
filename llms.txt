@@ -6,7 +6,7 @@
 
 - Models: 1590
 - Providers: 229
-- Provider quotes: 8833
+- Provider quotes: 8832
 - Data synced: 2026-10-14
 
 ## About
@@ -33,7 +33,7 @@ Methodology:
 - [Leaderboards](https://llmpricing.dev/en/leaderboards/): intelligence, coding, value, cost per task, speed, usage
 - [Value frontier](https://llmpricing.dev/en/frontier/): best intelligence per dollar
 - [Providers](https://llmpricing.dev/en/providers/): first-party, cloud and gateway providers
-- [Compare](https://llmpricing.dev/en/compare/): 2-4 models side by side
+- [Compare](https://llmpricing.dev/en/compare/): compare two or more models with radar profiles and metric tables
 - [Releases](https://llmpricing.dev/en/releases/): a dated feed of recent model releases, each linking to the model's page
 
 ## Tools
