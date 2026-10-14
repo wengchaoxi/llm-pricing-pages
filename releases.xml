@@ -6,11 +6,77 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:43:12 GMT</lastBuildDate>
+    <item>
+      <title>Ambient Small</title>
+      <link>https://llmpricing.dev/m/ambient/small/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/ambient/small/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4 Flash Vision Exp Cybersecurity</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-cybersecurity/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-cybersecurity/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extract</title>
+      <link>https://llmpricing.dev/m/scaledown/extract/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/scaledown/extract/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 4 Argon</title>
+      <link>https://llmpricing.dev/m/google/gemini-4-argon/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-4-argon/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Gemma 4 Dark Thoughts V2 31B</title>
       <link>https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 Giftige-Blume V2 31B</title>
+      <link>https://llmpricing.dev/m/google/gemma-4-giftige-blume-31b-v2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-giftige-blume-31b-v2/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 Gutenberg 31B</title>
+      <link>https://llmpricing.dev/m/google/gemma4-gutenberg-31b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma4-gutenberg-31b/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LFM2.5-24B-A2B</title>
+      <link>https://llmpricing.dev/m/liquid/lfm-2.5-24b-a2b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/liquid/lfm-2.5-24b-a2b/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pareto 26.9</title>
+      <link>https://llmpricing.dev/m/unbiased/pareto-26.9/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/unbiased/pareto-26.9/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pareto Latest</title>
+      <link>https://llmpricing.dev/m/unbiased/pareto-latest/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/unbiased/pareto-latest/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>qwen3.8-27b-4q</title>
+      <link>https://llmpricing.dev/m/unsloth/qwen3.8-27b-gguf/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/unsloth/qwen3.8-27b-gguf/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ScaleDown: Summarize</title>
+      <link>https://llmpricing.dev/m/scaledown/summarize/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/scaledown/summarize/</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -170,12 +236,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apodex 1.1 Mini (free)</title>
-      <link>https://llmpricing.dev/m/apodex/apodex-1.1-mini-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/apodex/apodex-1.1-mini-free/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Pareto 26.10 Preview</title>
       <link>https://llmpricing.dev/m/unbiased/pareto-26.10-preview/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/unbiased/pareto-26.10-preview/</guid>
@@ -246,66 +306,6 @@
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perceptron Mk1.5</title>
-      <link>https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ember-1</title>
-      <link>https://llmpricing.dev/m/misc/ember-1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/ember-1/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLiNER-2.5-Decide</title>
-      <link>https://llmpricing.dev/m/fastino/gliner-2.5-decide/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/fastino/gliner-2.5-decide/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aion 3.5</title>
-      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aion 3.5 Mini</title>
-      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AionLabs: Aion 3.5</title>
-      <link>https://llmpricing.dev/m/aion-labs/aion-3.5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AionLabs: Aion 3.5 Mini</title>
-      <link>https://llmpricing.dev/m/aion-labs/aion-3.5-mini/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5-mini/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Prime</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-prime/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-prime/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 Max Prime</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-max-prime/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-max-prime/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solar Mini 4</title>
-      <link>https://llmpricing.dev/m/upstage/solar-mini4/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini4/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

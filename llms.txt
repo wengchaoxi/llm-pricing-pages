@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1582+ LLM/chat models across 228 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1590+ LLM/chat models across 228 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1582
+- Models: 1590
 - Providers: 228
-- Provider quotes: 8775
-- Data synced: 2026-10-13
+- Provider quotes: 8814
+- Data synced: 2026-10-14
 
 ## About
 
@@ -25,7 +25,7 @@ Methodology:
 - Official media generation pricing: vendor pricing pages (84 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-10-13); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-10-14); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -57,19 +57,19 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI, $0.15/$0.50 per 1M, 100 providers
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — CloudFerro Sherlock, $2.92/$2.92 per 1M, 93 providers
 - [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — Volcengine Ark, $0.445/$1.34 per 1M, 71 providers
+- [GPT-5.6 Sol](https://llmpricing.dev/m/openai/gpt-5.6-sol/) — OpenAI, $4.00/$20.00 per 1M, 61 providers
 - [Claude Opus 4.8](https://llmpricing.dev/m/anthropic/claude-opus-4-8/) — Anthropic, $5.00/$25.00 per 1M, 61 providers
-- [GPT-5.6 Sol](https://llmpricing.dev/m/openai/gpt-5.6-sol/) — OpenAI, $4.00/$20.00 per 1M, 60 providers
 - [Claude Sonnet 4.6](https://llmpricing.dev/m/anthropic/claude-sonnet-4-6/) — Anthropic, $3.00/$15.00 per 1M, 60 providers
+- [GPT-5.6 Luna](https://llmpricing.dev/m/openai/gpt-5.6-luna/) — OpenAI, $0.20/$1.20 per 1M, 58 providers
 - [Claude Opus 4.7](https://llmpricing.dev/m/anthropic/claude-opus-4-7/) — Anthropic, $5.00/$25.00 per 1M, 58 providers
-- [GPT-5.6 Luna](https://llmpricing.dev/m/openai/gpt-5.6-luna/) — OpenAI, $0.20/$1.20 per 1M, 57 providers
-- [GPT-5.6 Terra](https://llmpricing.dev/m/openai/gpt-5.6-terra/) — OpenAI, $2.00/$12.00 per 1M, 55 providers
+- [GPT-5.6 Terra](https://llmpricing.dev/m/openai/gpt-5.6-terra/) — OpenAI, $2.00/$12.00 per 1M, 56 providers
 - [Claude Sonnet 5](https://llmpricing.dev/m/anthropic/claude-sonnet-5/) — Anthropic, $2.00/$10.00 per 1M, 54 providers
 - [Claude Opus 4.6](https://llmpricing.dev/m/anthropic/claude-opus-4-6/) — Anthropic, $5.00/$25.00 per 1M, 54 providers
 - [GPT-5.5](https://llmpricing.dev/m/openai/gpt-5.5/) — OpenAI, $5.00/$30.00 per 1M, 53 providers
 - [Claude Opus 5](https://llmpricing.dev/m/anthropic/claude-opus-5/) — Anthropic, $5.00/$25.00 per 1M, 52 providers
 - [Qwen3.8 27B](https://llmpricing.dev/m/alibaba/qwen3.8-27b/) — Tempr Gateway, $0.80/$4.00 per 1M, 52 providers
+- [Claude Fable 5](https://llmpricing.dev/m/anthropic/claude-fable-5/) — Anthropic, $10.00/$50.00 per 1M, 49 providers
 - [GPT-5.4](https://llmpricing.dev/m/openai/gpt-5.4/) — OpenAI, $2.50/$15.00 per 1M, 49 providers
-- [Claude Fable 5](https://llmpricing.dev/m/anthropic/claude-fable-5/) — Anthropic, $10.00/$50.00 per 1M, 48 providers
 - [Qwen3.6 35B-A3B](https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b/) — Alibaba, $0.248/$1.49 per 1M, 45 providers
 - [Claude Opus 5.5](https://llmpricing.dev/m/anthropic/claude-opus-5-5/) — Anthropic, $4.00/$20.00 per 1M, 43 providers
 - [Gemini 3.5 Flash](https://llmpricing.dev/m/google/gemini-3.5-flash/) — Vertex, $1.50/$9.00 per 1M, 42 providers
