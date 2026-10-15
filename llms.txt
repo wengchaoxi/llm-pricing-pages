@@ -6,7 +6,7 @@
 
 - Models: 1584
 - Providers: 230
-- Provider quotes: 8871
+- Provider quotes: 8872
 - Data synced: 2026-10-15
 
 ## About
@@ -52,7 +52,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 ## Popular models
 
-- [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Z.AI, $1.40/$4.40 per 1M, 110 providers
+- [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Z.AI, $1.40/$4.40 per 1M, 111 providers
 - [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (China), $3.00/$15.00 per 1M, 108 providers
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI, $0.15/$0.50 per 1M, 99 providers
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — CloudFerro Sherlock, $2.92/$2.92 per 1M, 94 providers
