@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:14:54 GMT</lastBuildDate>
+    <item>
+      <title>Nemotron 3.5 Super VL 120B A12B</title>
+      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ambient Small</title>
       <link>https://llmpricing.dev/m/ambient/small/</link>
@@ -29,24 +35,6 @@
       <title>Gemini 4 Argon</title>
       <link>https://llmpricing.dev/m/google/gemini-4-argon/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-4-argon/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 Dark Thoughts V2 31B</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 Giftige-Blume V2 31B</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-giftige-blume-31b-v2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-giftige-blume-31b-v2/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 Gutenberg 31B</title>
-      <link>https://llmpricing.dev/m/google/gemma4-gutenberg-31b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma4-gutenberg-31b/</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -80,12 +68,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Schattenblume 31B</title>
-      <link>https://llmpricing.dev/m/nimbz/schattenblume-31b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nimbz/schattenblume-31b/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Cat Jam Free</title>
       <link>https://llmpricing.dev/m/misc/cat-jam-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/cat-jam-free/</guid>
@@ -95,12 +77,6 @@
       <title>Muse Wonder</title>
       <link>https://llmpricing.dev/m/meta/muse-wonder-1.0/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-wonder-1.0/</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TheDrummer Skyfall 31B v4.2</title>
-      <link>https://llmpricing.dev/m/thedrummer/skyfall-31b-v4.2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/skyfall-31b-v4.2/</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -150,12 +126,6 @@
       <link>https://llmpricing.dev/m/stealth/glyph-cluster/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/stealth/glyph-cluster/</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exo Free</title>
-      <link>https://llmpricing.dev/m/misc/exo-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/exo-free/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Mistral Large 4</title>
@@ -306,6 +276,36 @@
       <link>https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ember-1</title>
+      <link>https://llmpricing.dev/m/misc/ember-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/ember-1/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLiNER-2.5-Decide</title>
+      <link>https://llmpricing.dev/m/fastino/gliner-2.5-decide/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/fastino/gliner-2.5-decide/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aion 3.5</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aion 3.5 Mini</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AionLabs: Aion 3.5</title>
+      <link>https://llmpricing.dev/m/aion-labs/aion-3.5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
