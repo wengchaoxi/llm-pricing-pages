@@ -6,7 +6,43 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:44:36 GMT</lastBuildDate>
+    <item>
+      <title>Cat Jam</title>
+      <link>https://llmpricing.dev/m/stealth/cat-jam/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/stealth/cat-jam/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LL Alpha Free</title>
+      <link>https://llmpricing.dev/m/misc/ll-alpha-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/ll-alpha-free/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moondream 3 Preview</title>
+      <link>https://llmpricing.dev/m/moondream/moondream3-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/moondream/moondream3-preview/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moondream 3.1</title>
+      <link>https://llmpricing.dev/m/moondream/moondream3.1-9b-a2b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/moondream/moondream3.1-9b-a2b/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Muse Spark Open</title>
+      <link>https://llmpricing.dev/m/meta/muse-spark-open/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-spark-open/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nemotron 3.5 Super VL (free)</title>
+      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-free/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Nemotron 3.5 Super VL 120B A12B</title>
       <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</link>
@@ -14,15 +50,21 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>NVIDIA Nemotron 3.5 Super VL</title>
+      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reka Edge 2603</title>
+      <link>https://llmpricing.dev/m/reka/reka-edge-2603/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/reka/reka-edge-2603/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Ambient Small</title>
       <link>https://llmpricing.dev/m/ambient/small/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/ambient/small/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4 Flash Vision Exp Cybersecurity</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-cybersecurity/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-flash-vision-exp-cybersecurity/</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -78,12 +120,6 @@
       <link>https://llmpricing.dev/m/meta/muse-wonder-1.0/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-wonder-1.0/</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reka Edge 2603</title>
-      <link>https://llmpricing.dev/m/misc/reka-edge-2603/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/reka-edge-2603/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Reka Edge 2603 (reka-ai)</title>
@@ -270,42 +306,6 @@
       <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perceptron Mk1.5</title>
-      <link>https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/perceptron/perceptron-mk1.5/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ember-1</title>
-      <link>https://llmpricing.dev/m/misc/ember-1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/ember-1/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLiNER-2.5-Decide</title>
-      <link>https://llmpricing.dev/m/fastino/gliner-2.5-decide/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/fastino/gliner-2.5-decide/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aion 3.5</title>
-      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aion 3.5 Mini</title>
-      <link>https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-labs-aion-3-5-mini/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AionLabs: Aion 3.5</title>
-      <link>https://llmpricing.dev/m/aion-labs/aion-3.5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/aion-labs/aion-3.5/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
