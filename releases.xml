@@ -6,17 +6,17 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 01:48:35 GMT</lastBuildDate>
-    <item>
-      <title>Beam 1.0 (Free)</title>
-      <link>https://llmpricing.dev/m/reflection/beam-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/reflection/beam-free/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 04:09:55 GMT</lastBuildDate>
     <item>
       <title>Glimpse</title>
       <link>https://llmpricing.dev/m/elorian/glimpse/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/elorian/glimpse/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beam 1.0 (Free)</title>
+      <link>https://llmpricing.dev/m/reflection/beam-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/reflection/beam-free/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>

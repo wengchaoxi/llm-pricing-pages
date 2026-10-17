@@ -9560,7 +9560,7 @@
 </url>
 <url>
 <loc>https://llmpricing.dev/m/zhipuai/glm-latest/</loc>
-<lastmod>2026-10-16</lastmod>
+<lastmod>2026-10-17</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -9801,6 +9801,12 @@
 <url>
 <loc>https://llmpricing.dev/m/mistral/devstral-small-2505/</loc>
 <lastmod>2026-09-03</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://llmpricing.dev/m/elorian/glimpse/</loc>
+<lastmod>2026-10-17</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
