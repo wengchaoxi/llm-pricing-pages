@@ -6,19 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:40:57 GMT</lastBuildDate>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017 Thinking</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-thinking/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Oct 2026 06:04:30 GMT</lastBuildDate>
     <item>
       <title>Glimpse</title>
       <link>https://llmpricing.dev/m/elorian/glimpse/</link>
@@ -89,6 +77,12 @@
       <title>NVIDIA Nemotron 3.5 Super VL</title>
       <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pareto 26.10</title>
+      <link>https://llmpricing.dev/m/unbiased/pareto-26.10/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/unbiased/pareto-26.10/</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -278,12 +272,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pareto 26.10 Preview</title>
-      <link>https://llmpricing.dev/m/unbiased/pareto-26.10-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/unbiased/pareto-26.10-preview/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>GPT 6.1 Sol Pro</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
@@ -306,6 +294,18 @@
       <link>https://llmpricing.dev/m/heabsy/cyberheabsy/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/heabsy/cyberheabsy/</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiniMax-M3.1-Flash-Preview</title>
+      <link>https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.3 Uncensored</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
