@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:21:05 GMT</lastBuildDate>
+    <item>
+      <title>MiniMax-M3.1-Flash</title>
+      <link>https://llmpricing.dev/m/minimax/minimax-m3.1-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/minimax/minimax-m3.1-flash/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Glimpse</title>
       <link>https://llmpricing.dev/m/elorian/glimpse/</link>
@@ -272,15 +278,15 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Sol</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol/</guid>
+      <title>GPT 6.1 Sol Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Sol Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
+      <title>GPT-6.1 Sol</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol/</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -300,12 +306,6 @@
       <link>https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/minimax/minimax-m3.1-flash-preview/</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Uncensored</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
