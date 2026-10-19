@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 06:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:18:48 GMT</lastBuildDate>
     <item>
       <title>Glimpse</title>
       <link>https://llmpricing.dev/m/elorian/glimpse/</link>
@@ -86,12 +86,6 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Reka Edge 2603</title>
-      <link>https://llmpricing.dev/m/reka/reka-edge-2603/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/reka/reka-edge-2603/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Ambient Small</title>
       <link>https://llmpricing.dev/m/ambient/small/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/ambient/small/</guid>
@@ -144,6 +138,12 @@
       <link>https://llmpricing.dev/m/meta/muse-wonder-1.0/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-wonder-1.0/</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reka Edge 2603</title>
+      <link>https://llmpricing.dev/m/reka/reka-edge-2603/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/reka/reka-edge-2603/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Reka Edge 2603 (reka-ai)</title>
@@ -272,15 +272,15 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 6.1 Sol Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>GPT-6.1 Sol</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-sol/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
