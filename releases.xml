@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:25:01 GMT</lastBuildDate>
     <item>
       <title>Extract-1</title>
       <link>https://llmpricing.dev/m/scaledown/scaledown-extract-1/</link>
