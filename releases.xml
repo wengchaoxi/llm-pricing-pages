@@ -6,12 +6,24 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 07:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:02:34 GMT</lastBuildDate>
     <item>
-      <title>Mercury 3</title>
-      <link>https://llmpricing.dev/m/inception/mercury-3/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-3/</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Extract-1</title>
+      <link>https://llmpricing.dev/m/scaledown/scaledown-extract-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/scaledown/scaledown-extract-1/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liquid Auto</title>
+      <link>https://llmpricing.dev/m/misc/liquid.auto/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/liquid.auto/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Summarize-1</title>
+      <link>https://llmpricing.dev/m/scaledown/scaledown-summarize-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/scaledown/scaledown-summarize-1/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MiniMax-M3.1-Flash</title>
@@ -24,6 +36,12 @@
       <link>https://llmpricing.dev/m/elorian/glimpse/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/elorian/glimpse/</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mercury 3</title>
+      <link>https://llmpricing.dev/m/inception/mercury-3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-3/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Orion 26B A4B v1.1</title>
@@ -62,27 +80,21 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Nemotron 3.5 Super 120B A12B</title>
+      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-120b-a12b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-120b-a12b/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Nemotron 3.5 Super VL 120B A12B</title>
       <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia Nemotron 3.5 Super VL</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Pareto 26.10</title>
       <link>https://llmpricing.dev/m/unbiased/pareto-26.10/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/unbiased/pareto-26.10/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reka Edge 2603</title>
-      <link>https://llmpricing.dev/m/reka/reka-edge-2603/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/reka/reka-edge-2603/</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -140,6 +152,12 @@
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Reka Edge 2603</title>
+      <link>https://llmpricing.dev/m/misc/reka-edge-2603/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/reka-edge-2603/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Reka Edge 2603 (reka-ai)</title>
       <link>https://llmpricing.dev/m/reka-ai/reka-edge-2603/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/reka-ai/reka-edge-2603/</guid>
@@ -164,12 +182,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Sol Ultrafast</title>
-      <link>https://llmpricing.dev/m/openai/openai-gpt-61-sol-ultrafast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-61-sol-ultrafast/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Claude Haiku 5.5</title>
       <link>https://llmpricing.dev/m/anthropic/claude-haiku-5-5/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-haiku-5-5/</guid>
@@ -180,6 +192,18 @@
       <link>https://llmpricing.dev/m/stealth/glyph-cluster/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/stealth/glyph-cluster/</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiniCPM-V 4.7 35B-A3B</title>
+      <link>https://llmpricing.dev/m/openbmb/minicpm-v-4.7-35b-a3b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openbmb/minicpm-v-4.7-35b-a3b/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiniCPM-V 4.7 1B</title>
+      <link>https://llmpricing.dev/m/openbmb/minicpm-v-4.7-1b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openbmb/minicpm-v-4.7-1b/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Mistral Large 4</title>
@@ -260,15 +284,15 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 6.1 Sol Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>GPT-6.1 Sol</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-sol/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-sol-pro/</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -282,30 +306,6 @@
       <link>https://llmpricing.dev/m/heabsy/cyberheabsy/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/heabsy/cyberheabsy/</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Uncensored</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-uncensored/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiMo V2.6 Flash Uncensored Thinking</title>
-      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored-thinking/</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LongCat-2.5-Preview</title>
-      <link>https://llmpricing.dev/m/meituan/longcat-2.5-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meituan/longcat-2.5-preview/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiMo V2.6 Flash Abliterated</title>
-      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-abliterated/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-abliterated/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
