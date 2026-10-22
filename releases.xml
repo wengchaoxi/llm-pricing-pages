@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:29:46 GMT</lastBuildDate>
+    <item>
+      <title>kolibri-1</title>
+      <link>https://llmpricing.dev/m/misc/kolibri-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/kolibri-1/</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Beam</title>
       <link>https://llmpricing.dev/m/misc/reflection-beam/</link>
@@ -48,12 +54,6 @@
       <link>https://llmpricing.dev/m/scaledown/scaledown-summarize-1/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/scaledown/scaledown-summarize-1/</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiniMax-M3.1-Flash</title>
-      <link>https://llmpricing.dev/m/minimax/minimax-m3.1-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/minimax/minimax-m3.1-flash/</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Glimpse</title>
