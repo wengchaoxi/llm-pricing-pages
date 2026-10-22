@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[90661,["/_next/static/chunks/36tjmxk9g1ayc.js","/_next/static/chunks/43x5jy4y8_z29.js","/_next/static/chunks/0_eno1v2kr1ko.js","/_next/static/chunks/3hi1xr_8ak3b1.js"],"LocaleLink"]
+3:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"ViewportBoundary"]
+9:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"MetadataBoundary"]
+7:X
+27:X
+27:C
+0:{"buildId":"FmVx4OU-6HUSoMYwnyYrs","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-4xl px-5 py-12 pb-24","children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"@id\":\"https://llmpricing.dev/zh/articles/\",\"url\":\"https://llmpricing.dev/zh/articles/\",\"name\":\"AI 产品价格文章 | LLM Pricing\",\"description\":\"新上线的 AI 产品多少钱、用量限制怎么算。套餐价格与模型费率取自本站数据，每条事实都链接到厂商原始页面。\",\"inLanguage\":\"zh-CN\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"LLM Pricing\",\"url\":\"https://llmpricing.dev/\"},\"about\":{\"@type\":\"Thing\",\"name\":\"Large language model API pricing\"},\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"h1\"]}}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"文章\",\"item\":\"https://llmpricing.dev/zh/articles/\"}]}"}}],["$","script","2",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"文章\",\"numberOfItems\":1,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Claude Duet 与 Grok Bot：各自多少钱，用量限制怎么算\",\"url\":\"https://llmpricing.dev/zh/articles/claude-duet-vs-grok-bot/\"}]}"}}]],["$","h1",null,{"className":"text-3xl font-bold tracking-tight sm:text-4xl","children":"文章"}],["$","p",null,{"className":"mt-3 max-w-[65ch] text-base leading-7 text-zinc-500","children":"新上线的 AI 产品多少钱、用量限制怎么算。套餐价格与模型费率取自本站数据，每条事实都链接到厂商原始页面。"}],["$","ul",null,{"className":"grid gap-4  mt-10","children":[["$","li","claude-duet-vs-grok-bot",{"children":["$","$L2",null,{"href":"/articles/claude-duet-vs-grok-bot","className":"group flex h-full flex-col rounded-xl border border-zinc-200 transition-colors hover:border-blue-500 dark:border-zinc-800 p-6","children":[["$","span",null,{"className":"text-[11px] font-semibold uppercase tracking-wider text-blue-600 dark:text-blue-400","children":"分析"}],["$","span",null,{"className":"mt-2 font-semibold leading-snug text-zinc-800 dark:text-zinc-100 text-xl","children":"Claude Duet 与 Grok Bot：各自多少钱，用量限制怎么算"}],["$","span",null,{"className":"mt-2 leading-relaxed text-zinc-500 text-base","children":"各档套餐是否包含、目前谁能用、用量限制怎么算，以及套餐月费按 API 牌价能换多少 token。"}],["$","span",null,{"className":"mt-auto flex flex-wrap items-center gap-x-2 pt-4 text-xs text-zinc-400","children":[[["$","span",null,{"children":"LLM Pricing"}],["$","span",null,{"aria-hidden":true,"children":"•"}]],["$","time",null,{"dateTime":"2026-10-22","children":"2026年10月22日"}],["$","span",null,{"className":"ml-auto font-medium text-blue-600 group-hover:underline dark:text-blue-400","children":["阅读全文"," →"]}]]}]]}]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0a0a0a","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI 产品价格文章 | LLM Pricing"}],["$","meta","1",{"name":"description","content":"新上线的 AI 产品多少钱、用量限制怎么算。套餐价格与模型费率取自本站数据，每条事实都链接到厂商原始页面。"}],["$","meta","2",{"name":"application-name","content":"LLM Pricing"}],["$","meta","3",{"name":"author","content":"@chaoxiweng"}],["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","5",{"name":"creator","content":"@chaoxiweng"}],["$","meta","6",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-8993454504398316"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]}],null]}],"isPartial":"$@24","staleTime":"$7","varyParams":null},{"rsc":"$L25","isPartial":"$@26","staleTime":"$7","varyParams":"$27"}],"isUpgradeableISRFallback":false,"a":"$@28","rootVaryParams":null,"needsRuntimeRequest":"$@29"}
+2a:I[82886,["/_next/static/chunks/36tjmxk9g1ayc.js"],"IconMark"]
+2b:I[68223,["/_next/static/chunks/36tjmxk9g1ayc.js"],"default"]
+2c:I[16317,["/_next/static/chunks/36tjmxk9g1ayc.js"],"default"]
+5:null
+a:["$","link","8",{"rel":"canonical","href":"https://llmpricing.dev/zh/articles/"}]
+b:["$","link","9",{"rel":"alternate","hrefLang":"en","href":"https://llmpricing.dev/en/articles/"}]
+c:["$","link","10",{"rel":"alternate","hrefLang":"zh","href":"https://llmpricing.dev/zh/articles/"}]
+d:["$","link","11",{"rel":"alternate","hrefLang":"x-default","href":"https://llmpricing.dev/en/articles/"}]
+e:["$","meta","12",{"name":"format-detection","content":"telephone=no, date=no, address=no, email=no"}]
+f:["$","meta","13",{"name":"msvalidate.01","content":"2ADD08D32D4D5D7B114AD1F42793E891"}]
+10:["$","meta","14",{"property":"og:title","content":"AI 产品价格文章 | LLM Pricing"}]
+11:["$","meta","15",{"property":"og:description","content":"新上线的 AI 产品多少钱、用量限制怎么算。套餐价格与模型费率取自本站数据，每条事实都链接到厂商原始页面。"}]
+12:["$","meta","16",{"property":"og:url","content":"https://llmpricing.dev/zh/articles/"}]
+13:["$","meta","17",{"property":"og:site_name","content":"LLM Pricing"}]
+14:["$","meta","18",{"property":"og:locale","content":"zh_CN"}]
+15:["$","meta","19",{"property":"og:image","content":"https://llmpricing.dev/og.png"}]
+16:["$","meta","20",{"property":"og:image:width","content":"1200"}]
+17:["$","meta","21",{"property":"og:image:height","content":"630"}]
+18:["$","meta","22",{"property":"og:image:alt","content":"LLM Pricing — compare LLM API pricing across every provider"}]
+19:["$","meta","23",{"property":"og:locale:alternate","content":"en_US"}]
+1a:["$","meta","24",{"property":"og:type","content":"website"}]
+1b:["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","26",{"name":"twitter:site","content":"@chaoxiweng"}]
+1d:["$","meta","27",{"name":"twitter:creator","content":"@chaoxiweng"}]
+1e:["$","meta","28",{"name":"twitter:title","content":"AI 产品价格文章 | LLM Pricing"}]
+1f:["$","meta","29",{"name":"twitter:description","content":"新上线的 AI 产品多少钱、用量限制怎么算。套餐价格与模型费率取自本站数据，每条事实都链接到厂商原始页面。"}]
+20:["$","meta","30",{"name":"twitter:image","content":"https://llmpricing.dev/og.png"}]
+21:["$","link","31",{"rel":"icon","href":"/favicon.ico?favicon.0ddec_x2apluo.ico","sizes":"48x48","type":"image/x-icon"}]
+22:["$","link","32",{"rel":"icon","href":"/icon.svg?icon.0cky9s9a1x7kx.svg","sizes":"any","type":"image/svg+xml"}]
+23:["$","$L2a","33",{}]
+25:["$","$1","c",{"children":[null,["$","$L2b",null,{"parallelRouterKey":"children","template":["$","$L2c",null,{}]}]]}]
+29:true
+7:300
+7:C
+28:0
+24:"$undefined"
+26:"$undefined"
+6:"$undefined"
