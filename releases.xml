@@ -6,11 +6,17 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:44:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:17:32 GMT</lastBuildDate>
     <item>
       <title>Abliterated Large Flash</title>
       <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ternary Bonsai2 9B</title>
+      <link>https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -299,12 +305,6 @@
       <title>Qwen 3.8 27B Antislop</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-antislop/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-antislop/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B DarkIdol</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-darkidol/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-darkidol/</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
