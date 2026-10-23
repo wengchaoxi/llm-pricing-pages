@@ -23,7 +23,7 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official media generation pricing: vendor pricing pages (81 models, checked 2026-09-29).
+- Official media generation pricing: vendor pricing pages (82 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
 - Data is refreshed regularly (last sync 2026-10-23); prices are indicative — always confirm on each provider's official page.
@@ -50,6 +50,7 @@ Methodology:
 - [Claude Duet vs Grok Bot: what each costs and how the limits work](https://llmpricing.dev/en/articles/claude-duet-vs-grok-bot/): Which plans include each agent, who can use it today, how the usage limits work, and what the plan fee buys at API list prices.
 - [What is Claude Duet? What Anthropic's proactive agent does](https://llmpricing.dev/en/articles/what-is-claude-duet/): A separate Claude app that sends a morning brief, watches your connected accounts, runs tasks on its own cloud computer and asks before it sends, pays, signs or deletes.
 - [What is ChatGPT dots? OpenAI's always-on agents explained](https://llmpricing.dev/en/articles/what-is-chatgpt-dots/): A named agent inside ChatGPT that holds ongoing goals, researches in the background, runs scheduled checks, works in 4,000+ apps and follows rules you set for when to act and when to ask.
+- [What is Jev? TypeSafe's decision model explained](https://llmpricing.dev/en/articles/what-is-jev/): A model that picks instead of writing. What a System One decision model takes in and returns, what it costs, how independent tests rate it, and where it breaks.
 - [What is Meta Muse? Meta's personal AI agent explained](https://llmpricing.dev/en/articles/what-is-meta-muse/): An agent you message like a person. It plans toward goals, opens a browser, fills forms, negotiates and pays with a one-time card, and a separate Sentinel agent approves what leaves its VM.
 - [What are GLM 5.3 Uncensored and GLM 5.3 Flash Uncensored?](https://llmpricing.dev/en/articles/what-is-glm-5-3-uncensored/): Two weight-edited GLM-5.3 derivatives that refuse far less than the base models. What abliteration changes, which base each starts from, what each costs, and the limits that still apply.
 - [What is Grok Bot? xAI's AI teammates explained](https://llmpricing.dev/en/articles/what-is-grok-bot/): Named Bots with a browser, files and a terminal in the cloud, several working in parallel, learning workflows from a single demonstration and checking back when they need approval.
@@ -116,6 +117,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [HappyHorse 1.1 Image-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-i2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Reference-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-r2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Text-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-t2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
+- [Veo-3.1](https://llmpricing.dev/m/google/veo-3.1/) — Google Vertex AI, published tariff from $0.20 per second; conditions vary by resolution, audio and input media
 - [Flux 3](https://llmpricing.dev/m/bfl/flux-3-video/) — Black Forest Labs, published tariff from $0.06 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine](https://llmpricing.dev/m/xai/grok-imagine-video/) — xAI, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
 - [MiniMax H3 Max](https://llmpricing.dev/m/minimax/minimax-h3-max/) — MiniMax, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
@@ -150,7 +152,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GPT Image 2.5 Sunburst](https://llmpricing.dev/m/openai/gpt-image-2.5-sunburst/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
 - [Grok Imagine Image](https://llmpricing.dev/m/xai/grok-imagine-image/) — xAI, published tariff from $0.02 per image; size, quality and editing conditions may vary
 - [Grok Imagine Image 2.0](https://llmpricing.dev/m/xai/grok-imagine-image-2.0/) — xAI, published tariff from $0.04 per image; size, quality and editing conditions may vary
-- [gpt-image-1-mini](https://llmpricing.dev/m/openai/gpt-image-1-mini/) — OpenAI, published tariff from $0.005 per image; size, quality and editing conditions may vary
+- [GPT-Image-1-Mini](https://llmpricing.dev/m/openai/gpt-image-1-mini/) — OpenAI, published tariff from $0.005 per image; size, quality and editing conditions may vary
 - [Qwen Image](https://llmpricing.dev/m/alibaba/qwen-image/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0](https://llmpricing.dev/m/alibaba/qwen-image-2.0/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0 Pro](https://llmpricing.dev/m/alibaba/qwen-image-2.0-pro/) — Alibaba Cloud Model Studio, published tariff from $0.075 per image; size, quality and editing conditions may vary
