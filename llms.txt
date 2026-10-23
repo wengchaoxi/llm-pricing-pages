@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1388+ LLM/chat models across 232 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1357+ LLM/chat models across 230 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1388
-- Providers: 232
-- Provider quotes: 9208
-- Data synced: 2026-10-22
+- Models: 1357
+- Providers: 230
+- Provider quotes: 8911
+- Data synced: 2026-10-23
 
 ## About
 
@@ -23,10 +23,10 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official media generation pricing: vendor pricing pages (81 models, checked 2026-09-29).
+- Official media generation pricing: vendor pricing pages (82 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-10-22); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-10-23); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -46,7 +46,13 @@ Methodology:
 
 ## Articles
 
+- [Always-on AI agents explained: Claude Duet, Grok Bot, Muse, dots and Gemini Spark](https://llmpricing.dev/en/articles/always-on-ai-agents-explained/): Agents that run on their own cloud computer, keep working after you close the app and ask before they act. What the five main products do, where they differ and what each costs to start.
 - [Claude Duet vs Grok Bot: what each costs and how the limits work](https://llmpricing.dev/en/articles/claude-duet-vs-grok-bot/): Which plans include each agent, who can use it today, how the usage limits work, and what the plan fee buys at API list prices.
+- [What is Claude Duet? What Anthropic's proactive agent does](https://llmpricing.dev/en/articles/what-is-claude-duet/): A separate Claude app that sends a morning brief, watches your connected accounts, runs tasks on its own cloud computer and asks before it sends, pays, signs or deletes.
+- [What is ChatGPT dots? OpenAI's always-on agents explained](https://llmpricing.dev/en/articles/what-is-chatgpt-dots/): A named agent inside ChatGPT that holds ongoing goals, researches in the background, runs scheduled checks, works in 4,000+ apps and follows rules you set for when to act and when to ask.
+- [What is Meta Muse? Meta's personal AI agent explained](https://llmpricing.dev/en/articles/what-is-meta-muse/): An agent you message like a person. It plans toward goals, opens a browser, fills forms, negotiates and pays with a one-time card, and a separate Sentinel agent approves what leaves its VM.
+- [What is Grok Bot? xAI's AI teammates explained](https://llmpricing.dev/en/articles/what-is-grok-bot/): Named Bots with a browser, files and a terminal in the cloud, several working in parallel, learning workflows from a single demonstration and checking back when they need approval.
+- [What is Gemini Spark? Google's 24/7 agent, now Task in Gemini](https://llmpricing.dev/en/articles/what-is-gemini-spark/): Recurring tasks, triggers and skills that run in Google's cloud while your devices are off, with a local or remote browser and confirmation before sending, buying or editing shared files.
 
 ## Data & API
 
@@ -57,17 +63,19 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 ## Popular models
 
-- [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Z.AI (official), $1.40/$4.40 per 1M, 118 providers
+- [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Z.AI (official), $1.40/$4.40 per 1M, 119 providers
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI (official), $0.15/$0.50 per 1M, 112 providers
-- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — no official API price; lowest paid $0.03/$0.12 per 1M via engy, 100 providers
+- [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — no official API price; lowest paid $0.03/$0.12 per 1M via engy, 99 providers
+- [Claude Sonnet 4.6](https://llmpricing.dev/m/anthropic/claude-sonnet-4-6/) — Anthropic (official), $3.00/$15.00 per 1M, 64 providers
 - [Qwen3.8 27B](https://llmpricing.dev/m/alibaba/qwen3.8-27b/) — no official API price; lowest paid $0.045/$0.32 per 1M via engy, 56 providers
+- [Claude Opus 4.6](https://llmpricing.dev/m/anthropic/claude-opus-4-6/) — Anthropic (official), $5.00/$25.00 per 1M, 56 providers
 - [Claude Fable 5](https://llmpricing.dev/m/anthropic/claude-fable-5/) — Anthropic (official), $10.00/$50.00 per 1M, 53 providers
-- [DeepSeek V4 Pro 0813](https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813/) — DeepSeek (official), $0.66/$1.98 per 1M, 52 providers
 - [Claude Opus 5.5](https://llmpricing.dev/m/anthropic/claude-opus-5-5/) — Anthropic (official), $4.00/$20.00 per 1M, 48 providers
+- [Qwen3.6 35B-A3B](https://llmpricing.dev/m/alibaba/qwen3.6-35b-a3b/) — Alibaba (official), $0.375/$2.25 per 1M, 47 providers
 - [GPT-6 Astra](https://llmpricing.dev/m/openai/gpt-6-astra/) — OpenAI (official), $10.00/$50.00 per 1M, 45 providers
 - [Claude Fable 5.1](https://llmpricing.dev/m/anthropic/claude-fable-5-1/) — Anthropic (official), $10.00/$50.00 per 1M, 44 providers
-- [Gemini 3.1 Pro Preview](https://llmpricing.dev/m/google/gemini-3.1-pro-preview/) — Google (official), $2.00/$12.00 per 1M, 44 providers
 - [Claude Sonnet 5.5](https://llmpricing.dev/m/anthropic/claude-sonnet-5-5/) — Anthropic (official), $2.00/$10.00 per 1M, 43 providers
+- [Gemini 3.1 Pro Preview](https://llmpricing.dev/m/google/gemini-3.1-pro-preview/) — Google (official), $2.00/$12.00 per 1M, 43 providers
 - [Claude Haiku 5.5](https://llmpricing.dev/m/anthropic/claude-haiku-5-5/) — Anthropic (official), $0.10/$0.50 per 1M, 42 providers
 - [GPT-6 Luna](https://llmpricing.dev/m/openai/gpt-6-luna/) — OpenAI (official), $0.10/$0.50 per 1M, 42 providers
 - [Gemini 3.8 Flash](https://llmpricing.dev/m/google/gemini-3.8-flash/) — Google (official), $0.75/$3.75 per 1M, 41 providers
@@ -75,11 +83,17 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GPT-6 Sol](https://llmpricing.dev/m/openai/gpt-6-sol/) — OpenAI (official), $2.00/$10.00 per 1M, 40 providers
 - [Qwen3.8 Max](https://llmpricing.dev/m/alibaba/qwen3.8-max/) — Alibaba (official), $2.00/$6.00 per 1M, 39 providers
 - [Grok 4.6](https://llmpricing.dev/m/xai/grok-4.6/) — xAI (official), $2.00/$6.00 per 1M, 38 providers
+- [Qwen3.7 Max](https://llmpricing.dev/m/alibaba/qwen3.7-max/) — Alibaba (official), $2.50/$7.50 per 1M, 36 providers
 - [Qwen3.8 Flash](https://llmpricing.dev/m/alibaba/qwen3.8-flash/) — Alibaba (official), $0.15/$0.47 per 1M, 35 providers
+- [Gemini 3.5 Flash Lite](https://llmpricing.dev/m/google/gemini-3.5-flash-lite/) — Google (official), $0.30/$2.50 per 1M, 34 providers
 - [Grok 4.7](https://llmpricing.dev/m/xai/grok-4.7/) — xAI (official), $2.00/$6.00 per 1M, 33 providers
 - [Grok 4.3](https://llmpricing.dev/m/xai/grok-4.3/) — xAI (official), $1.25/$2.50 per 1M, 33 providers
+- [Qwen3.7 Plus](https://llmpricing.dev/m/alibaba/qwen3.7-plus/) — Alibaba (official), $0.40/$1.60 per 1M, 33 providers
+- [GPT-5 Nano](https://llmpricing.dev/m/openai/gpt-5-nano/) — OpenAI (official), $0.05/$0.40 per 1M, 33 providers
 - [Gemini 4 Argon](https://llmpricing.dev/m/google/gemini-4-argon/) — Google (official), $2.00/$10.00 per 1M, 32 providers
 - [Gemma 4 26B A4B IT](https://llmpricing.dev/m/google/gemma-4-26b-a4b-it/) — Vertex (official), $0.15/$0.60 per 1M, 32 providers
+- [Gemini 3.1 Flash Lite](https://llmpricing.dev/m/google/gemini-3.1-flash-lite/) — Google (official), $0.25/$1.50 per 1M, 31 providers
+- [Grok 4.5](https://llmpricing.dev/m/xai/grok-4.5/) — xAI (official), $2.00/$6.00 per 1M, 28 providers
 - [Claude Haiku 4.5](https://llmpricing.dev/m/anthropic/claude-haiku-4-5-20251001/) — Anthropic (official), $1.00/$5.00 per 1M, 27 providers
 - [o3](https://llmpricing.dev/m/openai/o3/) — OpenAI (official), $2.00/$8.00 per 1M, 24 providers
 - [GPT-5.4 Pro](https://llmpricing.dev/m/openai/gpt-5.4-pro/) — OpenAI (official), $30.00/$180 per 1M, 23 providers
@@ -87,16 +101,8 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Qwen3.5 27B](https://llmpricing.dev/m/alibaba/qwen3.5-27b/) — Alibaba (official), $0.30/$2.40 per 1M, 22 providers
 - [GPT-5.5 Pro](https://llmpricing.dev/m/openai/gpt-5.5-pro/) — OpenAI (official), $30.00/$180 per 1M, 21 providers
 - [Hy4 preview](https://llmpricing.dev/m/tencent/hy4-preview/) — Tencent TokenHub (official), $0.834/$2.50 per 1M, 20 providers
+- [Qwen3.6 Flash](https://llmpricing.dev/m/alibaba/qwen3.6-flash/) — Alibaba (official), $0.25/$1.50 per 1M, 20 providers
 - [Grok 4.20 (Reasoning)](https://llmpricing.dev/m/xai/grok-4.20-0309-reasoning/) — xAI (official), $1.25/$2.50 per 1M, 20 providers
-- [GLM-4.5V](https://llmpricing.dev/m/zhipuai/glm-4.5v/) — Z.AI (official), $0.60/$1.80 per 1M, 18 providers
-- [Muse Glimmer 30B](https://llmpricing.dev/m/meta/muse-glimmer-30b/) — no official API price; lowest paid $0.20/$0.80 per 1M via EmpirioLabs AI, 17 providers
-- [GPT-5 Pro](https://llmpricing.dev/m/openai/gpt-5-pro/) — OpenAI (official), $15.00/$120 per 1M, 17 providers
-- [Grok 4.20 (Non-Reasoning)](https://llmpricing.dev/m/xai/grok-4.20-0309-non-reasoning/) — xAI (official), $1.25/$2.50 per 1M, 17 providers
-- [Muse Spark Open](https://llmpricing.dev/m/meta/muse-spark-open/) — no official API price; lowest paid $1.25/$4.25 per 1M via Vercel AI Gateway, 16 providers
-- [Nemotron 3.5 Super VL 120B A12B](https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/) — Nvidia (official), $0/$0 per 1M, 16 providers
-- [Beam 1.0 501B A23B](https://llmpricing.dev/m/reflection/beam-1.0-501b-a23b/) — Reflection (official), $0/$0 per 1M, 15 providers
-- [Kimi K2.7 Code Highspeed](https://llmpricing.dev/m/moonshotai/kimi-k2.7-code-highspeed/) — no official API price; lowest paid $1.90/$8.00 per 1M via AIHubMix, 15 providers
-- [Mistral Large 4](https://llmpricing.dev/m/mistral/mistral-large-4/) — Mistral (official), $1.36/$4.18 per 1M, 15 providers
 
 ## Official video generation pricing
 
@@ -143,8 +149,9 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GPT Image 2.5 Sunburst](https://llmpricing.dev/m/openai/gpt-image-2.5-sunburst/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
 - [Grok Imagine Image](https://llmpricing.dev/m/xai/grok-imagine-image/) — xAI, published tariff from $0.02 per image; size, quality and editing conditions may vary
 - [Grok Imagine Image 2.0](https://llmpricing.dev/m/xai/grok-imagine-image-2.0/) — xAI, published tariff from $0.04 per image; size, quality and editing conditions may vary
+- [FLUX.2 Klein 4B](https://llmpricing.dev/m/black-forest-labs/flux.2-klein-4b/) — Black Forest Labs, published tariff from $0.014 per image; size, quality and editing conditions may vary
 - [GPT Image 1 Mini](https://llmpricing.dev/m/openai/gpt-image-1-mini/) — OpenAI, published tariff from $0.005 per image; size, quality and editing conditions may vary
-- [Qwen Image](https://llmpricing.dev/m/alibaba/qwen-image/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [Qwen-Image](https://llmpricing.dev/m/alibaba/qwen-image/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0](https://llmpricing.dev/m/alibaba/qwen-image-2.0/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0 Pro](https://llmpricing.dev/m/alibaba/qwen-image-2.0-pro/) — Alibaba Cloud Model Studio, published tariff from $0.075 per image; size, quality and editing conditions may vary
 - [Wan2.7 Image](https://llmpricing.dev/m/misc/wan2.7-image/) — Alibaba Cloud Model Studio, published tariff from $0.03 per image; size, quality and editing conditions may vary
