@@ -1,56 +1,69 @@
 1:"$Sreact.fragment"
-2:I[28220,["/_next/static/chunks/36tjmxk9g1ayc.js","/_next/static/chunks/1w3daofhtckqy.js","/_next/static/chunks/2vxv6ka33q7ic.js","/_next/static/chunks/2n_788q1bua-0.js","/_next/static/chunks/2a_ik7ag4g4aw.js"],"TokenTool"]
-3:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-8:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"ViewportBoundary"]
-9:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"MetadataBoundary"]
-7:X
-2d:X
-2d:C
-0:{"buildId":"2RcmGhxSfCKwg6vZEaLoM","data":[{"rsc":["$","$1","c",{"children":[[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://llmpricing.dev/zh/tools/token/\",\"url\":\"https://llmpricing.dev/zh/tools/token/\",\"name\":\"Token 计算器 — 跨分词器对比 | LLM Pricing\",\"description\":\"同一段文本在不同模型分词器下的 token 数与对应成本。\",\"inLanguage\":\"zh-CN\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"LLM Pricing\",\"url\":\"https://llmpricing.dev/\"},\"about\":{\"@type\":\"Thing\",\"name\":\"Large language model API pricing\"},\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"h1\"]}}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"工具\",\"item\":\"https://llmpricing.dev/zh/tools/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Token 计算 · 跨分词器\",\"item\":\"https://llmpricing.dev/zh/tools/token/\"}]}"}}]],["$","$L2",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/2a_ik7ag4g4aw.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#060d13","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Token 计算器 — 跨分词器对比 | LLM Pricing"}],["$","meta","1",{"name":"description","content":"同一段文本在不同模型分词器下的 token 数与对应成本。"}],["$","meta","2",{"name":"application-name","content":"LLM Pricing"}],["$","meta","3",{"name":"author","content":"@chaoxiweng"}],["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","5",{"name":"creator","content":"@chaoxiweng"}],["$","meta","6",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-8993454504398316"}],["$","link","8",{"rel":"canonical","href":"https://llmpricing.dev/zh/tools/token/"}],["$","link","9",{"rel":"alternate","hrefLang":"en","href":"https://llmpricing.dev/en/tools/token/"}],["$","link","10",{"rel":"alternate","hrefLang":"zh","href":"https://llmpricing.dev/zh/tools/token/"}],["$","link","11",{"rel":"alternate","hrefLang":"es","href":"https://llmpricing.dev/es/tools/token/"}],["$","link","12",{"rel":"alternate","hrefLang":"fr","href":"https://llmpricing.dev/fr/tools/token/"}],["$","link","13",{"rel":"alternate","hrefLang":"de","href":"https://llmpricing.dev/de/tools/token/"}],["$","link","14",{"rel":"alternate","hrefLang":"ja","href":"https://llmpricing.dev/ja/tools/token/"}],["$","link","15",{"rel":"alternate","hrefLang":"ru","href":"https://llmpricing.dev/ru/tools/token/"}],["$","link","16",{"rel":"alternate","hrefLang":"ko","href":"https://llmpricing.dev/ko/tools/token/"}],["$","link","17",{"rel":"alternate","hrefLang":"pt","href":"https://llmpricing.dev/pt/tools/token/"}],["$","link","18",{"rel":"alternate","hrefLang":"id","href":"https://llmpricing.dev/id/tools/token/"}],["$","link","19",{"rel":"alternate","hrefLang":"hi","href":"https://llmpricing.dev/hi/tools/token/"}],["$","link","20",{"rel":"alternate","hrefLang":"ar","href":"https://llmpricing.dev/ar/tools/token/"}],["$","link","21",{"rel":"alternate","hrefLang":"it","href":"https://llmpricing.dev/it/tools/token/"}],["$","link","22",{"rel":"alternate","hrefLang":"tr","href":"https://llmpricing.dev/tr/tools/token/"}],["$","link","23",{"rel":"alternate","hrefLang":"x-default","href":"https://llmpricing.dev/en/tools/token/"}],["$","meta","24",{"name":"format-detection","content":"telephone=no, date=no, address=no, email=no"}],["$","meta","25",{"name":"msvalidate.01","content":"2ADD08D32D4D5D7B114AD1F42793E891"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]}],null]}],"isPartial":"$@2a","staleTime":"$7","varyParams":null},{"rsc":"$L2b","isPartial":"$@2c","staleTime":"$7","varyParams":"$2d"},{"rsc":"$L2e","isPartial":"$@2f","staleTime":"$7","varyParams":"$2d"}],"isUpgradeableISRFallback":false,"a":"$@30","rootVaryParams":null,"needsRuntimeRequest":"$@31"}
-32:I[82886,["/_next/static/chunks/36tjmxk9g1ayc.js"],"IconMark"]
-33:I[68223,["/_next/static/chunks/36tjmxk9g1ayc.js"],"default"]
-34:I[16317,["/_next/static/chunks/36tjmxk9g1ayc.js"],"default"]
-5:null
-a:["$","meta","26",{"property":"og:title","content":"Token 计算器 — 跨分词器对比 | LLM Pricing"}]
-b:["$","meta","27",{"property":"og:description","content":"同一段文本在不同模型分词器下的 token 数与对应成本。"}]
-c:["$","meta","28",{"property":"og:url","content":"https://llmpricing.dev/zh/tools/token/"}]
-d:["$","meta","29",{"property":"og:site_name","content":"LLM Pricing"}]
-e:["$","meta","30",{"property":"og:locale","content":"zh_CN"}]
-f:["$","meta","31",{"property":"og:image","content":"https://llmpricing.dev/og.png"}]
-10:["$","meta","32",{"property":"og:image:width","content":"1200"}]
-11:["$","meta","33",{"property":"og:image:height","content":"630"}]
-12:["$","meta","34",{"property":"og:image:alt","content":"LLM Pricing — compare LLM API pricing across every provider"}]
-13:["$","meta","35",{"property":"og:locale:alternate","content":"en_US"}]
-14:["$","meta","36",{"property":"og:locale:alternate","content":"es_ES"}]
-15:["$","meta","37",{"property":"og:locale:alternate","content":"fr_FR"}]
-16:["$","meta","38",{"property":"og:locale:alternate","content":"de_DE"}]
-17:["$","meta","39",{"property":"og:locale:alternate","content":"ja_JP"}]
-18:["$","meta","40",{"property":"og:locale:alternate","content":"ru_RU"}]
-19:["$","meta","41",{"property":"og:locale:alternate","content":"ko_KR"}]
-1a:["$","meta","42",{"property":"og:locale:alternate","content":"pt_BR"}]
-1b:["$","meta","43",{"property":"og:locale:alternate","content":"id_ID"}]
-1c:["$","meta","44",{"property":"og:locale:alternate","content":"hi_IN"}]
-1d:["$","meta","45",{"property":"og:locale:alternate","content":"ar"}]
-1e:["$","meta","46",{"property":"og:locale:alternate","content":"it_IT"}]
-1f:["$","meta","47",{"property":"og:locale:alternate","content":"tr_TR"}]
-20:["$","meta","48",{"property":"og:type","content":"website"}]
-21:["$","meta","49",{"name":"twitter:card","content":"summary_large_image"}]
-22:["$","meta","50",{"name":"twitter:site","content":"@chaoxiweng"}]
-23:["$","meta","51",{"name":"twitter:creator","content":"@chaoxiweng"}]
-24:["$","meta","52",{"name":"twitter:title","content":"Token 计算器 — 跨分词器对比 | LLM Pricing"}]
-25:["$","meta","53",{"name":"twitter:description","content":"同一段文本在不同模型分词器下的 token 数与对应成本。"}]
-26:["$","meta","54",{"name":"twitter:image","content":"https://llmpricing.dev/og.png"}]
-27:["$","link","55",{"rel":"icon","href":"/favicon.ico?favicon.0ddec_x2apluo.ico","sizes":"48x48","type":"image/x-icon"}]
-28:["$","link","56",{"rel":"icon","href":"/icon.svg?icon.0cky9s9a1x7kx.svg","sizes":"any","type":"image/svg+xml"}]
-29:["$","$L32","57",{}]
-2b:["$","$1","c",{"children":[null,["$","$L33",null,{"parallelRouterKey":"children","template":["$","$L34",null,{}]}]]}]
-2e:["$","$1","c",{"children":[null,["$","$L33",null,{"parallelRouterKey":"children","template":["$","$L34",null,{}]}]]}]
-31:true
-7:300
-7:C
-30:0
-2c:"$undefined"
-2f:"$undefined"
-6:"$undefined"
-2a:"$undefined"
+2:I[50877,["/_next/static/chunks/36tjmxk9g1ayc.js","/_next/static/chunks/2j-f53-w578pq.js","/_next/static/chunks/1jwmprj7as5ow.js","/_next/static/chunks/2lz--qbgkb5-h.js"],"MessagesScope"]
+3:I[28220,["/_next/static/chunks/36tjmxk9g1ayc.js","/_next/static/chunks/2j-f53-w578pq.js","/_next/static/chunks/1jwmprj7as5ow.js","/_next/static/chunks/2lz--qbgkb5-h.js"],"TokenTool"]
+4:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"ViewportBoundary"]
+a:I[26266,["/_next/static/chunks/36tjmxk9g1ayc.js"],"MetadataBoundary"]
+8:X
+3a:X
+3a:C
+0:{"buildId":"1jKh9jg2xxqhNeNRwJjDn","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"messages":{"tokenTool":{"title":"Token 计算 · 跨分词器","subtitle":"粘贴一段文本，查看它在各分词器下的 token 数与对应成本。OpenAI 系在浏览器内精确计算，其余标为估算并给出误差范围。差距在中文等 CJK 文本上最明显：同样的字，o200k 用到的 token 数明显少于 cl100k。","placeholder":"在此粘贴或输入文本…","charCount":"{n} 个字符","cjkRatio":"{pct}% 为 CJK","loadSample":"载入中英样例","clear":"清空","loadingTokenizer":"正在加载分词器（约 3 MB，只下载一次）…","tokenizerFailed":"分词器加载失败，请检查网络连接后重试。","compareTitle":"各分词器下的 token 数","exact":"精确","estimate":"估算 ±{pct}%","estShort":"估","compareNote":"精确值用 gpt-tokenizer（o200k_base / cl100k_base）。估算以精确的 o200k 数为锚、按 CJK 占比缩放，只作量级参考而非精确值。Claude、Gemini 没有公开的客户端分词器。","costTitle":"这段文本按模型算钱","costNote":"成本 = tokens ÷ 100 万 × 该模型牌价。「作为输入」用输入价，「作为输出」用输出价。非 OpenAI 模型的 token 数为估算。","families":{"gpt4o":"GPT-4o / GPT-5（o200k）","gpt4":"GPT-4 / GPT-3.5（cl100k）","claude":"Claude","gemini":"Gemini","llama":"Llama 3"},"th":{"tokenizer":"分词器","tokens":"Token 数","cpt":"字符 / token","accuracy":"精度","model":"模型","asInput":"作为输入","asOutput":"作为输出"},"sampleText":"The quick brown fox jumps over the lazy dog. 敏捷的棕色狐狸跳过了那只懒狗。人工智能正在改变我们编写和部署软件的方式。"},"tools":{"picker":{"placeholder":"搜索模型加入…","remove":"移除 {name}","maxReached":"最多 {n} 个模型"}},"common":{"backTo":"← 返回{label}","dash":"—","retry":"重试"}},"children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://llmpricing.dev/zh/tools/token/\",\"url\":\"https://llmpricing.dev/zh/tools/token/\",\"name\":\"Token 计算器 — 跨分词器对比 | LLM Pricing\",\"description\":\"同一段文本在不同模型分词器下的 token 数与对应成本。\",\"inLanguage\":\"zh-CN\",\"isPartOf\":{\"@type\":\"WebSite\",\"name\":\"LLM Pricing\",\"url\":\"https://llmpricing.dev/\"},\"about\":{\"@type\":\"Thing\",\"name\":\"Large language model API pricing\"},\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"h1\"]}}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"工具\",\"item\":\"https://llmpricing.dev/zh/tools/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Token 计算 · 跨分词器\",\"item\":\"https://llmpricing.dev/zh/tools/token/\"}]}"}}]],["$","$L3",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2lz--qbgkb5-h.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#060d13","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Token 计算器 — 跨分词器对比 | LLM Pricing"}],["$","meta","1",{"name":"description","content":"同一段文本在不同模型分词器下的 token 数与对应成本。"}],["$","meta","2",{"name":"application-name","content":"LLM Pricing"}],["$","meta","3",{"name":"author","content":"@chaoxiweng"}],["$","link","4",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","5",{"name":"creator","content":"@chaoxiweng"}],["$","meta","6",{"name":"robots","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-8993454504398316"}],["$","link","8",{"rel":"canonical","href":"https://llmpricing.dev/zh/tools/token/"}],["$","link","9",{"rel":"alternate","hrefLang":"en","href":"https://llmpricing.dev/en/tools/token/"}],["$","link","10",{"rel":"alternate","hrefLang":"zh","href":"https://llmpricing.dev/zh/tools/token/"}],["$","link","11",{"rel":"alternate","hrefLang":"es","href":"https://llmpricing.dev/es/tools/token/"}],["$","link","12",{"rel":"alternate","hrefLang":"fr","href":"https://llmpricing.dev/fr/tools/token/"}],["$","link","13",{"rel":"alternate","hrefLang":"de","href":"https://llmpricing.dev/de/tools/token/"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36"]}]}]}],null]}],"isPartial":"$@37","staleTime":"$8","varyParams":null},{"rsc":"$L38","isPartial":"$@39","staleTime":"$8","varyParams":"$3a"},{"rsc":"$L3b","isPartial":"$@3c","staleTime":"$8","varyParams":"$3a"}],"isUpgradeableISRFallback":false,"a":"$@3d","rootVaryParams":null,"needsRuntimeRequest":"$@3e"}
+3f:I[82886,["/_next/static/chunks/36tjmxk9g1ayc.js"],"IconMark"]
+40:I[68223,["/_next/static/chunks/36tjmxk9g1ayc.js"],"default"]
+41:I[16317,["/_next/static/chunks/36tjmxk9g1ayc.js"],"default"]
+6:null
+b:["$","link","14",{"rel":"alternate","hrefLang":"ja","href":"https://llmpricing.dev/ja/tools/token/"}]
+c:["$","link","15",{"rel":"alternate","hrefLang":"ru","href":"https://llmpricing.dev/ru/tools/token/"}]
+d:["$","link","16",{"rel":"alternate","hrefLang":"ko","href":"https://llmpricing.dev/ko/tools/token/"}]
+e:["$","link","17",{"rel":"alternate","hrefLang":"pt","href":"https://llmpricing.dev/pt/tools/token/"}]
+f:["$","link","18",{"rel":"alternate","hrefLang":"id","href":"https://llmpricing.dev/id/tools/token/"}]
+10:["$","link","19",{"rel":"alternate","hrefLang":"hi","href":"https://llmpricing.dev/hi/tools/token/"}]
+11:["$","link","20",{"rel":"alternate","hrefLang":"ar","href":"https://llmpricing.dev/ar/tools/token/"}]
+12:["$","link","21",{"rel":"alternate","hrefLang":"it","href":"https://llmpricing.dev/it/tools/token/"}]
+13:["$","link","22",{"rel":"alternate","hrefLang":"tr","href":"https://llmpricing.dev/tr/tools/token/"}]
+14:["$","link","23",{"rel":"alternate","hrefLang":"x-default","href":"https://llmpricing.dev/en/tools/token/"}]
+15:["$","meta","24",{"name":"format-detection","content":"telephone=no, date=no, address=no, email=no"}]
+16:["$","meta","25",{"name":"msvalidate.01","content":"2ADD08D32D4D5D7B114AD1F42793E891"}]
+17:["$","meta","26",{"property":"og:title","content":"Token 计算器 — 跨分词器对比 | LLM Pricing"}]
+18:["$","meta","27",{"property":"og:description","content":"同一段文本在不同模型分词器下的 token 数与对应成本。"}]
+19:["$","meta","28",{"property":"og:url","content":"https://llmpricing.dev/zh/tools/token/"}]
+1a:["$","meta","29",{"property":"og:site_name","content":"LLM Pricing"}]
+1b:["$","meta","30",{"property":"og:locale","content":"zh_CN"}]
+1c:["$","meta","31",{"property":"og:image","content":"https://llmpricing.dev/og.png"}]
+1d:["$","meta","32",{"property":"og:image:width","content":"1200"}]
+1e:["$","meta","33",{"property":"og:image:height","content":"630"}]
+1f:["$","meta","34",{"property":"og:image:alt","content":"LLM Pricing — compare LLM API pricing across every provider"}]
+20:["$","meta","35",{"property":"og:locale:alternate","content":"en_US"}]
+21:["$","meta","36",{"property":"og:locale:alternate","content":"es_ES"}]
+22:["$","meta","37",{"property":"og:locale:alternate","content":"fr_FR"}]
+23:["$","meta","38",{"property":"og:locale:alternate","content":"de_DE"}]
+24:["$","meta","39",{"property":"og:locale:alternate","content":"ja_JP"}]
+25:["$","meta","40",{"property":"og:locale:alternate","content":"ru_RU"}]
+26:["$","meta","41",{"property":"og:locale:alternate","content":"ko_KR"}]
+27:["$","meta","42",{"property":"og:locale:alternate","content":"pt_BR"}]
+28:["$","meta","43",{"property":"og:locale:alternate","content":"id_ID"}]
+29:["$","meta","44",{"property":"og:locale:alternate","content":"hi_IN"}]
+2a:["$","meta","45",{"property":"og:locale:alternate","content":"ar"}]
+2b:["$","meta","46",{"property":"og:locale:alternate","content":"it_IT"}]
+2c:["$","meta","47",{"property":"og:locale:alternate","content":"tr_TR"}]
+2d:["$","meta","48",{"property":"og:type","content":"website"}]
+2e:["$","meta","49",{"name":"twitter:card","content":"summary_large_image"}]
+2f:["$","meta","50",{"name":"twitter:site","content":"@chaoxiweng"}]
+30:["$","meta","51",{"name":"twitter:creator","content":"@chaoxiweng"}]
+31:["$","meta","52",{"name":"twitter:title","content":"Token 计算器 — 跨分词器对比 | LLM Pricing"}]
+32:["$","meta","53",{"name":"twitter:description","content":"同一段文本在不同模型分词器下的 token 数与对应成本。"}]
+33:["$","meta","54",{"name":"twitter:image","content":"https://llmpricing.dev/og.png"}]
+34:["$","link","55",{"rel":"icon","href":"/favicon.ico?favicon.0ddec_x2apluo.ico","sizes":"48x48","type":"image/x-icon"}]
+35:["$","link","56",{"rel":"icon","href":"/icon.svg?icon.0cky9s9a1x7kx.svg","sizes":"any","type":"image/svg+xml"}]
+36:["$","$L3f","57",{}]
+38:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+3b:["$","$1","c",{"children":[null,["$","$L40",null,{"parallelRouterKey":"children","template":["$","$L41",null,{}]}]]}]
+3e:true
+8:300
+8:C
+3d:0
+39:"$undefined"
+3c:"$undefined"
+7:"$undefined"
+37:"$undefined"

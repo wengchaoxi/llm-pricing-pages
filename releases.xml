@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 12:33:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:04:02 GMT</lastBuildDate>
     <item>
       <title>Xing 4.0 29B A4B</title>
       <link>https://llmpricing.dev/m/xingchen-agi/xing4.0-29b-a4b/</link>
@@ -15,14 +15,8 @@
     </item>
     <item>
       <title>Abliterated Large Flash</title>
-      <link>https://llmpricing.dev/m/abliteration-ai/abliteration-abliterated-model-large-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliteration-abliterated-model-large-flash/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash Uncensored</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-uncensored/</guid>
+      <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -170,12 +164,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Gemini 4 Argon</title>
-      <link>https://llmpricing.dev/m/google/gemini-4-argon/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-4-argon/</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Gemma 4 Dark Thoughts V2 31B</title>
       <link>https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-dark-thoughts-v2-31b/</guid>
@@ -306,6 +294,18 @@
       <link>https://llmpricing.dev/m/mistral/mistral-large-4/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/mistral/mistral-large-4/</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apex Flash 1</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apex Flash 1 Abliterated</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex-abliterated/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
