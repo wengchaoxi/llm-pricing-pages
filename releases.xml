@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:33:38 GMT</lastBuildDate>
     <item>
       <title>Xing 4.0 29B A4B</title>
       <link>https://llmpricing.dev/m/xingchen-agi/xing4.0-29b-a4b/</link>
