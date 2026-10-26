@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 02:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:25:40 GMT</lastBuildDate>
     <item>
       <title>Iceman Contributor Free</title>
       <link>https://llmpricing.dev/m/misc/iceman-contributor-free/</link>
@@ -90,12 +90,6 @@
       <link>https://llmpricing.dev/m/scaledown/scaledown-summarize-1/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/scaledown/scaledown-summarize-1/</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Glimpse</title>
@@ -305,6 +299,12 @@
       <title>Beam 1.0 501B A23B</title>
       <link>https://llmpricing.dev/m/reflection/beam-1.0-501b-a23b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/reflection/beam-1.0-501b-a23b/</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B Antislop</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-antislop/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-antislop/</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
