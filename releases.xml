@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 07:56:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:42:27 GMT</lastBuildDate>
     <item>
       <title>DeepSeek V4.1 Flash 0910 Uncensored</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored/</link>
@@ -122,6 +122,12 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>MiniMax-M3.1-Flash</title>
+      <link>https://llmpricing.dev/m/minimax/minimax-m3.1-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/minimax/minimax-m3.1-flash/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DeepSeek V4.1 Flash 1017</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/</guid>
@@ -224,6 +230,12 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Gemini 4 Argon</title>
+      <link>https://llmpricing.dev/m/google/gemini-4-argon/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-4-argon/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>LFM2.5-24B-A2B</title>
       <link>https://llmpricing.dev/m/liquid/lfm-2.5-24b-a2b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/liquid/lfm-2.5-24b-a2b/</guid>
@@ -294,18 +306,6 @@
       <link>https://llmpricing.dev/m/lightonai/lightonocr-3-0.8b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/lightonai/lightonocr-3-0.8b/</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5</title>
-      <link>https://llmpricing.dev/m/anthropic/claude-haiku-5-5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-haiku-5-5/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Glyph Cluster</title>
-      <link>https://llmpricing.dev/m/stealth/glyph-cluster/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/stealth/glyph-cluster/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
