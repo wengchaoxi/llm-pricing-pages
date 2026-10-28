@@ -6,7 +6,31 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 07:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:56:09 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek V4.1 Flash 0910 Uncensored</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 0910 Uncensored Thinking</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored-thinking/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 Uncensored</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-uncensored/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 Uncensored Thinking</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored-thinking/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>GPT-6.1 Terra</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
@@ -53,12 +77,6 @@
       <title>Kimi K3.1 Pro Highspeed</title>
       <link>https://llmpricing.dev/m/moonshotai/kimi-k3.1-pro-highspeed/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/moonshotai/kimi-k3.1-pro-highspeed/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ternary Bonsai2 9B</title>
-      <link>https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -125,6 +143,12 @@
       <title>Qwen 3.8 27B Uncensored Fast by Heabsy</title>
       <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored-fast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored-fast/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ternary Bonsai 2 9B</title>
+      <link>https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -282,30 +306,6 @@
       <link>https://llmpricing.dev/m/stealth/glyph-cluster/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/stealth/glyph-cluster/</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiniCPM-V 4.7 35B-A3B</title>
-      <link>https://llmpricing.dev/m/openbmb/minicpm-v-4.7-35b-a3b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openbmb/minicpm-v-4.7-35b-a3b/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiniCPM-V 4.7 1B</title>
-      <link>https://llmpricing.dev/m/openbmb/minicpm-v-4.7-1b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openbmb/minicpm-v-4.7-1b/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral Large 4</title>
-      <link>https://llmpricing.dev/m/mistral/mistral-large-4/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/mistral/mistral-large-4/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apex Flash 1</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-apex/</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
