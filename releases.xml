@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:42:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:53:32 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek V4.1 Flash Cyber</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-cyber/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-cyber/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Particle-1</title>
+      <link>https://llmpricing.dev/m/particle-ai/particle-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/particle-ai/particle-1/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek V4.1 Flash 0910 Uncensored</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored/</link>
@@ -30,6 +42,12 @@
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored-thinking/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.2 Fast</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GPT-6.1 Terra</title>
@@ -287,24 +305,6 @@
       <title>Apex</title>
       <link>https://llmpricing.dev/m/callstack/apex/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/callstack/apex/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 26B A4B Chimera X Heretic</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-chimeraxheretic/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-26b-a4b-it-chimeraxheretic/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4 31B Scarlet</title>
-      <link>https://llmpricing.dev/m/google/gemma-4-31b-it-scarlet/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemma-4-31b-it-scarlet/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LightOnOCR-3 0.8B</title>
-      <link>https://llmpricing.dev/m/lightonai/lightonocr-3-0.8b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/lightonai/lightonocr-3-0.8b/</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
