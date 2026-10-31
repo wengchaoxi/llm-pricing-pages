@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:00:23 GMT</lastBuildDate>
+    <item>
+      <title>Ling 3.1 Flash 1019</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.1-flash-1019/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.1-flash-1019/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber Zero 1.5</title>
+      <link>https://llmpricing.dev/m/orca/orcacyber-zero-1.5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-zero-1.5/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek V4.1 Flash 1017 Abliterated</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated/</link>
@@ -56,15 +68,21 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
+      <title>GLM 5.2 Fast</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Terra Pro</title>
+      <title>GPT 6.1 Terra Pro</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Terra</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -170,7 +188,7 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ternary Bonsai 2 9B</title>
+      <title>Ternary Bonsai2 9B</title>
       <link>https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
@@ -288,24 +306,6 @@
       <link>https://llmpricing.dev/m/meta/muse-wonder-1.0/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-wonder-1.0/</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reka Edge 2603</title>
-      <link>https://llmpricing.dev/m/misc/reka-edge-2603/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/reka-edge-2603/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reka Edge 2603 (reka-ai)</title>
-      <link>https://llmpricing.dev/m/reka-ai/reka-edge-2603/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/reka-ai/reka-edge-2603/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apex</title>
-      <link>https://llmpricing.dev/m/callstack/apex/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/callstack/apex/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
