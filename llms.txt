@@ -1,10 +1,10 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1380+ LLM/chat models across 235 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1381+ LLM/chat models across 235 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1380
+- Models: 1381
 - Providers: 235
 - Provider quotes: 8995
 - Data synced: 2026-11-03
@@ -23,7 +23,7 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official media generation pricing: vendor pricing pages (82 models, checked 2026-09-29).
+- Official media generation pricing: vendor pricing pages (81 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
 - Data is refreshed regularly (last sync 2026-11-03); prices are indicative — always confirm on each provider's official page.
@@ -72,7 +72,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI (official), $0.15/$0.50 per 1M, 119 providers
 - [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (official), $3.00/$15.00 per 1M, 112 providers
 - [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — no official API price; lowest paid $0.03/$0.12 per 1M via engy, 99 providers
-- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — no official API price; lowest paid $0.028/$0.104 per 1M via OpenRouter, 96 providers
+- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — no official API price; lowest paid $0.03/$0.15 per 1M via NanoGPT, 96 providers
 - [DeepSeek V4.1 Flash 1017](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/) — DeepSeek (official), $0.15/$0.60 per 1M, 79 providers
 - [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — no official API price; lowest paid $0.348/$0.696 per 1M via routing.run, 77 providers
 - [Kimi K2.6](https://llmpricing.dev/m/moonshotai/kimi-k2.6/) — Moonshot AI (official), $0.95/$4.00 per 1M, 76 providers
@@ -119,7 +119,6 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [HappyHorse 1.1 Image-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-i2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Reference-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-r2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Text-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-t2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
-- [Veo-3.1](https://llmpricing.dev/m/google/veo-3.1/) — Google Vertex AI, published tariff from $0.20 per second; conditions vary by resolution, audio and input media
 - [Flux 3](https://llmpricing.dev/m/bfl/flux-3-video/) — Black Forest Labs, published tariff from $0.06 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine](https://llmpricing.dev/m/xai/grok-imagine-video/) — xAI, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
 - [MiniMax H3 Max](https://llmpricing.dev/m/minimax/minimax-h3-max/) — MiniMax, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
