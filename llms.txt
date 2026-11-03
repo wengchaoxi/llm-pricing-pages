@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1374+ LLM/chat models across 235 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1380+ LLM/chat models across 235 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1374
+- Models: 1380
 - Providers: 235
-- Provider quotes: 8992
-- Data synced: 2026-11-02
+- Provider quotes: 8995
+- Data synced: 2026-11-03
 
 ## About
 
@@ -26,7 +26,7 @@ Methodology:
 - Official media generation pricing: vendor pricing pages (82 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-11-02); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-11-03); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -72,7 +72,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI (official), $0.15/$0.50 per 1M, 119 providers
 - [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (official), $3.00/$15.00 per 1M, 112 providers
 - [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — no official API price; lowest paid $0.03/$0.12 per 1M via engy, 99 providers
-- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — no official API price; lowest paid $0.03/$0.15 per 1M via Kilo Gateway, 96 providers
+- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — no official API price; lowest paid $0.028/$0.104 per 1M via OpenRouter, 96 providers
 - [DeepSeek V4.1 Flash 1017](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/) — DeepSeek (official), $0.15/$0.60 per 1M, 79 providers
 - [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — no official API price; lowest paid $0.348/$0.696 per 1M via routing.run, 77 providers
 - [Kimi K2.6](https://llmpricing.dev/m/moonshotai/kimi-k2.6/) — Moonshot AI (official), $0.95/$4.00 per 1M, 76 providers
