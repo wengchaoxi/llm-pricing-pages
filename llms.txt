@@ -6,7 +6,7 @@
 
 - Models: 1381
 - Providers: 235
-- Provider quotes: 8995
+- Provider quotes: 8993
 - Data synced: 2026-11-03
 
 ## About
@@ -23,7 +23,7 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official media generation pricing: vendor pricing pages (81 models, checked 2026-09-29).
+- Official media generation pricing: vendor pricing pages (82 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
 - Data is refreshed regularly (last sync 2026-11-03); prices are indicative — always confirm on each provider's official page.
@@ -92,7 +92,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Claude Opus 5](https://llmpricing.dev/m/anthropic/claude-opus-5/) — Anthropic (official), $5.00/$25.00 per 1M, 56 providers
 - [Claude Sonnet 5](https://llmpricing.dev/m/anthropic/claude-sonnet-5/) — Anthropic (official), $2.00/$10.00 per 1M, 56 providers
 - [Claude Opus 4.6](https://llmpricing.dev/m/anthropic/claude-opus-4-6/) — Anthropic (official), $5.00/$25.00 per 1M, 56 providers
-- [GPT OSS 20B](https://llmpricing.dev/m/openai/gpt-oss-20b/) — no official API price; lowest paid $0.009/$0.045 per 1M via Eden AI, 54 providers
+- [GPT OSS 20B](https://llmpricing.dev/m/openai/gpt-oss-20b/) — no official API price; lowest paid $0.01/$0.041 per 1M via Kilo Gateway, 54 providers
 - [Claude Fable 5](https://llmpricing.dev/m/anthropic/claude-fable-5/) — Anthropic (official), $10.00/$50.00 per 1M, 53 providers
 - [DeepSeek V4 Pro 0813](https://llmpricing.dev/m/deepseek/deepseek-v4-pro-0813/) — DeepSeek (official), $0.66/$1.98 per 1M, 52 providers
 - [GPT-5.4](https://llmpricing.dev/m/openai/gpt-5.4/) — OpenAI (official), $2.50/$15.00 per 1M, 52 providers
@@ -119,6 +119,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [HappyHorse 1.1 Image-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-i2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Reference-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-r2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Text-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-t2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
+- [Veo-3.1](https://llmpricing.dev/m/google/veo-3.1/) — Google Vertex AI, published tariff from $0.20 per second; conditions vary by resolution, audio and input media
 - [Flux 3](https://llmpricing.dev/m/bfl/flux-3-video/) — Black Forest Labs, published tariff from $0.06 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine](https://llmpricing.dev/m/xai/grok-imagine-video/) — xAI, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
 - [MiniMax H3 Max](https://llmpricing.dev/m/minimax/minimax-h3-max/) — MiniMax, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
