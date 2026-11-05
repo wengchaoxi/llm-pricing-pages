@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:57:22 GMT</lastBuildDate>
+    <item>
+      <title>Hy4</title>
+      <link>https://llmpricing.dev/m/tencent/hy4/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy4/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ricursiveAI/Ripple-65B-Preview</title>
+      <link>https://llmpricing.dev/m/ricursiveai/ripple-65b-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/ricursiveai/ripple-65b-preview/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Assistant Pepe 32B</title>
       <link>https://llmpricing.dev/m/sicariussicariistuff/assistant-pepe-32b/</link>
@@ -23,12 +35,6 @@
       <title>Crouton Alpha Free</title>
       <link>https://llmpricing.dev/m/misc/crouton-alpha-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/misc/crouton-alpha-free/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tencent Hy4</title>
-      <link>https://llmpricing.dev/m/tencent/hy4/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy4/</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -123,8 +129,8 @@
     </item>
     <item>
       <title>DeepSeek V4.1 Flash 1017 Uncensored</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-uncensored/</guid>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -132,12 +138,6 @@
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored-thinking/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.2 Fast</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GPT-6.1 Terra</title>
@@ -165,14 +165,8 @@
     </item>
     <item>
       <title>Abliterated Large Flash</title>
-      <link>https://llmpricing.dev/m/abliteration-ai/abliteration-abliterated-model-large-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliteration-abliterated-model-large-flash/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash Uncensored</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-uncensored/</guid>
+      <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -305,6 +299,12 @@
       <title>Nemotron 3.5 Super 120B A12B</title>
       <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-120b-a12b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-120b-a12b/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nemotron 3.5 Super VL 120B A12B</title>
+      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
