@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 08:57:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:56:13 GMT</lastBuildDate>
+    <item>
+      <title>OrcaCyber K3.1 Pro Uncensored</title>
+      <link>https://llmpricing.dev/m/orca/orcacyber-k3.1-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-k3.1-pro/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hy4</title>
       <link>https://llmpricing.dev/m/tencent/hy4/</link>
@@ -129,8 +135,8 @@
     </item>
     <item>
       <title>DeepSeek V4.1 Flash 1017 Uncensored</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored/</guid>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-uncensored/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -140,15 +146,21 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
+      <title>GLM 5.2 Fast</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Terra Pro</title>
+      <title>GPT 6.1 Terra Pro</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Terra</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -165,8 +177,20 @@
     </item>
     <item>
       <title>Abliterated Large Flash</title>
-      <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</guid>
+      <link>https://llmpricing.dev/m/abliteration-ai/abliteration-abliterated-model-large-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliteration-abliterated-model-large-flash/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 Ultrafast</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-ultrafast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-ultrafast/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash Uncensored</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-uncensored/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -254,7 +278,7 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ternary Bonsai 2 9B</title>
+      <title>Ternary Bonsai2 9B</title>
       <link>https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/prism-ml/ternary-bonsai-2-9b/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
@@ -281,30 +305,6 @@
       <title>Moondream 3 Preview</title>
       <link>https://llmpricing.dev/m/moondream/moondream3-preview/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/moondream/moondream3-preview/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moondream 3.1</title>
-      <link>https://llmpricing.dev/m/moondream/moondream3.1-9b-a2b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/moondream/moondream3.1-9b-a2b/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Spark Open</title>
-      <link>https://llmpricing.dev/m/meta/muse-spark-open/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meta/muse-spark-open/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nemotron 3.5 Super 120B A12B</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-120b-a12b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-120b-a12b/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nemotron 3.5 Super VL 120B A12B</title>
-      <link>https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/nvidia/nemotron-3.5-super-vl-120b-a12b/</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
