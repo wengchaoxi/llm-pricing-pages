@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1397+ LLM/chat models across 235 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1396+ LLM/chat models across 235 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1397
+- Models: 1396
 - Providers: 235
-- Provider quotes: 9004
-- Data synced: 2026-11-07
+- Provider quotes: 9002
+- Data synced: 2026-11-08
 
 ## About
 
@@ -26,7 +26,7 @@ Methodology:
 - Official media generation pricing: vendor pricing pages (80 models, checked 2026-09-29).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-11-07); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-11-08); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -69,11 +69,11 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 - [GLM-5.3](https://llmpricing.dev/m/zhipuai/glm-5.3/) — Z.AI (official), $1.40/$4.40 per 1M, 126 providers
 - [GLM-5.2](https://llmpricing.dev/m/zhipuai/glm-5.2/) — Z.AI (official), $1.40/$4.40 per 1M, 125 providers
-- [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI (official), $0.15/$0.50 per 1M, 121 providers
+- [GLM-5.3-Flash](https://llmpricing.dev/m/zhipuai/glm-5.3-flash/) — Z.AI (official), $0.15/$0.50 per 1M, 122 providers
 - [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (official), $3.00/$15.00 per 1M, 113 providers
-- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — no official API price; lowest paid $0.01/$0.037 per 1M via OpenRouter, 97 providers
 - [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — no official API price; lowest paid $0.03/$0.12 per 1M via engy, 96 providers
-- [DeepSeek V4.1 Flash 1017](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/) — DeepSeek (official), $0.15/$0.60 per 1M, 84 providers
+- [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — no official API price; lowest paid $0.018/$0.067 per 1M via Kilo Gateway, 96 providers
+- [DeepSeek V4.1 Flash 1017](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017/) — DeepSeek (official), $0.15/$0.60 per 1M, 85 providers
 - [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — no official API price; lowest paid $0.348/$0.696 per 1M via routing.run, 76 providers
 - [Kimi K2.6](https://llmpricing.dev/m/moonshotai/kimi-k2.6/) — Moonshot AI (official), $0.95/$4.00 per 1M, 76 providers
 - [DeepSeek V4 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4-flash/) — no official API price; lowest paid $0.063/$0.125 per 1M via UnoRouter, 72 providers
@@ -154,7 +154,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [GPT Image 2.5 Sunburst](https://llmpricing.dev/m/openai/gpt-image-2.5-sunburst/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
 - [Grok Imagine Image](https://llmpricing.dev/m/xai/grok-imagine-image/) — xAI, published tariff from $0.02 per image; size, quality and editing conditions may vary
 - [Grok Imagine Image 2.0](https://llmpricing.dev/m/xai/grok-imagine-image-2.0/) — xAI, published tariff from $0.04 per image; size, quality and editing conditions may vary
-- [Qwen-Image](https://llmpricing.dev/m/alibaba/qwen-image/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [Qwen Image](https://llmpricing.dev/m/alibaba/qwen-image/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0](https://llmpricing.dev/m/alibaba/qwen-image-2.0/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0 Pro](https://llmpricing.dev/m/alibaba/qwen-image-2.0-pro/) — Alibaba Cloud Model Studio, published tariff from $0.075 per image; size, quality and editing conditions may vary
 - [Wan2.7 Image](https://llmpricing.dev/m/misc/wan2.7-image/) — Alibaba Cloud Model Studio, published tariff from $0.03 per image; size, quality and editing conditions may vary

@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:34:38 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek V4 Pro Qwen3.5 9B Uncensored Heretic</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic/</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ling 3.0 Tiny Thinking</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.0-tiny-thinking/</link>
@@ -23,6 +29,12 @@
       <title>Artemis 31B v1.2</title>
       <link>https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 Ultrafast</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -182,21 +194,15 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GLM 5.2 Fast</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT 6.1 Terra Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>GPT-6.1 Terra</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Terra Pro</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -215,12 +221,6 @@
       <title>Abliterated Large Flash</title>
       <link>https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/abliteration-ai/abliterated-model-large-flash/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017 Ultrafast</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-ultrafast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-ultrafast/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
