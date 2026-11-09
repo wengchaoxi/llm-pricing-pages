@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 08:34:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 04:02:22 GMT</lastBuildDate>
     <item>
       <title>DeepSeek V4 Pro Qwen3.5 9B Uncensored Heretic</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic/</link>
@@ -44,7 +44,7 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LFM3-1.7B</title>
+      <title>LFM3 1.7B</title>
       <link>https://llmpricing.dev/m/liquid/lfm-3-1.7b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/liquid/lfm-3-1.7b/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
@@ -194,15 +194,21 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
+      <title>GLM 5.2 Fast</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.2-fast/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-6.1 Terra Pro</title>
+      <title>GPT 6.1 Terra Pro</title>
       <link>https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6.1 Terra</title>
+      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -299,12 +305,6 @@
       <title>Mercury 3</title>
       <link>https://llmpricing.dev/m/inception/mercury-3/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inception/mercury-3/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B Uncensored Fast by Heabsy</title>
-      <link>https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored-fast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen3.8-27b-uncensored-fast/</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
