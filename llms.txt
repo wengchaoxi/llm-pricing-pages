@@ -1,10 +1,10 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1397+ LLM/chat models across 235 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1398+ LLM/chat models across 235 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1397
+- Models: 1398
 - Providers: 235
 - Provider quotes: 9033
 - Data synced: 2026-11-10
@@ -23,7 +23,7 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official media generation pricing: vendor pricing pages (81 models, checked 2026-09-29).
+- Official media generation pricing: vendor pricing pages (73 models, checked 2026-11-10).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
 - Data is refreshed regularly (last sync 2026-11-10); prices are indicative — always confirm on each provider's official page.
@@ -111,16 +111,16 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 
 ## Official video generation pricing
 
+- [Gemini Omni 1.1 Flash](https://llmpricing.dev/m/google/gemini-omni-1.1-flash/) — Google Vertex AI, published tariff from $0.034 per second; conditions vary by resolution, audio and input media
 - [Gemini Omni Flash Preview](https://llmpricing.dev/m/google/gemini-omni-flash-preview/) — Google Vertex AI, published tariff from $0.034 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine Video 1.5](https://llmpricing.dev/m/xai/grok-imagine-video-1.5/) — xAI, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
+- [Grok Imagine Video 1.5 Lite](https://llmpricing.dev/m/xai/grok-imagine-video-1.5-lite/) — xAI, published tariff from $0.02 per second; conditions vary by resolution, audio and input media
 - [Seedance 2.0](https://llmpricing.dev/m/bytedance-seed/seedance-2.0/) — BytePlus ModelArk, published tariff from $2.40 per 1M video tokens; conditions vary by resolution, audio and input media
 - [MiniMax H3](https://llmpricing.dev/m/minimax/minimax-h3/) — MiniMax, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
 - [Seedance 2.5](https://llmpricing.dev/m/bytedance-seed/seedance-2.5/) — BytePlus ModelArk, published tariff from $6.40 per 1M video tokens; conditions vary by resolution, audio and input media
-- [Veo 3.1 Lite Preview](https://llmpricing.dev/m/google/veo-3.1-lite-generate-preview/) — Google Vertex AI, published tariff from $0.03 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Image-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-i2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Reference-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-r2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
 - [HappyHorse 1.1 Text-to-Video](https://llmpricing.dev/m/misc/happyhorse-1.1-t2v/) — Alibaba Cloud Model Studio, published tariff from $0.07 per second; conditions vary by resolution, audio and input media
-- [Veo-3.1](https://llmpricing.dev/m/google/veo-3.1/) — Google Vertex AI, published tariff from $0.20 per second; conditions vary by resolution, audio and input media
 - [Flux 3](https://llmpricing.dev/m/bfl/flux-3-video/) — Black Forest Labs, published tariff from $0.06 per second; conditions vary by resolution, audio and input media
 - [Grok Imagine](https://llmpricing.dev/m/xai/grok-imagine-video/) — xAI, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
 - [MiniMax H3 Max](https://llmpricing.dev/m/minimax/minimax-h3-max/) — MiniMax, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
@@ -129,7 +129,6 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Seedance v1.0 Pro](https://llmpricing.dev/m/bytedance-seed/seedance-v1.0-pro/) — BytePlus ModelArk, published tariff from $2.50 per 1M video tokens; conditions vary by resolution, audio and input media
 - [Seedance v1.0 Pro Fast](https://llmpricing.dev/m/bytedance-seed/seedance-v1.0-pro-fast/) — BytePlus ModelArk, published tariff from $1.00 per 1M video tokens; conditions vary by resolution, audio and input media
 - [Seedance v1.5 Pro](https://llmpricing.dev/m/bytedance-seed/seedance-v1.5-pro/) — BytePlus ModelArk, published tariff from $1.20 per 1M video tokens; conditions vary by resolution, audio and input media
-- [Veo-3.1-Fast](https://llmpricing.dev/m/google/veo-3.1-fast/) — Google Vertex AI, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
 - [Veo 3.1 Fast Generate](https://llmpricing.dev/m/google/veo-3.1-fast-generate-001/) — Google Vertex AI, published tariff from $0.08 per second; conditions vary by resolution, audio and input media
 - [Veo 3.1 Lite Generate](https://llmpricing.dev/m/google/veo-3.1-lite-generate-001/) — Google Vertex AI, published tariff from $0.03 per second; conditions vary by resolution, audio and input media
 - [Wan v2.5 Text-to-Video Preview](https://llmpricing.dev/m/alibaba/wan-v2.5-t2v-preview/) — Alibaba Cloud Model Studio, published tariff from $0.05 per second; conditions vary by resolution, audio and input media
@@ -150,13 +149,12 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Nano Banana Pro](https://llmpricing.dev/m/google/gemini-3-pro-image/) — Google Vertex AI, published tariff from $0.134 per image; size, quality and editing conditions may vary
 - [GPT-Image-2](https://llmpricing.dev/m/openai/gpt-image-2/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
 - [Nano Banana 2 Lite](https://llmpricing.dev/m/google/gemini-3.1-flash-lite-image/) — Google Vertex AI, published tariff from $0.034 per image; size, quality and editing conditions may vary
-- [GPT-Image-1](https://llmpricing.dev/m/openai/gpt-image-1/) — OpenAI, published tariff from $0.011 per image; size, quality and editing conditions may vary
+- [Nano Banana 2.1](https://llmpricing.dev/m/google/gemini-nano-banana-2.1/) — Google Vertex AI, published tariff from $0.034 per image; size, quality and editing conditions may vary
 - [GPT Image 2.5 Flare](https://llmpricing.dev/m/openai/gpt-image-2.5-flare/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
 - [GPT Image 2.5 Sunburst](https://llmpricing.dev/m/openai/gpt-image-2.5-sunburst/) — OpenAI, published tariff from $30.00 per 1M image tokens; size, quality and editing conditions may vary
 - [Grok Imagine Image](https://llmpricing.dev/m/xai/grok-imagine-image/) — xAI, published tariff from $0.02 per image; size, quality and editing conditions may vary
 - [Grok Imagine Image 2.0](https://llmpricing.dev/m/xai/grok-imagine-image-2.0/) — xAI, published tariff from $0.04 per image; size, quality and editing conditions may vary
-- [FLUX.2 Klein 4B](https://llmpricing.dev/m/black-forest-labs/flux.2-klein-4b/) — Black Forest Labs, published tariff from $0.014 per image; size, quality and editing conditions may vary
-- [Qwen Image](https://llmpricing.dev/m/alibaba/qwen-image/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [GLM-Image](https://llmpricing.dev/m/zhipuai/glm-image/) — Z.AI, published tariff from $0.015 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0](https://llmpricing.dev/m/alibaba/qwen-image-2.0/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0 Pro](https://llmpricing.dev/m/alibaba/qwen-image-2.0-pro/) — Alibaba Cloud Model Studio, published tariff from $0.075 per image; size, quality and editing conditions may vary
 - [Wan2.7 Image](https://llmpricing.dev/m/misc/wan2.7-image/) — Alibaba Cloud Model Studio, published tariff from $0.03 per image; size, quality and editing conditions may vary
@@ -170,13 +168,12 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [FLUX.2 [klein] 9B](https://llmpricing.dev/m/bfl/flux-2-klein-9b/) — Black Forest Labs, published tariff from $0.015 per image; size, quality and editing conditions may vary
 - [FLUX.2 [max]](https://llmpricing.dev/m/bfl/flux-2-max/) — Black Forest Labs, published tariff from $0.07 per image; size, quality and editing conditions may vary
 - [FLUX.2 [pro]](https://llmpricing.dev/m/bfl/flux-2-pro/) — Black Forest Labs, published tariff from $0.03 per image; size, quality and editing conditions may vary
-- [Imagen-4](https://llmpricing.dev/m/google/imagen-4/) — Google Vertex AI, published tariff from $0.04 per image; size, quality and editing conditions may vary
-- [Imagen-4-Fast](https://llmpricing.dev/m/google/imagen-4-fast/) — Google Vertex AI, published tariff from $0.02 per image; size, quality and editing conditions may vary
-- [Qwen Image Edit](https://llmpricing.dev/m/alibaba/qwen-image-edit/) — Alibaba Cloud Model Studio, published tariff from $0.045 per image; size, quality and editing conditions may vary
+- [Muse Image 1.0](https://llmpricing.dev/m/meta/muse-image-1.0/) — Meta Model API, published tariff from $0.01 per image; size, quality and editing conditions may vary
 - [Recraft V2](https://llmpricing.dev/m/recraft/recraft-v2/) — Recraft, published tariff from $0.022 per image; size, quality and editing conditions may vary
 - [Recraft V3](https://llmpricing.dev/m/recraft/recraft-v3/) — Recraft, published tariff from $0.04 per image; size, quality and editing conditions may vary
 - [Recraft V4](https://llmpricing.dev/m/recraft/recraft-v4/) — Recraft, published tariff from $0.04 per image; size, quality and editing conditions may vary
 - [Recraft V4.1](https://llmpricing.dev/m/recraft/recraft-v4.1/) — Recraft, published tariff from $0.035 per image; size, quality and editing conditions may vary
+- [Recraft V4.1 Flash](https://llmpricing.dev/m/recraft/recraft-v4.1-flash/) — Recraft, published tariff from $0.007 per image; size, quality and editing conditions may vary
 - [Recraft V4.1 Pro](https://llmpricing.dev/m/recraft/recraft-v4.1-pro/) — Recraft, published tariff from $0.21 per image; size, quality and editing conditions may vary
 - [Recraft V4.1 Utility](https://llmpricing.dev/m/recraft/recraft-v4.1-utility/) — Recraft, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Recraft V4.1 Utility Pro](https://llmpricing.dev/m/recraft/recraft-v4.1-utility-pro/) — Recraft, published tariff from $0.21 per image; size, quality and editing conditions may vary
@@ -185,3 +182,4 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Seedream 4.5](https://llmpricing.dev/m/bytedance-seed/seedream-4.5/) — BytePlus ModelArk, published tariff from $0.04 per image; size, quality and editing conditions may vary
 - [Seedream 5.0 Lite](https://llmpricing.dev/m/bytedance-seed/seedream-5.0-lite/) — BytePlus ModelArk, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Seedream 5.0 Pro](https://llmpricing.dev/m/bytedance-seed/seedream-5.0-pro/) — BytePlus ModelArk, published tariff from $0.022 per image; size, quality and editing conditions may vary
+- [Stable Diffusion 3.5 Large](https://llmpricing.dev/m/stabilityai/stable-diffusion-3.5-large/) — Stability AI, published tariff from $0.065 per image; size, quality and editing conditions may vary
