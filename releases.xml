@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:34:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:50:19 GMT</lastBuildDate>
     <item>
       <title>inclusionAI: Ling 3.2 Flash (free)</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</link>
@@ -50,13 +50,19 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Sparrow Auto</title>
+      <link>https://llmpricing.dev/m/sparrow/auto/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/sparrow/auto/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Fable 5.2</title>
       <link>https://llmpricing.dev/m/anthropic/claude-fable-5-2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/anthropic/claude-fable-5-2/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek V4.1 Flash 1017 Uncensored (HeimdaLLM)</title>
+      <title>DeepSeek V4.1 Flash Uncensored</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-uncensored/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-uncensored/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
@@ -98,9 +104,21 @@
       <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ling 3.0 Tiny Thinking</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.0-tiny-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.0-tiny-thinking/</guid>
+      <title>Jad Code</title>
+      <link>https://llmpricing.dev/m/misc/jad-code/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jad-code/</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jad CoWork</title>
+      <link>https://llmpricing.dev/m/misc/jad-ai/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jad-ai/</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jad Go</title>
+      <link>https://llmpricing.dev/m/misc/jad-go/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jad-go/</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -116,7 +134,7 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek V4.1 Flash 1017 Ultrafast</title>
+      <title>DeepSeek: DeepSeek V4.1 Flash 1017 Ultrafast</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
@@ -149,6 +167,12 @@
       <title>KT: Mi:dm K 3.0 Pro</title>
       <link>https://llmpricing.dev/m/kt/midm-k-3.0-pro/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/kt/midm-k-3.0-pro/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.2 Flash</title>
+      <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.2-flash/</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -242,15 +266,9 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Particle AI: Particle-1</title>
+      <title>Particle-1</title>
       <link>https://llmpricing.dev/m/particle-ai/particle-1/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/particle-ai/particle-1/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Particle-1</title>
-      <link>https://llmpricing.dev/m/particle/particle-1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/particle/particle-1/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -273,8 +291,8 @@
     </item>
     <item>
       <title>DeepSeek V4.1 Flash 1017 Uncensored</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-1-flash-1017-uncensored/</guid>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -288,24 +306,6 @@
       <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra-pro/</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iceman Contributor Free</title>
-      <link>https://llmpricing.dev/m/misc/iceman-contributor-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/iceman-contributor-free/</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xing 4.0 29B A4B</title>
-      <link>https://llmpricing.dev/m/xingchen-agi/xing4.0-29b-a4b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xingchen-agi/xing4.0-29b-a4b/</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
