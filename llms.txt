@@ -1,13 +1,13 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1437+ LLM/chat models across 326 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1440+ LLM/chat models across 326 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1437
+- Models: 1440
 - Providers: 326
-- Provider quotes: 9958
-- Data synced: 2026-11-15
+- Provider quotes: 9968
+- Data synced: 2026-11-16
 
 ## About
 
@@ -23,10 +23,10 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official media generation pricing: vendor pricing pages (73 models, checked 2026-11-10).
+- Official media generation pricing: vendor pricing pages (72 models, checked 2026-11-10).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
-- Data is refreshed regularly (last sync 2026-11-15); prices are indicative — always confirm on each provider's official page.
+- Data is refreshed regularly (last sync 2026-11-16); prices are indicative — always confirm on each provider's official page.
 
 ## Key pages
 
@@ -154,7 +154,6 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Grok Imagine Image](https://llmpricing.dev/m/xai/grok-imagine-image/) — xAI, published tariff from $0.02 per image; size, quality and editing conditions may vary
 - [Grok Imagine Image 2.0](https://llmpricing.dev/m/xai/grok-imagine-image-2.0/) — xAI, published tariff from $0.04 per image; size, quality and editing conditions may vary
 - [GLM-Image](https://llmpricing.dev/m/zhipuai/glm-image/) — Z.AI, published tariff from $0.015 per image; size, quality and editing conditions may vary
-- [FLUX.2 Klein 4B](https://llmpricing.dev/m/black-forest-labs/flux.2-klein-4b/) — Black Forest Labs, published tariff from $0.014 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0](https://llmpricing.dev/m/alibaba/qwen-image-2.0/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0 Pro](https://llmpricing.dev/m/alibaba/qwen-image-2.0-pro/) — Alibaba Cloud Model Studio, published tariff from $0.075 per image; size, quality and editing conditions may vary
 - [Wan2.7 Image](https://llmpricing.dev/m/misc/wan2.7-image/) — Alibaba Cloud Model Studio, published tariff from $0.03 per image; size, quality and editing conditions may vary

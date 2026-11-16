@@ -6,7 +6,25 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 08:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:00:11 GMT</lastBuildDate>
+    <item>
+      <title>Hy4 flash</title>
+      <link>https://llmpricing.dev/m/tencent/hy4-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy4-flash/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro Abliterated (Lyber)</title>
+      <link>https://llmpricing.dev/m/moonshotai/kimi-k3.1-pro-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/moonshotai/kimi-k3.1-pro-abliterated/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen4 Max</title>
+      <link>https://llmpricing.dev/m/alibaba/qwen4-max/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/alibaba/qwen4-max/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>inclusionAI: Ling 3.2 Flash (free)</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</link>
@@ -288,24 +306,6 @@
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored-thinking/</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017 Uncensored</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017 Uncensored Thinking</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-uncensored-thinking/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.1-terra/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.1-terra/</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
