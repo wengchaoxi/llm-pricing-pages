@@ -1,12 +1,12 @@
 # LLM Pricing
 
-> Pricing, quality leaderboards and selection tools for 1438+ LLM/chat models across 326 providers. Data from models.dev and Artificial Analysis.
+> Pricing, quality leaderboards and selection tools for 1440+ LLM/chat models across 326 providers. Data from models.dev and Artificial Analysis.
 
 ## Overview
 
-- Models: 1438
+- Models: 1440
 - Providers: 326
-- Provider quotes: 10007
+- Provider quotes: 10010
 - Data synced: 2026-11-17
 
 ## About
@@ -23,7 +23,7 @@ Methodology:
 ## Data sources
 
 - Pricing & capabilities: models.dev (MIT licensed).
-- Official media generation pricing: vendor pricing pages (73 models, checked 2026-11-10).
+- Official media generation pricing: vendor pricing pages (72 models, checked 2026-11-10).
 - Quality, coding, agentic, speed & cost-per-task scores: Artificial Analysis.
 - Real-world usage (30-day tokens): OpenRouter.
 - Data is refreshed regularly (last sync 2026-11-17); prices are indicative — always confirm on each provider's official page.
@@ -75,7 +75,7 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Kimi K3](https://llmpricing.dev/m/moonshotai/kimi-k3/) — Moonshot AI (official), $3.00/$15.00 per 1M, 131 providers
 - [DeepSeek V4.1 Flash](https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash/) — no official API price; lowest paid $0.03/$0.12 per 1M via engy, 124 providers
 - [GPT OSS 120B](https://llmpricing.dev/m/openai/gpt-oss-120b/) — no official API price; lowest paid $0.03/$0.15 per 1M via Eden AI, 109 providers
-- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — no official API price; lowest paid $0.04/$0.079 per 1M via SAGG, 93 providers
+- [DeepSeek V4 Flash 0731](https://llmpricing.dev/m/deepseek/deepseek-v4-flash-0731/) — no official API price; lowest paid $0.04/$0.079 per 1M via SAGG, 92 providers
 - [Kimi K3.1 Pro](https://llmpricing.dev/m/moonshotai/kimi-k3.1-pro/) — Moonshot AI (official), $2.00/$10.00 per 1M, 86 providers
 - [DeepSeek V4 Pro](https://llmpricing.dev/m/deepseek/deepseek-v4-pro/) — no official API price; lowest paid $0.348/$0.696 per 1M via routing.run, 84 providers
 - [Qwen3.8 27B](https://llmpricing.dev/m/alibaba/qwen3.8-27b/) — no official API price; lowest paid $0.045/$0.32 per 1M via engy, 81 providers
@@ -154,7 +154,6 @@ Normalized data is published as free static JSON (CC BY 4.0, no key required):
 - [Grok Imagine Image](https://llmpricing.dev/m/xai/grok-imagine-image/) — xAI, published tariff from $0.02 per image; size, quality and editing conditions may vary
 - [Grok Imagine Image 2.0](https://llmpricing.dev/m/xai/grok-imagine-image-2.0/) — xAI, published tariff from $0.04 per image; size, quality and editing conditions may vary
 - [GLM-Image](https://llmpricing.dev/m/zhipuai/glm-image/) — Z.AI, published tariff from $0.015 per image; size, quality and editing conditions may vary
-- [FLUX.2 Klein 4B](https://llmpricing.dev/m/black-forest-labs/flux.2-klein-4b/) — Black Forest Labs, published tariff from $0.014 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0](https://llmpricing.dev/m/alibaba/qwen-image-2.0/) — Alibaba Cloud Model Studio, published tariff from $0.035 per image; size, quality and editing conditions may vary
 - [Qwen Image 2.0 Pro](https://llmpricing.dev/m/alibaba/qwen-image-2.0-pro/) — Alibaba Cloud Model Studio, published tariff from $0.075 per image; size, quality and editing conditions may vary
 - [Wan2.7 Image](https://llmpricing.dev/m/misc/wan2.7-image/) — Alibaba Cloud Model Studio, published tariff from $0.03 per image; size, quality and editing conditions may vary
