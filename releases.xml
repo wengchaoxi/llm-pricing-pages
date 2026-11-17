@@ -6,7 +6,19 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:26:23 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 Abliterated</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 Abliterated Thinking</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated-thinking/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated-thinking/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hy4 flash</title>
       <link>https://llmpricing.dev/m/tencent/hy4-flash/</link>
@@ -26,7 +38,13 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>inclusionAI: Ling 3.2 Flash (free)</title>
+      <title>Ousia 1</title>
+      <link>https://llmpricing.dev/m/hyperresearch/ousia-1/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/hyperresearch/ousia-1/</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling 3.2 Flash (free)</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
@@ -152,7 +170,7 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek: DeepSeek V4.1 Flash 1017 Ultrafast</title>
+      <title>DeepSeek V4.1 Flash 1017 Ultrafast</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
@@ -254,6 +272,12 @@
       <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>MiMo V2.6 Flash Uncensored</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>inclusionAI: Ling 3.1 Flash 1019</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.1-flash-1019/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.1-flash-1019/</guid>
@@ -264,12 +288,6 @@
       <link>https://llmpricing.dev/m/orca/orcacyber-zero-1.5/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-zero-1.5/</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017 Abliterated</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek V4.1 Flash Cyber</title>
@@ -288,24 +306,6 @@
       <link>https://llmpricing.dev/m/particle-ai/particle-1/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/particle-ai/particle-1/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Particle-1 (free)</title>
-      <link>https://llmpricing.dev/m/particle-ai/particle-1-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/particle-ai/particle-1-free/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 0910 Uncensored</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 0910 Uncensored Thinking</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-0910-uncensored-thinking/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
