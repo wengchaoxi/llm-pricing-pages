@@ -6,7 +6,55 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:44:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:52:05 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 Abliterated CSF (jcartu)</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated-lossless-csf/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated-lossless-csf/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 4 Neon</title>
+      <link>https://llmpricing.dev/m/google/gemini-4-neon/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-4-neon/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber GLM 5.3</title>
+      <link>https://llmpricing.dev/m/zhipuai/orcacyber-glm-5.3/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/orcacyber-glm-5.3/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber Hy4</title>
+      <link>https://llmpricing.dev/m/orca/orcacyber-hy4/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-hy4/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber Ultra 1.0</title>
+      <link>https://llmpricing.dev/m/orca/orcacyber-ultra-1.0/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-ultra-1.0/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber Zero 1.0</title>
+      <link>https://llmpricing.dev/m/orca/orcacyber-zero-1.0/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-zero-1.0/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SuperGemma4 26B Uncensored</title>
+      <link>https://llmpricing.dev/m/jiunsong/supergemma4-26b-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/jiunsong/supergemma4-26b-uncensored/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tidepool Alpha Free</title>
+      <link>https://llmpricing.dev/m/misc/tidepool-alpha-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/tidepool-alpha-free/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Clover 2</title>
       <link>https://llmpricing.dev/m/kitani/clover-2/</link>
@@ -44,6 +92,24 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>MAI Code 2</title>
+      <link>https://llmpricing.dev/m/microsoft/mai-code-2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/microsoft/mai-code-2/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAI Code 2 Flash</title>
+      <link>https://llmpricing.dev/m/microsoft/mai-code-2-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/microsoft/mai-code-2-flash/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 Abliterated</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DeepSeek V4.1 Flash 1017 Abliterated Thinking</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated-thinking/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated-thinking/</guid>
@@ -74,7 +140,13 @@
       <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ling 3.2 Flash (free)</title>
+      <title>GLM 5.3 Flash Uncensored</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>inclusionAI: Ling 3.2 Flash (free)</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
@@ -110,7 +182,7 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nex-N2.6</title>
+      <title>Nex N2.6</title>
       <link>https://llmpricing.dev/m/nex-agi/nex-n2.6/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nex-agi/nex-n2.6/</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
@@ -194,13 +266,7 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Artemis 31B v1.2</title>
-      <link>https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash 1017 Ultrafast</title>
+      <title>DeepSeek: DeepSeek V4.1 Flash 1017 Ultrafast</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
@@ -212,7 +278,7 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LFM3-1.7B</title>
+      <title>LFM3 1.7B</title>
       <link>https://llmpricing.dev/m/liquid/lfm-3-1.7b/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/liquid/lfm-3-1.7b/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
@@ -240,72 +306,6 @@
       <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.2-flash/</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrcaCyber K3.1 Pro Uncensored</title>
-      <link>https://llmpricing.dev/m/orca/orcacyber-k3.1-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-k3.1-pro/</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hy4</title>
-      <link>https://llmpricing.dev/m/tencent/hy4/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/tencent/hy4/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ripple 65B Preview</title>
-      <link>https://llmpricing.dev/m/ricursiveai/ripple-65b-preview/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/ricursiveai/ripple-65b-preview/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assistant Pepe 32B</title>
-      <link>https://llmpricing.dev/m/sicariussicariistuff/assistant-pepe-32b/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/sicariussicariistuff/assistant-pepe-32b/</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 FlashX Legal</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flashx-legal/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flashx-legal/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LongCat-2.5</title>
-      <link>https://llmpricing.dev/m/meituan/longcat-2.5/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/meituan/longcat-2.5/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrcaCyber MiniMax M3.1 Flash Uncensored</title>
-      <link>https://llmpricing.dev/m/minimax/orcacyber-minimax-m3.1-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/minimax/orcacyber-minimax-m3.1-flash/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrcaCyber Qwen3.8 Flash Next Uncensored</title>
-      <link>https://llmpricing.dev/m/orca/orcacyber-qwen3.8-flash-next/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-qwen3.8-flash-next/</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash Heretic</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-heretic/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-heretic/</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4.1 Flash Heretic Thinking</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-heretic-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-heretic-thinking/</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MiMo V2.6 Flash Uncensored</title>
-      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-uncensored/</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
