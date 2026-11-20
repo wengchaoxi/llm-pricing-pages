@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:52:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:39:55 GMT</lastBuildDate>
     <item>
       <title>DeepSeek V4.1 Flash 1017 Abliterated CSF (jcartu)</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-abliterated-lossless-csf/</link>
@@ -140,10 +140,22 @@
       <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GLM 5.3 Flash Uncensored</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <title>DeepSeek V4.1 Flash Abliterated</title>
+      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-abliterated/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.3 Abliterated</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-abliterated/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM 5.3 Flash Abliterated</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-abliterated/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-abliterated/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>inclusionAI: Ling 3.2 Flash (free)</title>
@@ -266,6 +278,12 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Artemis 31B v1.2</title>
+      <link>https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DeepSeek: DeepSeek V4.1 Flash 1017 Ultrafast</title>
       <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</guid>
@@ -288,24 +306,6 @@
       <link>https://llmpricing.dev/m/liquid/lfm-3-1.7b-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/liquid/lfm-3-1.7b-free/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inkling 2 Small</title>
-      <link>https://llmpricing.dev/m/thinkingmachines/inkling-2-small/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/thinkingmachines/inkling-2-small/</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KT: Mi:dm K 3.0 Pro</title>
-      <link>https://llmpricing.dev/m/kt/midm-k-3.0-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/kt/midm-k-3.0-pro/</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ling 3.2 Flash</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.2-flash/</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
