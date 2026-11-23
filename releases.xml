@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:33:28 GMT</lastBuildDate>
     <item>
       <title>GLM-5.4</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.4/</link>
