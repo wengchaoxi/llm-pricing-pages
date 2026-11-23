@@ -6,7 +6,13 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 09:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:17:47 GMT</lastBuildDate>
+    <item>
+      <title>GLM-5.4</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.4/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.4/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>DaisyRose 27B</title>
       <link>https://llmpricing.dev/m/radixark/daisyrose-27b/</link>
@@ -212,7 +218,7 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nex-N2.6</title>
+      <title>Nex N2.6</title>
       <link>https://llmpricing.dev/m/nex-agi/nex-n2.6/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nex-agi/nex-n2.6/</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
@@ -299,12 +305,6 @@
       <title>Artemis 31B v1.2</title>
       <link>https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek: DeepSeek V4.1 Flash 1017 Ultrafast</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4.1-flash-1017-ultrafast/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
