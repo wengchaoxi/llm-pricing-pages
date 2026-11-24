@@ -6,11 +6,41 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:00:24 GMT</lastBuildDate>
+    <item>
+      <title>HungerG Free</title>
+      <link>https://llmpricing.dev/m/misc/hungerg-free/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/hungerg-free/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>GLM-5.4</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.4/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.4/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber Hy4 Flash</title>
+      <link>https://llmpricing.dev/m/orca/orcacyber-hy4-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-hy4-flash/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber Inkling 2 Mini</title>
+      <link>https://llmpricing.dev/m/orca/orcacyber-inkling-2-mini/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-inkling-2-mini/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber Ling 3.2 Flash</title>
+      <link>https://llmpricing.dev/m/orca/orcacyber-ling-3.2-flash/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-ling-3.2-flash/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OrcaCyber Step 5 Preview</title>
+      <link>https://llmpricing.dev/m/stepfun/orcacyber-step-5-preview/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/stepfun/orcacyber-step-5-preview/</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -23,7 +53,7 @@
       <title>Inkling 2 Mini</title>
       <link>https://llmpricing.dev/m/thinkingmachines/inkling-2-mini/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/thinkingmachines/inkling-2-mini/</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Kimi K3.1 Pro Prime</title>
@@ -182,6 +212,12 @@
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GLM 5.3 Flash Uncensored</title>
+      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>inclusionAI: Ling 3.2 Flash (free)</title>
       <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</guid>
@@ -218,7 +254,7 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nex N2.6</title>
+      <title>Nex-N2.6</title>
       <link>https://llmpricing.dev/m/nex-agi/nex-n2.6/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/nex-agi/nex-n2.6/</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
@@ -270,42 +306,6 @@
       <link>https://llmpricing.dev/m/xiaomi/orcacyber-mimo-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/orcacyber-mimo-flash/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V4 Pro Qwen3.5 9B Uncensored Heretic</title>
-      <link>https://llmpricing.dev/m/deepseek/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/deepseek-v4-pro-qwen3.5-9b-uncensored-heretic/</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jad Code</title>
-      <link>https://llmpricing.dev/m/misc/jad-code/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jad-code/</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jad CoWork</title>
-      <link>https://llmpricing.dev/m/misc/jad-ai/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jad-ai/</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jad Go</title>
-      <link>https://llmpricing.dev/m/misc/jad-go/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/misc/jad-go/</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ampersand v0.1</title>
-      <link>https://llmpricing.dev/m/humansand/ampersand-v0.1/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/humansand/ampersand-v0.1/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Artemis 31B v1.2</title>
-      <link>https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/thedrummer/artemis-31b-v1.2/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
