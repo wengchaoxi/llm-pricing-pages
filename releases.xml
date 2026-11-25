@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:53:33 GMT</lastBuildDate>
     <item>
       <title>HungerG Free</title>
       <link>https://llmpricing.dev/m/misc/hungerg-free/</link>
@@ -14,9 +14,27 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Solar Mini 4.5 (Preview)</title>
+      <link>https://llmpricing.dev/m/upstage/solar-mini-4-5/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-mini-4-5/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solar Pro 4 Contributor</title>
+      <link>https://llmpricing.dev/m/upstage/solar-pro-4-contributor/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/upstage/solar-pro-4-contributor/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GLM-5.4</title>
       <link>https://llmpricing.dev/m/zhipuai/glm-5.4/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.4/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo-V2.6-Flash-MOPD</title>
+      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-mopd/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-mopd/</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -71,6 +89,12 @@
       <title>Gemini 4 Neon</title>
       <link>https://llmpricing.dev/m/google/gemini-4-neon/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-4-neon/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olala-v1.0-translate</title>
+      <link>https://llmpricing.dev/m/misc/olala-v1.0-translate/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/misc/olala-v1.0-translate/</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -129,8 +153,8 @@
     </item>
     <item>
       <title>GPT-6.2 Astra Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.2-astra-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.2-astra-pro/</guid>
+      <link>https://llmpricing.dev/m/openai/openai-gpt-62-astra-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-62-astra-pro/</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -141,8 +165,8 @@
     </item>
     <item>
       <title>GPT-6.2 Sol Pro</title>
-      <link>https://llmpricing.dev/m/openai/gpt-6.2-sol-pro/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/openai/gpt-6.2-sol-pro/</guid>
+      <link>https://llmpricing.dev/m/openai/openai-gpt-62-sol-pro/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/openai/openai-gpt-62-sol-pro/</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -210,12 +234,6 @@
       <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-abliterated/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-abliterated/</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM 5.3 Flash Uncensored</title>
-      <link>https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/glm-5.3-flash-uncensored/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>inclusionAI: Ling 3.2 Flash (free)</title>
@@ -287,24 +305,6 @@
       <title>OrcaCyber DeepSeek V4.1 Flash</title>
       <link>https://llmpricing.dev/m/deepseek/orcacyber-flash-1.0/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/orcacyber-flash-1.0/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrcaCyber DeepSeek V4.1 Flash Thinking</title>
-      <link>https://llmpricing.dev/m/deepseek/orcacyber-flash-1.0-thinking/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/deepseek/orcacyber-flash-1.0-thinking/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrcaCyber GLM 5.3 Flash</title>
-      <link>https://llmpricing.dev/m/zhipuai/orcacyber-glm-5.3-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/zhipuai/orcacyber-glm-5.3-flash/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OrcaCyber MiMo V2.6 Flash</title>
-      <link>https://llmpricing.dev/m/xiaomi/orcacyber-mimo-flash/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/orcacyber-mimo-flash/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
