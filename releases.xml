@@ -6,7 +6,7 @@
     <atom:link href="https://llmpricing.dev/releases.xml" rel="self" type="application/rss+xml" />
     <description>New large language model releases, each linking to its pricing and capability page on LLM Pricing.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:31:24 GMT</lastBuildDate>
     <item>
       <title>Seaglass Alpha Free</title>
       <link>https://llmpricing.dev/m/misc/seaglass-alpha-free/</link>
@@ -80,12 +80,6 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>MiMo-V2.6-Flash-MOPD</title>
-      <link>https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-mopd/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/xiaomi/mimo-v2.6-flash-mopd/</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>OrcaCyber Hy4 Flash</title>
       <link>https://llmpricing.dev/m/orca/orcacyber-hy4-flash/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/orca/orcacyber-hy4-flash/</guid>
@@ -126,6 +120,12 @@
       <link>https://llmpricing.dev/m/moonshotai/kimi-k3.1-pro-prime/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/moonshotai/kimi-k3.1-pro-prime/</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LingSante 3.1 Air VL</title>
+      <link>https://llmpricing.dev/m/inclusionai/lingsante-3.1-air-vl/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/lingsante-3.1-air-vl/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek V4.1 Flash 1017 Abliterated CSF (jcartu)</title>
@@ -284,12 +284,6 @@
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>inclusionAI: Ling 3.2 Flash (free)</title>
-      <link>https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</link>
-      <guid isPermaLink="true">https://llmpricing.dev/m/inclusionai/ling-3.2-flash-free/</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Gemini 4 Hydrogen</title>
       <link>https://llmpricing.dev/m/google/gemini-4-hydrogen/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/google/gemini-4-hydrogen/</guid>
@@ -305,6 +299,12 @@
       <title>Baidu: ERNIE-5.5-Flash-Preview (free)</title>
       <link>https://llmpricing.dev/m/baidu/ernie-5.5-flash-preview-free/</link>
       <guid isPermaLink="true">https://llmpricing.dev/m/baidu/ernie-5.5-flash-preview-free/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baidu: ERNIE-Light-DT-1.0</title>
+      <link>https://llmpricing.dev/m/baidu/ernie-light-dt-1.0-intl/</link>
+      <guid isPermaLink="true">https://llmpricing.dev/m/baidu/ernie-light-dt-1.0-intl/</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
